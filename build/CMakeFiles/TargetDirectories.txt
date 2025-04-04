@@ -1,0 +1,7 @@
+/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles/server_a_forwarding.dir
+/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles/server_b.dir
+/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles/server_c.dir
+/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles/server_d.dir
+/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles/server_e.dir
+/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles/edit_cache.dir
+/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles/rebuild_cache.dir

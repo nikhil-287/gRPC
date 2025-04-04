@@ -1,0 +1,23 @@
+{
+  "nodes": {
+    "A": { "listen_port": 50051 },
+    "B": { "listen_port": 50052 },
+    "C": { "listen_port": 50053 },
+    "D": { "listen_port": 50054 },
+    "E": { "listen_port": 50055 }
+  },
+  "routing_table": {
+    "A": ["B"],
+    "B": ["C", "D"],
+    "C": ["E"],
+    "D": ["E"],
+    "E": []
+  },
+  "address_map": {
+    "A": "localhost:50051",
+    "B": "localhost:50052",
+    "C": "localhost:50053",
+    "D": "localhost:50054",
+    "E": "localhost:50055"
+  }
+}

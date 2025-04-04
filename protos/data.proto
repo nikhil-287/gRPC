@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package dataservice;
+
+service DataService {
+  rpc SendData (DataRequest) returns (Empty);
+}
+
+message DataRequest {
+  string payload = 1;
+}
+
+message Empty {}
