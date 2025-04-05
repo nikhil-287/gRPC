@@ -181,6 +181,19 @@ server_e/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_e.dir/build.make CMakeFiles/server_e.dir/build
 .PHONY : server_e/fast
 
+#=============================================================================
+# Target rules for targets named inspect_shared_memory
+
+# Build rule for target.
+inspect_shared_memory: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 inspect_shared_memory
+.PHONY : inspect_shared_memory
+
+# fast build rule for target.
+inspect_shared_memory/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/inspect_shared_memory.dir/build.make CMakeFiles/inspect_shared_memory.dir/build
+.PHONY : inspect_shared_memory/fast
+
 servers/config_loader.o: servers/config_loader.cpp.o
 .PHONY : servers/config_loader.o
 
@@ -391,6 +404,30 @@ servers/server_receiver.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_e.dir/build.make CMakeFiles/server_e.dir/servers/server_receiver.cpp.s
 .PHONY : servers/server_receiver.cpp.s
 
+tools/inspect_shared_memory.o: tools/inspect_shared_memory.cpp.o
+.PHONY : tools/inspect_shared_memory.o
+
+# target to build an object file
+tools/inspect_shared_memory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/inspect_shared_memory.dir/build.make CMakeFiles/inspect_shared_memory.dir/tools/inspect_shared_memory.cpp.o
+.PHONY : tools/inspect_shared_memory.cpp.o
+
+tools/inspect_shared_memory.i: tools/inspect_shared_memory.cpp.i
+.PHONY : tools/inspect_shared_memory.i
+
+# target to preprocess a source file
+tools/inspect_shared_memory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/inspect_shared_memory.dir/build.make CMakeFiles/inspect_shared_memory.dir/tools/inspect_shared_memory.cpp.i
+.PHONY : tools/inspect_shared_memory.cpp.i
+
+tools/inspect_shared_memory.s: tools/inspect_shared_memory.cpp.s
+.PHONY : tools/inspect_shared_memory.s
+
+# target to generate assembly for a file
+tools/inspect_shared_memory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/inspect_shared_memory.dir/build.make CMakeFiles/inspect_shared_memory.dir/tools/inspect_shared_memory.cpp.s
+.PHONY : tools/inspect_shared_memory.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -399,6 +436,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... inspect_shared_memory"
 	@echo "... server_a_forwarding"
 	@echo "... server_b"
 	@echo "... server_c"
@@ -425,6 +463,9 @@ help:
 	@echo "... servers/server_receiver.o"
 	@echo "... servers/server_receiver.i"
 	@echo "... servers/server_receiver.s"
+	@echo "... tools/inspect_shared_memory.o"
+	@echo "... tools/inspect_shared_memory.i"
+	@echo "... tools/inspect_shared_memory.s"
 .PHONY : help
 
 

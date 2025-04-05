@@ -68,6 +68,7 @@ all: CMakeFiles/server_b.dir/all
 all: CMakeFiles/server_c.dir/all
 all: CMakeFiles/server_d.dir/all
 all: CMakeFiles/server_e.dir/all
+all: CMakeFiles/inspect_shared_memory.dir/all
 .PHONY : all
 
 # The main recursive "codegen" target.
@@ -76,6 +77,7 @@ codegen: CMakeFiles/server_b.dir/codegen
 codegen: CMakeFiles/server_c.dir/codegen
 codegen: CMakeFiles/server_d.dir/codegen
 codegen: CMakeFiles/server_e.dir/codegen
+codegen: CMakeFiles/inspect_shared_memory.dir/codegen
 .PHONY : codegen
 
 # The main recursive "preinstall" target.
@@ -88,6 +90,7 @@ clean: CMakeFiles/server_b.dir/clean
 clean: CMakeFiles/server_c.dir/clean
 clean: CMakeFiles/server_d.dir/clean
 clean: CMakeFiles/server_e.dir/clean
+clean: CMakeFiles/inspect_shared_memory.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -97,7 +100,7 @@ clean: CMakeFiles/server_e.dir/clean
 CMakeFiles/server_a_forwarding.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_a_forwarding.dir/build.make CMakeFiles/server_a_forwarding.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_a_forwarding.dir/build.make CMakeFiles/server_a_forwarding.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=1,2,3,4,5 "Built target server_a_forwarding"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=3,4,5,6,7 "Built target server_a_forwarding"
 .PHONY : CMakeFiles/server_a_forwarding.dir/all
 
 # Build rule for subdir invocation for target.
@@ -114,7 +117,7 @@ server_a_forwarding: CMakeFiles/server_a_forwarding.dir/rule
 # codegen rule for target.
 CMakeFiles/server_a_forwarding.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_a_forwarding.dir/build.make CMakeFiles/server_a_forwarding.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=1,2,3,4,5 "Finished codegen for target server_a_forwarding"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=3,4,5,6,7 "Finished codegen for target server_a_forwarding"
 .PHONY : CMakeFiles/server_a_forwarding.dir/codegen
 
 # clean rule for target.
@@ -129,7 +132,7 @@ CMakeFiles/server_a_forwarding.dir/clean:
 CMakeFiles/server_b.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_b.dir/build.make CMakeFiles/server_b.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_b.dir/build.make CMakeFiles/server_b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=6,7,8,9,10,11 "Built target server_b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=8,9,10,11,12,13 "Built target server_b"
 .PHONY : CMakeFiles/server_b.dir/all
 
 # Build rule for subdir invocation for target.
@@ -146,7 +149,7 @@ server_b: CMakeFiles/server_b.dir/rule
 # codegen rule for target.
 CMakeFiles/server_b.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_b.dir/build.make CMakeFiles/server_b.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=6,7,8,9,10,11 "Finished codegen for target server_b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=8,9,10,11,12,13 "Finished codegen for target server_b"
 .PHONY : CMakeFiles/server_b.dir/codegen
 
 # clean rule for target.
@@ -161,7 +164,7 @@ CMakeFiles/server_b.dir/clean:
 CMakeFiles/server_c.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_c.dir/build.make CMakeFiles/server_c.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_c.dir/build.make CMakeFiles/server_c.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=12,13,14,15,16 "Built target server_c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=14,15,16,17,18 "Built target server_c"
 .PHONY : CMakeFiles/server_c.dir/all
 
 # Build rule for subdir invocation for target.
@@ -178,7 +181,7 @@ server_c: CMakeFiles/server_c.dir/rule
 # codegen rule for target.
 CMakeFiles/server_c.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_c.dir/build.make CMakeFiles/server_c.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=12,13,14,15,16 "Finished codegen for target server_c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=14,15,16,17,18 "Finished codegen for target server_c"
 .PHONY : CMakeFiles/server_c.dir/codegen
 
 # clean rule for target.
@@ -193,7 +196,7 @@ CMakeFiles/server_c.dir/clean:
 CMakeFiles/server_d.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_d.dir/build.make CMakeFiles/server_d.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_d.dir/build.make CMakeFiles/server_d.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=17,18,19,20,21 "Built target server_d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=19,20,21,22,23 "Built target server_d"
 .PHONY : CMakeFiles/server_d.dir/all
 
 # Build rule for subdir invocation for target.
@@ -210,7 +213,7 @@ server_d: CMakeFiles/server_d.dir/rule
 # codegen rule for target.
 CMakeFiles/server_d.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_d.dir/build.make CMakeFiles/server_d.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=17,18,19,20,21 "Finished codegen for target server_d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=19,20,21,22,23 "Finished codegen for target server_d"
 .PHONY : CMakeFiles/server_d.dir/codegen
 
 # clean rule for target.
@@ -225,7 +228,7 @@ CMakeFiles/server_d.dir/clean:
 CMakeFiles/server_e.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_e.dir/build.make CMakeFiles/server_e.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_e.dir/build.make CMakeFiles/server_e.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=22,23,24,25,26 "Built target server_e"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=24,25,26,27,28 "Built target server_e"
 .PHONY : CMakeFiles/server_e.dir/all
 
 # Build rule for subdir invocation for target.
@@ -242,13 +245,45 @@ server_e: CMakeFiles/server_e.dir/rule
 # codegen rule for target.
 CMakeFiles/server_e.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_e.dir/build.make CMakeFiles/server_e.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=22,23,24,25,26 "Finished codegen for target server_e"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=24,25,26,27,28 "Finished codegen for target server_e"
 .PHONY : CMakeFiles/server_e.dir/codegen
 
 # clean rule for target.
 CMakeFiles/server_e.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/server_e.dir/build.make CMakeFiles/server_e.dir/clean
 .PHONY : CMakeFiles/server_e.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/inspect_shared_memory.dir
+
+# All Build rule for target.
+CMakeFiles/inspect_shared_memory.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/inspect_shared_memory.dir/build.make CMakeFiles/inspect_shared_memory.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/inspect_shared_memory.dir/build.make CMakeFiles/inspect_shared_memory.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=1,2 "Built target inspect_shared_memory"
+.PHONY : CMakeFiles/inspect_shared_memory.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/inspect_shared_memory.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/inspect_shared_memory.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles 0
+.PHONY : CMakeFiles/inspect_shared_memory.dir/rule
+
+# Convenience name for target.
+inspect_shared_memory: CMakeFiles/inspect_shared_memory.dir/rule
+.PHONY : inspect_shared_memory
+
+# codegen rule for target.
+CMakeFiles/inspect_shared_memory.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/inspect_shared_memory.dir/build.make CMakeFiles/inspect_shared_memory.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=1,2 "Finished codegen for target inspect_shared_memory"
+.PHONY : CMakeFiles/inspect_shared_memory.dir/codegen
+
+# clean rule for target.
+CMakeFiles/inspect_shared_memory.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/inspect_shared_memory.dir/build.make CMakeFiles/inspect_shared_memory.dir/clean
+.PHONY : CMakeFiles/inspect_shared_memory.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

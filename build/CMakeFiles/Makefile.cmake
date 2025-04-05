@@ -143,4 +143,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/server_c.dir/DependInfo.cmake"
   "CMakeFiles/server_d.dir/DependInfo.cmake"
   "CMakeFiles/server_e.dir/DependInfo.cmake"
+  "CMakeFiles/inspect_shared_memory.dir/DependInfo.cmake"
   )

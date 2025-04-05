@@ -1,16 +1,16 @@
 #include "scatter.h"
 #include "config_loader.h"
 #include "data.grpc.pb.h"
+#include "shared_data.h"
 
 #include <grpcpp/grpcpp.h>
 #include <iostream>
 #include <vector>
+#include <semaphore.h>
 #include <unistd.h>
 #include <sys/wait.h>
 #include <csignal>
 #include <cstring>
-#include <map>
-#include <mutex>
 
 using dataservice::DataRequest;
 using dataservice::DataService;
@@ -18,6 +18,9 @@ using dataservice::Empty;
 using grpc::Channel;
 using grpc::ClientContext;
 using grpc::Status;
+
+extern SharedData *shared_data;
+extern sem_t *shared_mutex;
 
 namespace
 {
@@ -29,51 +32,67 @@ namespace
 
   std::vector<Worker> workers;
   int current_worker = 0;
+
   RoutingConfig g_config;
 
-  std::map<std::string, int> load_map;
-
-  // No shared stubs or channels across forks
-
-  std::string get_least_loaded_neighbor()
+  void forward_to_neighbors(const std::string &payload)
   {
-    std::string min_node;
-    int min_load = INT32_MAX;
     for (const auto &neighbor : g_config.neighbors)
     {
-      if (load_map[neighbor] < min_load)
+      std::string address = g_config.address_map[neighbor];
+      auto channel = grpc::CreateChannel(address, grpc::InsecureChannelCredentials());
+
+      if (!channel->WaitForConnected(gpr_time_add(gpr_now(GPR_CLOCK_REALTIME), gpr_time_from_seconds(2, GPR_TIMESPAN))))
       {
-        min_load = load_map[neighbor];
-        min_node = neighbor;
+        std::cerr << "[Scatter] ❌ Timeout while connecting to " << neighbor << " at " << address << std::endl;
+        continue;
       }
-    }
-    return min_node;
-  }
 
-  void forward_to_least_loaded(const std::string &payload)
-  {
-    std::string target_node = get_least_loaded_neighbor();
-    std::string address = g_config.address_map[target_node];
+      std::unique_ptr<DataService::Stub> stub = DataService::NewStub(channel);
 
-    auto channel = grpc::CreateChannel(address, grpc::InsecureChannelCredentials());
-    std::unique_ptr<DataService::Stub> stub = DataService::NewStub(channel);
+      DataRequest request;
+      request.set_payload(payload);
+      Empty response;
+      ClientContext context;
 
-    DataRequest request;
-    request.set_payload(payload);
-    Empty response;
-    ClientContext context;
+      std::cout << "[Scatter] 🔁 Sending to " << neighbor << " at " << address << std::endl;
 
-    std::cout << "[Scatter] 🔁 Sending to " << target_node << " at " << address << std::endl;
+      Status status = stub->SendData(&context, request, &response);
+      if (status.ok())
+      {
+        std::cout << "[Scatter] ✅ Successfully sent to " << neighbor << std::endl;
 
-    Status status = stub->SendData(&context, request, &response);
-    if (status.ok())
-    {
-      std::cout << "[Scatter] ✅ Forwarded to " << target_node << std::endl;
-      load_map[target_node]++;
-    }
-    else
-    {
-      std::cerr << "[Scatter] ❌ Failed to forward to " << target_node << ": " << status.error_message() << std::endl;
+        // 🔐 Update shared memory load tracking
+        if (shared_mutex && shared_data)
+        {
+          sem_wait(shared_mutex);
+
+          bool found = false;
+          for (int i = 0; i < shared_data->num_neighbors; ++i)
+          {
+            if (strcmp(shared_data->loads[i].name, neighbor.c_str()) == 0)
+            {
+              shared_data->loads[i].load_count++;
+              found = true;
+              break;
+            }
+          }
+
+          if (!found && shared_data->num_neighbors < MAX_NEIGHBORS)
+          {
+            strncpy(shared_data->loads[shared_data->num_neighbors].name, neighbor.c_str(), MAX_NAME_LEN - 1);
+            shared_data->loads[shared_data->num_neighbors].name[MAX_NAME_LEN - 1] = '\0';
+            shared_data->loads[shared_data->num_neighbors].load_count = 1;
+            shared_data->num_neighbors++;
+          }
+
+          sem_post(shared_mutex);
+        }
+      }
+      else
+      {
+        std::cerr << "[Scatter] ❌ Failed to send to " << neighbor << ": " << status.error_message() << std::endl;
+      }
     }
   }
 
@@ -88,7 +107,8 @@ namespace
         buffer[bytes] = '\0';
         std::string payload(buffer);
         std::cout << "[Worker " << id << "] received: " << payload << std::endl;
-        forward_to_least_loaded(payload);
+
+        forward_to_neighbors(payload);
       }
     }
   }
@@ -97,16 +117,6 @@ namespace
 void init_workers(int num_workers, const RoutingConfig &config)
 {
   g_config = config;
-  load_map.clear();
-  for (const auto &neighbor : config.neighbors)
-  {
-    load_map[neighbor] = 0;
-  }
-
-  std::cout << "[Scatter] Initialized stubs for neighbors: ";
-  for (const auto &n : config.neighbors)
-    std::cout << n << " ";
-  std::cout << std::endl;
 
   for (int i = 0; i < num_workers; ++i)
   {
@@ -125,13 +135,13 @@ void init_workers(int num_workers, const RoutingConfig &config)
     }
     else if (pid == 0)
     {
-      close(pipefd[1]);
+      close(pipefd[1]); // child closes write
       worker_loop(pipefd[0], i);
       exit(0);
     }
     else
     {
-      close(pipefd[0]);
+      close(pipefd[0]); // parent closes read
       workers.push_back({pipefd[1], pid});
     }
   }

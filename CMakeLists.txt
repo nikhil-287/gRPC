@@ -17,9 +17,10 @@ add_executable(server_a_forwarding
 add_executable(server_b
   servers/server_b.cpp
   servers/scatter.cpp
-  servers/data.pb.cc
   servers/config_loader.cpp
+  servers/data.pb.cc
   servers/data.grpc.pb.cc
+  servers/shared_data.h
 )
 
 add_executable(server_c
@@ -27,6 +28,7 @@ add_executable(server_c
   servers/config_loader.cpp
   servers/data.pb.cc
   servers/data.grpc.pb.cc
+  servers/shared_data.h
 )
 
 add_executable(server_d
@@ -34,6 +36,7 @@ add_executable(server_d
   servers/config_loader.cpp
   servers/data.pb.cc
   servers/data.grpc.pb.cc
+  servers/shared_data.h
 )
 
 add_executable(server_e
@@ -41,10 +44,22 @@ add_executable(server_e
   servers/config_loader.cpp
   servers/data.pb.cc
   servers/data.grpc.pb.cc
+  servers/shared_data.h
+)
+
+# === Shared Memory Inspection Tool ===
+add_executable(inspect_shared_memory
+  tools/inspect_shared_memory.cpp
+  servers/shared_data.h
 )
 
 # === Common include path ===
 target_include_directories(server_a_forwarding PRIVATE servers/)
+target_include_directories(server_b PRIVATE servers/)
+target_include_directories(server_c PRIVATE servers/)
+target_include_directories(server_d PRIVATE servers/)
+target_include_directories(server_e PRIVATE servers/)
+target_include_directories(inspect_shared_memory PRIVATE servers/)
 
 # === Dependencies ===
 set(GRPC_DEPS
@@ -74,7 +89,7 @@ set(GRPC_DEPS
   z
 )
 
-# === Link all servers ===
-foreach(target IN ITEMS server_a_forwarding server_b server_c server_d server_e)
-  target_link_libraries(${target} ${GRPC_DEPS})
+# === Link all servers and tools ===
+foreach(target IN ITEMS server_a_forwarding server_b server_c server_d server_e inspect_shared_memory)
+  target_link_libraries(${target} ${GRPC_DEPS} pthread)
 endforeach()

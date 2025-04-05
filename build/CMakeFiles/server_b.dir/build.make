@@ -100,24 +100,10 @@ CMakeFiles/server_b.dir/servers/scatter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/server_b.dir/servers/scatter.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikhilkoli/Downloads/275mini2/mini2/servers/scatter.cpp -o CMakeFiles/server_b.dir/servers/scatter.cpp.s
 
-CMakeFiles/server_b.dir/servers/data.pb.cc.o: CMakeFiles/server_b.dir/flags.make
-CMakeFiles/server_b.dir/servers/data.pb.cc.o: /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.pb.cc
-CMakeFiles/server_b.dir/servers/data.pb.cc.o: CMakeFiles/server_b.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/server_b.dir/servers/data.pb.cc.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/server_b.dir/servers/data.pb.cc.o -MF CMakeFiles/server_b.dir/servers/data.pb.cc.o.d -o CMakeFiles/server_b.dir/servers/data.pb.cc.o -c /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.pb.cc
-
-CMakeFiles/server_b.dir/servers/data.pb.cc.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/server_b.dir/servers/data.pb.cc.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.pb.cc > CMakeFiles/server_b.dir/servers/data.pb.cc.i
-
-CMakeFiles/server_b.dir/servers/data.pb.cc.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/server_b.dir/servers/data.pb.cc.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.pb.cc -o CMakeFiles/server_b.dir/servers/data.pb.cc.s
-
 CMakeFiles/server_b.dir/servers/config_loader.cpp.o: CMakeFiles/server_b.dir/flags.make
 CMakeFiles/server_b.dir/servers/config_loader.cpp.o: /Users/nikhilkoli/Downloads/275mini2/mini2/servers/config_loader.cpp
 CMakeFiles/server_b.dir/servers/config_loader.cpp.o: CMakeFiles/server_b.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/server_b.dir/servers/config_loader.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/server_b.dir/servers/config_loader.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/server_b.dir/servers/config_loader.cpp.o -MF CMakeFiles/server_b.dir/servers/config_loader.cpp.o.d -o CMakeFiles/server_b.dir/servers/config_loader.cpp.o -c /Users/nikhilkoli/Downloads/275mini2/mini2/servers/config_loader.cpp
 
 CMakeFiles/server_b.dir/servers/config_loader.cpp.i: cmake_force
@@ -127,6 +113,20 @@ CMakeFiles/server_b.dir/servers/config_loader.cpp.i: cmake_force
 CMakeFiles/server_b.dir/servers/config_loader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/server_b.dir/servers/config_loader.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikhilkoli/Downloads/275mini2/mini2/servers/config_loader.cpp -o CMakeFiles/server_b.dir/servers/config_loader.cpp.s
+
+CMakeFiles/server_b.dir/servers/data.pb.cc.o: CMakeFiles/server_b.dir/flags.make
+CMakeFiles/server_b.dir/servers/data.pb.cc.o: /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.pb.cc
+CMakeFiles/server_b.dir/servers/data.pb.cc.o: CMakeFiles/server_b.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/nikhilkoli/Downloads/275mini2/mini2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/server_b.dir/servers/data.pb.cc.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/server_b.dir/servers/data.pb.cc.o -MF CMakeFiles/server_b.dir/servers/data.pb.cc.o.d -o CMakeFiles/server_b.dir/servers/data.pb.cc.o -c /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.pb.cc
+
+CMakeFiles/server_b.dir/servers/data.pb.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/server_b.dir/servers/data.pb.cc.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.pb.cc > CMakeFiles/server_b.dir/servers/data.pb.cc.i
+
+CMakeFiles/server_b.dir/servers/data.pb.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/server_b.dir/servers/data.pb.cc.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.pb.cc -o CMakeFiles/server_b.dir/servers/data.pb.cc.s
 
 CMakeFiles/server_b.dir/servers/data.grpc.pb.cc.o: CMakeFiles/server_b.dir/flags.make
 CMakeFiles/server_b.dir/servers/data.grpc.pb.cc.o: /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.grpc.pb.cc
@@ -146,8 +146,8 @@ CMakeFiles/server_b.dir/servers/data.grpc.pb.cc.s: cmake_force
 server_b_OBJECTS = \
 "CMakeFiles/server_b.dir/servers/server_b.cpp.o" \
 "CMakeFiles/server_b.dir/servers/scatter.cpp.o" \
-"CMakeFiles/server_b.dir/servers/data.pb.cc.o" \
 "CMakeFiles/server_b.dir/servers/config_loader.cpp.o" \
+"CMakeFiles/server_b.dir/servers/data.pb.cc.o" \
 "CMakeFiles/server_b.dir/servers/data.grpc.pb.cc.o"
 
 # External object files for target server_b
@@ -155,8 +155,8 @@ server_b_EXTERNAL_OBJECTS =
 
 server_b: CMakeFiles/server_b.dir/servers/server_b.cpp.o
 server_b: CMakeFiles/server_b.dir/servers/scatter.cpp.o
-server_b: CMakeFiles/server_b.dir/servers/data.pb.cc.o
 server_b: CMakeFiles/server_b.dir/servers/config_loader.cpp.o
+server_b: CMakeFiles/server_b.dir/servers/data.pb.cc.o
 server_b: CMakeFiles/server_b.dir/servers/data.grpc.pb.cc.o
 server_b: CMakeFiles/server_b.dir/build.make
 server_b: CMakeFiles/server_b.dir/link.txt

@@ -1351,6 +1351,7 @@ CMakeFiles/server_b.dir/servers/scatter.cpp.o: \
   /opt/homebrew/include/grpcpp/support/stub_options.h \
   /opt/homebrew/include/grpcpp/ports_def.inc \
   /opt/homebrew/include/grpcpp/ports_undef.inc \
+  /Users/nikhilkoli/Downloads/275mini2/mini2/servers/shared_data.h \
   /opt/homebrew/include/grpcpp/grpcpp.h \
   /opt/homebrew/include/grpcpp/channel.h \
   /opt/homebrew/include/grpcpp/create_channel.h \
@@ -1410,5 +1411,12 @@ CMakeFiles/server_b.dir/servers/scatter.cpp.o: \
   /opt/homebrew/include/grpcpp/security/authorization_policy_provider.h \
   /opt/homebrew/include/grpcpp/server_posix.h \
   /opt/homebrew/include/grpcpp/version_info.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/semaphore.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/fcntl.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_o_sync.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_o_dsync.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_s_ifmt.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_filesec_t.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/semaphore.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/csignal \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/signal.h
