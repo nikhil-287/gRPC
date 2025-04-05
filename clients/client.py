@@ -2,22 +2,28 @@ import grpc
 import data_pb2 as data_pb2
 import data_pb2_grpc as data_pb2_grpc
 import time
+import random
 
 def run():
     channel = grpc.insecure_channel('localhost:50051')  # Node A's address
     stub = data_pb2_grpc.DataServiceStub(channel)
 
-    messages = [
-        "userID:001,event:login",
-        "userID:002,event:purchase",
-        "userID:003,event:signup"
+    events = [
+        "login", "purchase", "signup", "logout", "update",
+        "delete", "reset_password", "view", "click", "add_to_cart"
     ]
 
-    for msg in messages:
-        request = data_pb2.DataRequest(payload=msg)
+    num_messages = int(input("Enter number of messages to send: "))
+
+    for i in range(num_messages):
+        user_id = f"{100 + i:03}"
+        event = random.choice(events)
+        payload = f"userID:{user_id},event:{event}"
+
+        request = data_pb2.DataRequest(payload=payload)
         stub.SendData(request)
-        print(f"Sent: {msg}")
-        time.sleep(1)  # simulate streaming
+        print(f"Sent: {payload}")
+        time.sleep(0.2)  # adjustable delay between messages
 
 if __name__ == '__main__':
     run()

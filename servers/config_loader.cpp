@@ -24,26 +24,22 @@ RoutingConfig load_config(const std::string &filepath, const std::string &node_n
   config.node_name = node_name;
   config.listen_port = j["nodes"][node_name]["listen_port"];
 
+  // Fill routing_table and neighbors
   for (auto &[key, val] : j["routing_table"].items())
   {
     for (auto &dst : val)
     {
       config.routing_table[key].push_back(dst);
     }
+    if (key == node_name)
+    {
+      config.neighbors = config.routing_table[key]; // ✅ Set neighbors directly
+    }
   }
 
   for (auto &[key, val] : j["address_map"].items())
   {
     config.address_map[key] = val;
-  }
-
-  // ✅ Extract neighbors specific to this node
-  if (j["routing_table"].contains(node_name))
-  {
-    for (auto &dst : j["routing_table"][node_name])
-    {
-      config.neighbors.push_back(dst.get<std::string>());
-    }
   }
 
   return config;

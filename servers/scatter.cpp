@@ -9,6 +9,8 @@
 #include <sys/wait.h>
 #include <csignal>
 #include <cstring>
+#include <map>
+#include <mutex>
 
 using dataservice::DataRequest;
 using dataservice::DataService;
@@ -27,31 +29,51 @@ namespace
 
   std::vector<Worker> workers;
   int current_worker = 0;
+  RoutingConfig g_config;
 
-  RoutingConfig g_config; // Global config for forwarding
+  std::map<std::string, int> load_map;
 
-  void forward_to_neighbors(const std::string &payload)
+  // No shared stubs or channels across forks
+
+  std::string get_least_loaded_neighbor()
   {
+    std::string min_node;
+    int min_load = INT32_MAX;
     for (const auto &neighbor : g_config.neighbors)
     {
-      std::string address = g_config.address_map[neighbor];
-      auto channel = grpc::CreateChannel(address, grpc::InsecureChannelCredentials());
-      std::unique_ptr<DataService::Stub> stub = DataService::NewStub(channel);
-
-      DataRequest request;
-      request.set_payload(payload);
-      Empty response;
-      ClientContext context;
-
-      Status status = stub->SendData(&context, request, &response);
-      if (status.ok())
+      if (load_map[neighbor] < min_load)
       {
-        std::cout << "[Node " << g_config.node_name << "] Forwarded to " << neighbor << " at " << address << std::endl;
+        min_load = load_map[neighbor];
+        min_node = neighbor;
       }
-      else
-      {
-        std::cerr << "[Node " << g_config.node_name << "] Failed to forward to " << neighbor << ": " << status.error_message() << std::endl;
-      }
+    }
+    return min_node;
+  }
+
+  void forward_to_least_loaded(const std::string &payload)
+  {
+    std::string target_node = get_least_loaded_neighbor();
+    std::string address = g_config.address_map[target_node];
+
+    auto channel = grpc::CreateChannel(address, grpc::InsecureChannelCredentials());
+    std::unique_ptr<DataService::Stub> stub = DataService::NewStub(channel);
+
+    DataRequest request;
+    request.set_payload(payload);
+    Empty response;
+    ClientContext context;
+
+    std::cout << "[Scatter] 🔁 Sending to " << target_node << " at " << address << std::endl;
+
+    Status status = stub->SendData(&context, request, &response);
+    if (status.ok())
+    {
+      std::cout << "[Scatter] ✅ Forwarded to " << target_node << std::endl;
+      load_map[target_node]++;
+    }
+    else
+    {
+      std::cerr << "[Scatter] ❌ Failed to forward to " << target_node << ": " << status.error_message() << std::endl;
     }
   }
 
@@ -66,9 +88,7 @@ namespace
         buffer[bytes] = '\0';
         std::string payload(buffer);
         std::cout << "[Worker " << id << "] received: " << payload << std::endl;
-
-        // Forward from within the worker
-        forward_to_neighbors(payload);
+        forward_to_least_loaded(payload);
       }
     }
   }
@@ -76,7 +96,17 @@ namespace
 
 void init_workers(int num_workers, const RoutingConfig &config)
 {
-  g_config = config; // Save for forwarding logic
+  g_config = config;
+  load_map.clear();
+  for (const auto &neighbor : config.neighbors)
+  {
+    load_map[neighbor] = 0;
+  }
+
+  std::cout << "[Scatter] Initialized stubs for neighbors: ";
+  for (const auto &n : config.neighbors)
+    std::cout << n << " ";
+  std::cout << std::endl;
 
   for (int i = 0; i < num_workers; ++i)
   {
@@ -95,13 +125,13 @@ void init_workers(int num_workers, const RoutingConfig &config)
     }
     else if (pid == 0)
     {
-      close(pipefd[1]); // child closes write
+      close(pipefd[1]);
       worker_loop(pipefd[0], i);
       exit(0);
     }
     else
     {
-      close(pipefd[0]); // parent closes read
+      close(pipefd[0]);
       workers.push_back({pipefd[1], pid});
     }
   }

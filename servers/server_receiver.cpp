@@ -21,7 +21,8 @@ public:
   Status SendData(ServerContext *context, const DataRequest *request, Empty *response) override
   {
     std::string payload = request->payload();
-    std::cout << "[Node " << config.node_name << "] received payload: " << payload << std::endl;
+    std::cout << "[Node " << config.node_name << "] ✅ Received payload: " << payload << std::endl;
+    std::cout.flush(); // force flush in case it's buffered
 
     // Forward to neighbors if any
     auto it = config.routing_table.find(config.node_name);
@@ -41,7 +42,7 @@ public:
         grpc::Status status = stub->SendData(&ctx, forward_request, &forward_response);
         if (status.ok())
         {
-          std::cout << "  → Forwarded to " << neighbor << " (" << neighbor_address << ")\n";
+          std::cout << "  → Forwarded to " << neighbor << " (" << neighbor_address << ")" << std::endl;
         }
         else
         {
@@ -63,7 +64,8 @@ void RunServer()
   builder.AddListeningPort(server_address, grpc::InsecureServerCredentials());
   builder.RegisterService(&service);
   std::unique_ptr<Server> server(builder.BuildAndStart());
-  std::cout << "[Node " << config.node_name << "] Listening on " << server_address << std::endl;
+  std::cout << "[Node " << config.node_name << "] 🚀 Listening on " << server_address << std::endl;
+  std::cout.flush();
   server->Wait();
 }
 
@@ -79,10 +81,11 @@ int main(int argc, char **argv)
   try
   {
     config = load_config("routing.json", node_name);
+    std::cout << "[Node " << node_name << "] 🛠 Config loaded successfully.\n";
   }
   catch (const std::exception &ex)
   {
-    std::cerr << "Failed to load config: " << ex.what() << std::endl;
+    std::cerr << "❌ Failed to load config: " << ex.what() << std::endl;
     return 1;
   }
 
