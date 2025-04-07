@@ -1,6 +1,5 @@
-CMakeFiles/server_d.dir/servers/server_receiver.cpp.o: \
-  /Users/nikhilkoli/Downloads/275mini2/mini2/servers/server_receiver.cpp \
-  /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.grpc.pb.h \
+CMakeFiles/server_f.dir/servers/data.grpc.pb.cc.o: \
+  /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.grpc.pb.cc \
   /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.pb.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/limits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__assert \
@@ -1255,6 +1254,7 @@ CMakeFiles/server_d.dir/servers/server_receiver.cpp.o: \
   /opt/homebrew/include/google/protobuf/map.h \
   /opt/homebrew/include/google/protobuf/map_type_handler.h \
   /opt/homebrew/include/google/protobuf/reflection.h \
+  /Users/nikhilkoli/Downloads/275mini2/mini2/servers/data.grpc.pb.h \
   /opt/homebrew/include/grpcpp/generic/async_generic_service.h \
   /opt/homebrew/include/grpc/support/port_platform.h \
   /opt/homebrew/include/grpcpp/generic/callback_generic_service.h \
@@ -1349,74 +1349,4 @@ CMakeFiles/server_d.dir/servers/server_receiver.cpp.o: \
   /opt/homebrew/include/grpcpp/support/stub_options.h \
   /opt/homebrew/include/grpcpp/ports_def.inc \
   /opt/homebrew/include/grpcpp/ports_undef.inc \
-  /Users/nikhilkoli/Downloads/275mini2/mini2/servers/config_loader.h \
-  /Users/nikhilkoli/Downloads/275mini2/mini2/servers/shared_data.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/semaphore.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/fcntl.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_o_sync.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_o_dsync.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_s_ifmt.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_filesec_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/semaphore.h \
-  /opt/homebrew/include/grpcpp/grpcpp.h \
-  /opt/homebrew/include/grpcpp/channel.h \
-  /opt/homebrew/include/grpcpp/create_channel.h \
-  /opt/homebrew/include/grpcpp/security/credentials.h \
-  /opt/homebrew/include/grpc/grpc_security_constants.h \
-  /opt/homebrew/include/grpcpp/security/tls_credentials_options.h \
-  /opt/homebrew/include/grpc/grpc_security.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/stdbool.h \
-  /Library/Developer/CommandLineTools/usr/lib/clang/16/include/stdbool.h \
-  /opt/homebrew/include/grpcpp/security/tls_certificate_provider.h \
-  /opt/homebrew/include/grpc/credentials.h \
-  /opt/homebrew/include/absl/status/statusor.h \
-  /opt/homebrew/include/absl/status/internal/statusor_internal.h \
-  /opt/homebrew/include/absl/strings/has_ostream_operator.h \
-  /opt/homebrew/include/grpcpp/security/tls_certificate_verifier.h \
-  /opt/homebrew/include/grpcpp/security/tls_crl_provider.h \
-  /opt/homebrew/include/grpc/grpc_crl_provider.h \
-  /opt/homebrew/include/grpcpp/support/channel_arguments.h \
-  /opt/homebrew/include/grpc/compression.h \
-  /opt/homebrew/include/grpcpp/resource_quota.h \
-  /opt/homebrew/include/grpcpp/create_channel_posix.h \
-  /opt/homebrew/include/grpcpp/server.h \
-  /opt/homebrew/include/grpcpp/health_check_service_interface.h \
-  /opt/homebrew/include/grpcpp/security/server_credentials.h \
-  /opt/homebrew/include/grpcpp/security/auth_metadata_processor.h \
-  /opt/homebrew/include/grpcpp/server_builder.h \
-  /opt/homebrew/include/grpc/event_engine/event_engine.h \
-  /opt/homebrew/include/grpc/event_engine/endpoint_config.h \
-  /opt/homebrew/include/grpc/event_engine/extensible.h \
-  /opt/homebrew/include/grpc/event_engine/memory_allocator.h \
-  /opt/homebrew/include/grpc/event_engine/internal/memory_allocator_impl.h \
-  /opt/homebrew/include/grpc/event_engine/memory_request.h \
-  /opt/homebrew/include/grpc/event_engine/port.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/arpa/inet.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/netinet/in.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/socket.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/constrained_ctypes.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/machine/_param.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/arm/_param.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/net/net_kev.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_sa_family_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_socklen_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/_types/_iovec_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/netinet6/in6.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/netdb.h \
-  /opt/homebrew/include/grpc/event_engine/slice_buffer.h \
-  /opt/homebrew/include/grpc/event_engine/internal/slice_cast.h \
-  /opt/homebrew/include/grpc/event_engine/slice.h \
-  /opt/homebrew/include/grpc/impl/codegen/slice.h \
-  /opt/homebrew/include/grpc/passive_listener.h \
-  /opt/homebrew/include/grpc/support/cpu.h \
-  /opt/homebrew/include/grpc/support/workaround_list.h \
-  /opt/homebrew/include/grpcpp/impl/channel_argument_option.h \
-  /opt/homebrew/include/grpcpp/impl/server_builder_option.h \
-  /opt/homebrew/include/grpcpp/impl/server_builder_plugin.h \
-  /opt/homebrew/include/grpcpp/passive_listener.h \
-  /opt/homebrew/include/grpcpp/security/authorization_policy_provider.h \
-  /opt/homebrew/include/grpcpp/server_posix.h \
-  /opt/homebrew/include/grpcpp/version_info.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/fcntl.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/sys/mman.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/fstream
+  /opt/homebrew/include/grpcpp/impl/client_unary_call.h

@@ -4,20 +4,23 @@
     "B": { "listen_port": 50052 },
     "C": { "listen_port": 50053 },
     "D": { "listen_port": 50054 },
-    "E": { "listen_port": 50055 }
+    "E": { "listen_port": 50055 },
+    "F": { "listen_port": 50056 }
   },
   "routing_table": {
     "A": ["B"],
     "B": ["C", "D"],
-    "C": ["E"],
-    "D": ["E"],
-    "E": []
+    "C": ["E", "F"],
+    "D": ["E", "F"],
+    "E": [],
+    "F": []
   },
   "address_map": {
     "A": "localhost:50051",
     "B": "localhost:50052",
     "C": "localhost:50053",
     "D": "localhost:50054",
-    "E": "localhost:50055"
+    "E": "localhost:50055",
+    "F": "localhost:50056"
   }
 }

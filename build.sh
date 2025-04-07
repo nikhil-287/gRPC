@@ -6,6 +6,10 @@ BUILD_DIR="build"
 
 echo "🧼 Cleaning and preparing build directory..."
 
+# Clean output files for each node
+echo "🗑️  Removing old data files..."
+rm -f node_C_data.txt node_D_data.txt node_E_data.txt
+
 # Create if not exists
 if [ ! -d "$BUILD_DIR" ]; then
   echo "📁 Creating build directory..."
@@ -24,4 +28,3 @@ echo "🛠️ Building project..."
 make
 
 echo "✅ Build successful!"
-

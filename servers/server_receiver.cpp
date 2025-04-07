@@ -11,6 +11,8 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <sys/mman.h>
+#include <fstream>
+#include <climits>
 
 using dataservice::DataRequest;
 using dataservice::DataService;
@@ -26,8 +28,8 @@ sem_t *shared_mutex = nullptr;
 
 void setup_shared_memory()
 {
-  shm_unlink(SHM_NAME); // Remove existing shared memory
-  sem_unlink(SEM_NAME); // Remove existing semaphore
+  shm_unlink(SHM_NAME);
+  sem_unlink(SEM_NAME);
 
   int fd = shm_open(SHM_NAME, O_CREAT | O_RDWR, 0666);
   if (fd == -1)
@@ -56,9 +58,8 @@ void setup_shared_memory()
   }
 
   shared_data = reinterpret_cast<SharedData *>(ptr);
-  memset(shared_data, 0, sizeof(SharedData)); // ✅ Clear old memory
+  memset(shared_data, 0, sizeof(SharedData));
 
-  // ✅ Initialize from config
   shared_data->num_neighbors = static_cast<int>(config.neighbors.size());
   for (int i = 0; i < shared_data->num_neighbors; ++i)
   {
@@ -75,6 +76,74 @@ void setup_shared_memory()
   }
 }
 
+bool is_duplicate(const std::string &node, const std::string &payload)
+{
+  char(*list)[MAX_PAYLOAD_LEN] = nullptr;
+  int count = 0;
+
+  if (node == "C")
+  {
+    list = shared_data->seen_payloads_c;
+    count = shared_data->count_c;
+  }
+  else if (node == "D")
+  {
+    list = shared_data->seen_payloads_d;
+    count = shared_data->count_d;
+  }
+  else if (node == "E")
+  {
+    list = shared_data->seen_payloads_e;
+    count = shared_data->count_e;
+  }
+  else if (node == "F")
+  {
+    list = shared_data->seen_payloads_f;
+    count = shared_data->count_f;
+  }
+
+  for (int i = 0; i < count; ++i)
+  {
+    if (strncmp(list[i], payload.c_str(), MAX_PAYLOAD_LEN) == 0)
+      return true;
+  }
+  return false;
+}
+
+void mark_processed(const std::string &node, const std::string &payload)
+{
+  char(*list)[MAX_PAYLOAD_LEN] = nullptr;
+  int *count = nullptr;
+
+  if (node == "C")
+  {
+    list = shared_data->seen_payloads_c;
+    count = &shared_data->count_c;
+  }
+  else if (node == "D")
+  {
+    list = shared_data->seen_payloads_d;
+    count = &shared_data->count_d;
+  }
+  else if (node == "E")
+  {
+    list = shared_data->seen_payloads_e;
+    count = &shared_data->count_e;
+  }
+  else if (node == "F")
+  {
+    list = shared_data->seen_payloads_f;
+    count = &shared_data->count_f;
+  }
+
+  if (*count < MAX_PAYLOADS)
+  {
+    strncpy(list[*count], payload.c_str(), MAX_PAYLOAD_LEN - 1);
+    list[*count][MAX_PAYLOAD_LEN - 1] = '\0';
+    (*count)++;
+  }
+}
+
 class ReceiverServiceImpl final : public DataService::Service
 {
 public:
@@ -83,33 +152,50 @@ public:
     std::string payload = request->payload();
     std::cout << "[Node " << config.node_name << "] ✅ Received payload: " << payload << std::endl;
 
-    // Store in shared memory
-    if (shared_data)
-    {
-      strncpy(shared_data->payload, payload.c_str(), sizeof(shared_data->payload) - 1);
-      shared_data->payload[sizeof(shared_data->payload) - 1] = '\0';
+    sem_wait(shared_mutex);
+    bool is_dup = is_duplicate(config.node_name, payload);
+    sem_post(shared_mutex);
 
-      if (config.node_name == "C")
-      {
-        shared_data->processed_by_c = true;
-      }
-      else if (config.node_name == "D")
-      {
-        shared_data->processed_by_d = true;
-      }
-      else if (config.node_name == "E")
-      {
-        shared_data->processed_by_e = true;
-      }
+    if (is_dup)
+    {
+      std::cout << "[Node " << config.node_name << "] ⚠️ Duplicate payload. Skipping.\n";
+      return Status::OK;
     }
 
-    // Forward to neighbors if any
-    auto it = config.routing_table.find(config.node_name);
-    if (it != config.routing_table.end())
+    sem_wait(shared_mutex);
+    mark_processed(config.node_name, payload);
+    sem_post(shared_mutex);
+
+    std::ofstream out("node_" + config.node_name + "_data.txt", std::ios::app);
+    out << payload << "\n";
+
+    if (config.node_name != "E" && config.node_name != "F")
     {
-      for (const auto &neighbor : it->second)
+      std::string selected_neighbor;
+      int min_load = INT_MAX;
+
+      sem_wait(shared_mutex);
+      std::cout << "[Node " << config.node_name << "] 📊 Neighbor loads:\n";
+      for (int i = 0; i < shared_data->num_neighbors; ++i)
       {
-        std::string neighbor_address = config.address_map[neighbor];
+        const std::string &neighbor = shared_data->loads[i].name;
+        int load = shared_data->loads[i].load_count;
+        std::cout << "  - " << neighbor << ": " << load << " messages\n";
+
+        if (load < min_load)
+        {
+          min_load = load;
+          selected_neighbor = neighbor;
+        }
+      }
+      sem_post(shared_mutex);
+
+      if (!selected_neighbor.empty())
+      {
+        std::cout << "[Node " << config.node_name << "] 📦 Selected least loaded neighbor: "
+                  << selected_neighbor << " with load: " << min_load << "\n";
+
+        std::string neighbor_address = config.address_map[selected_neighbor];
         auto channel = grpc::CreateChannel(neighbor_address, grpc::InsecureChannelCredentials());
         std::unique_ptr<DataService::Stub> stub = DataService::NewStub(channel);
 
@@ -121,12 +207,27 @@ public:
         grpc::Status status = stub->SendData(&ctx, forward_request, &forward_response);
         if (status.ok())
         {
-          std::cout << "  → Forwarded to " << neighbor << " (" << neighbor_address << ")" << std::endl;
+          std::cout << "  → Forwarded to " << selected_neighbor << " (" << neighbor_address << ")" << std::endl;
+
+          sem_wait(shared_mutex);
+          for (int i = 0; i < shared_data->num_neighbors; ++i)
+          {
+            if (selected_neighbor == shared_data->loads[i].name)
+            {
+              shared_data->loads[i].load_count++;
+              break;
+            }
+          }
+          sem_post(shared_mutex);
         }
         else
         {
-          std::cerr << "  ✖ Failed to forward to " << neighbor << ": " << status.error_message() << std::endl;
+          std::cerr << "  ✖ Failed to forward to " << selected_neighbor << ": " << status.error_message() << std::endl;
         }
+      }
+      else
+      {
+        std::cout << "[Node " << config.node_name << "] ⚠️ No downstream neighbors found!\n";
       }
     }
 
@@ -143,7 +244,7 @@ void RunServer()
   builder.AddListeningPort(server_address, grpc::InsecureServerCredentials());
   builder.RegisterService(&service);
 
-  std::unique_ptr<Server> server(builder.BuildAndStart());
+  std::unique_ptr<Server> server = builder.BuildAndStart();
   std::cout << "[Node " << config.node_name << "] 🚀 Listening on " << server_address << std::endl;
   server->Wait();
 }
@@ -161,7 +262,7 @@ int main(int argc, char **argv)
   {
     config = load_config("routing.json", node_name);
     std::cout << "[Node " << node_name << "] 🛠 Config loaded successfully.\n";
-    setup_shared_memory(); // ✅ Shared memory init
+    setup_shared_memory();
   }
   catch (const std::exception &ex)
   {
