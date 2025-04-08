@@ -1,0 +1,942 @@
+[Node E] Duplicate: userID:100,event:logout
+[Node F] Duplicate: userID:101,event:delete
+[Node E] Duplicate: userID:102,event:reset_password
+[Node F] Duplicate: userID:103,event:add_to_cart
+[Node E] Duplicate: userID:104,event:login
+[Node F] Duplicate: userID:105,event:login
+[Node E] Duplicate: userID:106,event:add_to_cart
+[Node F] Duplicate: userID:107,event:update
+[Node E] Duplicate: userID:108,event:delete
+[Node F] Duplicate: userID:109,event:login
+[Node E] Duplicate: userID:110,event:update
+[Node F] Duplicate: userID:111,event:signup
+[Node E] Duplicate: userID:112,event:update
+[Node F] Duplicate: userID:113,event:view
+[Node E] Duplicate: userID:114,event:logout
+[Node F] Duplicate: userID:115,event:logout
+[Node E] Duplicate: userID:116,event:purchase
+[Node F] Duplicate: userID:117,event:update
+[Node E] Duplicate: userID:118,event:view
+[Node F] Duplicate: userID:119,event:update
+[Node E] Duplicate: userID:120,event:delete
+[Node F] Duplicate: userID:121,event:delete
+[Node E] Duplicate: userID:122,event:signup
+[Node F] Duplicate: userID:123,event:view
+[Node E] Duplicate: userID:124,event:login
+[Node F] Duplicate: userID:125,event:logout
+[Node E] Duplicate: userID:126,event:update
+[Node F] Duplicate: userID:127,event:signup
+[Node E] Duplicate: userID:128,event:purchase
+[Node F] Duplicate: userID:129,event:click
+[Node E] Duplicate: userID:130,event:update
+[Node F] Duplicate: userID:131,event:signup
+[Node E] Duplicate: userID:132,event:update
+[Node F] Duplicate: userID:133,event:delete
+[Node E] Duplicate: userID:134,event:delete
+[Node F] Duplicate: userID:135,event:signup
+[Node E] Duplicate: userID:136,event:update
+[Node F] Duplicate: userID:137,event:view
+[Node E] Duplicate: userID:138,event:signup
+[Node F] Duplicate: userID:139,event:reset_password
+[Node E] Duplicate: userID:140,event:delete
+[Node F] Duplicate: userID:141,event:purchase
+[Node E] Duplicate: userID:142,event:view
+[Node F] Duplicate: userID:143,event:update
+[Node E] Duplicate: userID:144,event:login
+[Node F] Duplicate: userID:145,event:update
+[Node E] Duplicate: userID:146,event:login
+[Node F] Duplicate: userID:147,event:delete
+[Node E] Duplicate: userID:148,event:signup
+[Node F] Duplicate: userID:149,event:delete
+[Node E] Duplicate: userID:150,event:update
+[Node F] Duplicate: userID:151,event:purchase
+[Node E] Duplicate: userID:152,event:update
+[Node F] Duplicate: userID:153,event:reset_password
+[Node E] Duplicate: userID:154,event:signup
+[Node F] Duplicate: userID:155,event:update
+[Node E] Duplicate: userID:156,event:purchase
+[Node F] Duplicate: userID:157,event:add_to_cart
+[Node E] Duplicate: userID:158,event:signup
+[Node F] Duplicate: userID:159,event:view
+[Node E] Duplicate: userID:160,event:login
+[Node F] Duplicate: userID:161,event:add_to_cart
+[Node E] Duplicate: userID:162,event:logout
+[Node F] Duplicate: userID:163,event:delete
+[Node E] Duplicate: userID:164,event:add_to_cart
+[Node F] Duplicate: userID:165,event:login
+[Node E] Duplicate: userID:166,event:purchase
+[Node F] Duplicate: userID:167,event:reset_password
+[Node E] Duplicate: userID:168,event:signup
+[Node F] Duplicate: userID:169,event:add_to_cart
+[Node E] Duplicate: userID:170,event:add_to_cart
+[Node F] Duplicate: userID:171,event:login
+[Node E] Duplicate: userID:172,event:signup
+[Node F] Duplicate: userID:173,event:update
+[Node E] Duplicate: userID:174,event:delete
+[Node F] Duplicate: userID:175,event:signup
+[Node E] Duplicate: userID:176,event:click
+[Node F] Duplicate: userID:177,event:purchase
+[Node E] Duplicate: userID:178,event:click
+[Node F] Duplicate: userID:179,event:signup
+[Node E] Duplicate: userID:180,event:reset_password
+[Node F] Duplicate: userID:181,event:purchase
+[Node E] Duplicate: userID:182,event:add_to_cart
+[Node F] Duplicate: userID:183,event:purchase
+[Node E] Duplicate: userID:184,event:signup
+[Node F] Duplicate: userID:185,event:add_to_cart
+[Node E] Duplicate: userID:186,event:signup
+[Node F] Duplicate: userID:187,event:click
+[Node E] Duplicate: userID:188,event:delete
+[Node F] Duplicate: userID:189,event:click
+[Node E] Duplicate: userID:190,event:view
+[Node F] Duplicate: userID:191,event:purchase
+[Node E] Duplicate: userID:192,event:click
+[Node F] Duplicate: userID:193,event:reset_password
+[Node E] Duplicate: userID:194,event:view
+[Node F] Duplicate: userID:195,event:logout
+[Node E] Duplicate: userID:196,event:view
+[Node F] Duplicate: userID:197,event:view
+[Node E] Duplicate: userID:198,event:purchase
+[Node F] Duplicate: userID:199,event:purchase
+[Node E] Duplicate: userID:100,event:delete
+[Node F] Duplicate: userID:101,event:view
+[Node C] Duplicate: userID:102,event:purchase
+[Node F] Duplicate: userID:173,event:update
+[Node F] Duplicate: userID:181,event:purchase
+[Node F] Duplicate: userID:189,event:click
+[Node E] Duplicate: userID:100,event:add_to_cart
+[Node F] Duplicate: userID:101,event:view
+[Node E] Duplicate: userID:102,event:login
+[Node F] Duplicate: userID:103,event:logout
+[Node E] Duplicate: userID:104,event:view
+[Node F] Duplicate: userID:105,event:view
+[Node E] Duplicate: userID:106,event:add_to_cart
+[Node F] Duplicate: userID:107,event:reset_password
+[Node E] Duplicate: userID:108,event:click
+[Node F] Duplicate: userID:109,event:logout
+[Node E] Duplicate: userID:110,event:reset_password
+[Node F] Duplicate: userID:111,event:add_to_cart
+[Node E] Duplicate: userID:112,event:add_to_cart
+[Node F] Duplicate: userID:113,event:signup
+[Node E] Duplicate: userID:114,event:login
+[Node F] Duplicate: userID:115,event:purchase
+[Node E] Duplicate: userID:116,event:signup
+[Node F] Duplicate: userID:117,event:signup
+[Node E] Duplicate: userID:118,event:delete
+[Node F] Duplicate: userID:119,event:update
+[Node E] Duplicate: userID:120,event:reset_password
+[Node F] Duplicate: userID:121,event:purchase
+[Node E] Duplicate: userID:122,event:logout
+[Node F] Duplicate: userID:123,event:update
+[Node E] Duplicate: userID:124,event:click
+[Node F] Duplicate: userID:125,event:click
+[Node E] Duplicate: userID:126,event:update
+[Node F] Duplicate: userID:127,event:delete
+[Node E] Duplicate: userID:128,event:click
+[Node F] Duplicate: userID:129,event:login
+[Node E] Duplicate: userID:130,event:login
+[Node F] Duplicate: userID:131,event:add_to_cart
+[Node E] Duplicate: userID:132,event:delete
+[Node F] Duplicate: userID:133,event:purchase
+[Node E] Duplicate: userID:134,event:login
+[Node F] Duplicate: userID:135,event:purchase
+[Node E] Duplicate: userID:136,event:view
+[Node F] Duplicate: userID:137,event:view
+[Node E] Duplicate: userID:138,event:update
+[Node F] Duplicate: userID:139,event:signup
+[Node E] Duplicate: userID:140,event:delete
+[Node F] Duplicate: userID:141,event:signup
+[Node E] Duplicate: userID:142,event:click
+[Node F] Duplicate: userID:143,event:login
+[Node E] Duplicate: userID:144,event:purchase
+[Node F] Duplicate: userID:145,event:delete
+[Node E] Duplicate: userID:146,event:reset_password
+[Node F] Duplicate: userID:147,event:purchase
+[Node E] Duplicate: userID:148,event:logout
+[Node F] Duplicate: userID:149,event:logout
+[Node E] Duplicate: userID:150,event:purchase
+[Node F] Duplicate: userID:151,event:purchase
+[Node E] Duplicate: userID:152,event:reset_password
+[Node F] Duplicate: userID:153,event:click
+[Node E] Duplicate: userID:154,event:signup
+[Node F] Duplicate: userID:155,event:update
+[Node E] Duplicate: userID:156,event:reset_password
+[Node F] Duplicate: userID:157,event:add_to_cart
+[Node E] Duplicate: userID:158,event:logout
+[Node F] Duplicate: userID:159,event:click
+[Node E] Duplicate: userID:160,event:click
+[Node F] Duplicate: userID:161,event:purchase
+[Node E] Duplicate: userID:162,event:purchase
+[Node F] Duplicate: userID:163,event:add_to_cart
+[Node E] Duplicate: userID:164,event:purchase
+[Node F] Duplicate: userID:165,event:reset_password
+[Node E] Duplicate: userID:166,event:logout
+[Node F] Duplicate: userID:167,event:logout
+[Node E] Duplicate: userID:168,event:add_to_cart
+[Node F] Duplicate: userID:169,event:view
+[Node E] Duplicate: userID:170,event:purchase
+[Node F] Duplicate: userID:171,event:view
+[Node E] Duplicate: userID:172,event:login
+[Node F] Duplicate: userID:173,event:logout
+[Node E] Duplicate: userID:174,event:signup
+[Node F] Duplicate: userID:175,event:delete
+[Node E] Duplicate: userID:176,event:view
+[Node F] Duplicate: userID:177,event:signup
+[Node E] Duplicate: userID:178,event:reset_password
+[Node F] Duplicate: userID:179,event:delete
+[Node E] Duplicate: userID:180,event:view
+[Node F] Duplicate: userID:181,event:view
+[Node E] Duplicate: userID:182,event:logout
+[Node F] Duplicate: userID:183,event:reset_password
+[Node E] Duplicate: userID:184,event:update
+[Node F] Duplicate: userID:185,event:click
+[Node E] Duplicate: userID:186,event:login
+[Node F] Duplicate: userID:187,event:update
+[Node E] Duplicate: userID:188,event:login
+[Node F] Duplicate: userID:189,event:add_to_cart
+[Node E] Duplicate: userID:190,event:delete
+[Node F] Duplicate: userID:191,event:purchase
+[Node E] Duplicate: userID:192,event:add_to_cart
+[Node F] Duplicate: userID:193,event:click
+[Node E] Duplicate: userID:194,event:update
+[Node F] Duplicate: userID:195,event:purchase
+[Node E] Duplicate: userID:196,event:logout
+[Node F] Duplicate: userID:197,event:delete
+[Node E] Duplicate: userID:198,event:purchase
+[Node F] Duplicate: userID:199,event:delete
+[Node E] Duplicate: userID:100,event:purchase
+[Node F] Duplicate: userID:101,event:view
+[Node E] Duplicate: userID:102,event:delete
+[Node F] Duplicate: userID:103,event:view
+[Node E] Duplicate: userID:104,event:reset_password
+[Node F] Duplicate: userID:105,event:purchase
+[Node E] Duplicate: userID:106,event:click
+[Node F] Duplicate: userID:107,event:add_to_cart
+[Node E] Duplicate: userID:108,event:reset_password
+[Node F] Duplicate: userID:109,event:reset_password
+[Node E] Duplicate: userID:110,event:purchase
+[Node F] Duplicate: userID:111,event:login
+[Node E] Duplicate: userID:112,event:click
+[Node F] Duplicate: userID:113,event:add_to_cart
+[Node E] Duplicate: userID:114,event:add_to_cart
+[Node F] Duplicate: userID:115,event:purchase
+[Node E] Duplicate: userID:116,event:purchase
+[Node F] Duplicate: userID:117,event:update
+[Node E] Duplicate: userID:118,event:purchase
+[Node F] Duplicate: userID:119,event:delete
+[Node E] Duplicate: userID:120,event:login
+[Node F] Duplicate: userID:121,event:add_to_cart
+[Node E] Duplicate: userID:122,event:login
+[Node F] Duplicate: userID:123,event:delete
+[Node E] Duplicate: userID:124,event:login
+[Node F] Duplicate: userID:125,event:signup
+[Node E] Duplicate: userID:126,event:login
+[Node F] Duplicate: userID:127,event:signup
+[Node E] Duplicate: userID:128,event:reset_password
+[Node F] Duplicate: userID:129,event:reset_password
+[Node E] Duplicate: userID:130,event:view
+[Node F] Duplicate: userID:131,event:view
+[Node E] Duplicate: userID:132,event:add_to_cart
+[Node F] Duplicate: userID:133,event:login
+[Node E] Duplicate: userID:134,event:login
+[Node F] Duplicate: userID:135,event:signup
+[Node E] Duplicate: userID:136,event:purchase
+[Node F] Duplicate: userID:137,event:delete
+[Node E] Duplicate: userID:138,event:signup
+[Node F] Duplicate: userID:139,event:login
+[Node E] Duplicate: userID:140,event:update
+[Node F] Duplicate: userID:141,event:signup
+[Node E] Duplicate: userID:142,event:view
+[Node F] Duplicate: userID:143,event:purchase
+[Node E] Duplicate: userID:144,event:reset_password
+[Node F] Duplicate: userID:145,event:login
+[Node E] Duplicate: userID:146,event:signup
+[Node F] Duplicate: userID:147,event:delete
+[Node E] Duplicate: userID:148,event:reset_password
+[Node F] Duplicate: userID:149,event:signup
+[Node E] Duplicate: userID:150,event:add_to_cart
+[Node F] Duplicate: userID:151,event:update
+[Node E] Duplicate: userID:152,event:delete
+[Node F] Duplicate: userID:153,event:update
+[Node E] Duplicate: userID:154,event:reset_password
+[Node F] Duplicate: userID:155,event:view
+[Node E] Duplicate: userID:156,event:click
+[Node F] Duplicate: userID:157,event:add_to_cart
+[Node E] Duplicate: userID:158,event:update
+[Node F] Duplicate: userID:159,event:login
+[Node E] Duplicate: userID:160,event:login
+[Node F] Duplicate: userID:161,event:login
+[Node E] Duplicate: userID:162,event:login
+[Node F] Duplicate: userID:163,event:view
+[Node E] Duplicate: userID:164,event:add_to_cart
+[Node F] Duplicate: userID:165,event:view
+[Node E] Duplicate: userID:166,event:reset_password
+[Node F] Duplicate: userID:167,event:signup
+[Node E] Duplicate: userID:168,event:reset_password
+[Node F] Duplicate: userID:169,event:update
+[Node E] Duplicate: userID:170,event:reset_password
+[Node F] Duplicate: userID:171,event:delete
+[Node E] Duplicate: userID:172,event:signup
+[Node F] Duplicate: userID:173,event:add_to_cart
+[Node E] Duplicate: userID:174,event:view
+[Node F] Duplicate: userID:175,event:login
+[Node E] Duplicate: userID:176,event:click
+[Node F] Duplicate: userID:177,event:login
+[Node E] Duplicate: userID:178,event:login
+[Node F] Duplicate: userID:179,event:signup
+[Node E] Duplicate: userID:180,event:delete
+[Node F] Duplicate: userID:181,event:click
+[Node E] Duplicate: userID:182,event:purchase
+[Node F] Duplicate: userID:183,event:login
+[Node E] Duplicate: userID:184,event:signup
+[Node F] Duplicate: userID:185,event:purchase
+[Node E] Duplicate: userID:186,event:update
+[Node F] Duplicate: userID:187,event:view
+[Node E] Duplicate: userID:188,event:signup
+[Node F] Duplicate: userID:189,event:delete
+[Node E] Duplicate: userID:190,event:update
+[Node F] Duplicate: userID:191,event:click
+[Node E] Duplicate: userID:192,event:click
+[Node F] Duplicate: userID:193,event:delete
+[Node E] Duplicate: userID:194,event:click
+[Node F] Duplicate: userID:195,event:logout
+[Node E] Duplicate: userID:196,event:view
+[Node F] Duplicate: userID:197,event:login
+[Node E] Duplicate: userID:198,event:logout
+[Node F] Duplicate: userID:199,event:delete
+[Node E] Duplicate: userID:100,event:click
+[Node F] Duplicate: userID:101,event:logout
+[Node E] Duplicate: userID:102,event:click
+[Node F] Duplicate: userID:103,event:purchase
+[Node E] Duplicate: userID:104,event:update
+[Node F] Duplicate: userID:105,event:login
+[Node E] Duplicate: userID:106,event:purchase
+[Node F] Duplicate: userID:107,event:signup
+[Node E] Duplicate: userID:108,event:delete
+[Node F] Duplicate: userID:109,event:delete
+[Node E] Duplicate: userID:110,event:login
+[Node F] Duplicate: userID:111,event:purchase
+[Node E] Duplicate: userID:112,event:view
+[Node F] Duplicate: userID:113,event:signup
+[Node E] Duplicate: userID:114,event:login
+[Node F] Duplicate: userID:115,event:view
+[Node E] Duplicate: userID:116,event:purchase
+[Node F] Duplicate: userID:117,event:view
+[Node E] Duplicate: userID:118,event:login
+[Node F] Duplicate: userID:119,event:view
+[Node E] Duplicate: userID:120,event:logout
+[Node F] Duplicate: userID:121,event:click
+[Node E] Duplicate: userID:122,event:update
+[Node F] Duplicate: userID:123,event:add_to_cart
+[Node E] Duplicate: userID:124,event:click
+[Node F] Duplicate: userID:125,event:login
+[Node E] Duplicate: userID:126,event:signup
+[Node F] Duplicate: userID:127,event:view
+[Node E] Duplicate: userID:128,event:view
+[Node F] Duplicate: userID:129,event:purchase
+[Node E] Duplicate: userID:130,event:click
+[Node F] Duplicate: userID:131,event:purchase
+[Node E] Duplicate: userID:132,event:add_to_cart
+[Node F] Duplicate: userID:133,event:signup
+[Node E] Duplicate: userID:134,event:login
+[Node F] Duplicate: userID:135,event:view
+[Node E] Duplicate: userID:136,event:click
+[Node F] Duplicate: userID:137,event:logout
+[Node E] Duplicate: userID:138,event:login
+[Node F] Duplicate: userID:139,event:click
+[Node E] Duplicate: userID:140,event:purchase
+[Node F] Duplicate: userID:141,event:delete
+[Node E] Duplicate: userID:142,event:add_to_cart
+[Node F] Duplicate: userID:143,event:purchase
+[Node E] Duplicate: userID:144,event:login
+[Node F] Duplicate: userID:145,event:logout
+[Node E] Duplicate: userID:146,event:login
+[Node F] Duplicate: userID:147,event:delete
+[Node E] Duplicate: userID:148,event:add_to_cart
+[Node F] Duplicate: userID:149,event:purchase
+[Node E] Duplicate: userID:150,event:purchase
+[Node F] Duplicate: userID:151,event:update
+[Node E] Duplicate: userID:152,event:delete
+[Node F] Duplicate: userID:153,event:logout
+[Node E] Duplicate: userID:154,event:add_to_cart
+[Node F] Duplicate: userID:155,event:reset_password
+[Node E] Duplicate: userID:156,event:logout
+[Node F] Duplicate: userID:157,event:add_to_cart
+[Node E] Duplicate: userID:158,event:click
+[Node F] Duplicate: userID:159,event:delete
+[Node E] Duplicate: userID:160,event:add_to_cart
+[Node F] Duplicate: userID:161,event:view
+[Node E] Duplicate: userID:162,event:login
+[Node F] Duplicate: userID:163,event:delete
+[Node E] Duplicate: userID:164,event:update
+[Node F] Duplicate: userID:165,event:signup
+[Node E] Duplicate: userID:166,event:signup
+[Node F] Duplicate: userID:167,event:logout
+[Node E] Duplicate: userID:168,event:delete
+[Node F] Duplicate: userID:169,event:login
+[Node E] Duplicate: userID:170,event:login
+[Node F] Duplicate: userID:171,event:login
+[Node E] Duplicate: userID:172,event:view
+[Node F] Duplicate: userID:173,event:add_to_cart
+[Node E] Duplicate: userID:174,event:delete
+[Node F] Duplicate: userID:175,event:add_to_cart
+[Node E] Duplicate: userID:176,event:view
+[Node F] Duplicate: userID:177,event:login
+[Node E] Duplicate: userID:178,event:signup
+[Node F] Duplicate: userID:179,event:add_to_cart
+[Node E] Duplicate: userID:180,event:click
+[Node F] Duplicate: userID:181,event:signup
+[Node E] Duplicate: userID:182,event:login
+[Node F] Duplicate: userID:183,event:delete
+[Node E] Duplicate: userID:184,event:add_to_cart
+[Node F] Duplicate: userID:185,event:logout
+[Node E] Duplicate: userID:186,event:add_to_cart
+[Node F] Duplicate: userID:187,event:logout
+[Node E] Duplicate: userID:188,event:click
+[Node F] Duplicate: userID:189,event:reset_password
+[Node E] Duplicate: userID:190,event:login
+[Node F] Duplicate: userID:191,event:reset_password
+[Node E] Duplicate: userID:192,event:view
+[Node F] Duplicate: userID:193,event:delete
+[Node E] Duplicate: userID:194,event:reset_password
+[Node F] Duplicate: userID:195,event:click
+[Node E] Duplicate: userID:196,event:delete
+[Node F] Duplicate: userID:197,event:login
+[Node E] Duplicate: userID:198,event:login
+[Node F] Duplicate: userID:199,event:add_to_cart
+[Node E] Duplicate: userID:100,event:delete
+[Node F] Duplicate: userID:101,event:add_to_cart
+[Node E] Duplicate: userID:102,event:click
+[Node F] Duplicate: userID:103,event:delete
+[Node E] Duplicate: userID:104,event:click
+[Node F] Duplicate: userID:105,event:reset_password
+[Node E] Duplicate: userID:106,event:signup
+[Node F] Duplicate: userID:107,event:delete
+[Node E] Duplicate: userID:108,event:delete
+[Node F] Duplicate: userID:109,event:reset_password
+[Node E] Duplicate: userID:110,event:view
+[Node F] Duplicate: userID:111,event:delete
+[Node E] Duplicate: userID:112,event:logout
+[Node F] Duplicate: userID:113,event:login
+[Node E] Duplicate: userID:114,event:update
+[Node F] Duplicate: userID:115,event:reset_password
+[Node E] Duplicate: userID:116,event:view
+[Node F] Duplicate: userID:117,event:delete
+[Node E] Duplicate: userID:118,event:signup
+[Node F] Duplicate: userID:119,event:update
+[Node E] Duplicate: userID:120,event:click
+[Node F] Duplicate: userID:121,event:add_to_cart
+[Node E] Duplicate: userID:122,event:view
+[Node F] Duplicate: userID:123,event:add_to_cart
+[Node E] Duplicate: userID:124,event:purchase
+[Node F] Duplicate: userID:125,event:purchase
+[Node E] Duplicate: userID:126,event:purchase
+[Node F] Duplicate: userID:127,event:logout
+[Node E] Duplicate: userID:128,event:signup
+[Node F] Duplicate: userID:129,event:reset_password
+[Node E] Duplicate: userID:130,event:click
+[Node F] Duplicate: userID:131,event:update
+[Node E] Duplicate: userID:132,event:update
+[Node F] Duplicate: userID:133,event:logout
+[Node E] Duplicate: userID:134,event:click
+[Node F] Duplicate: userID:135,event:view
+[Node E] Duplicate: userID:136,event:purchase
+[Node F] Duplicate: userID:137,event:logout
+[Node E] Duplicate: userID:138,event:view
+[Node F] Duplicate: userID:139,event:purchase
+[Node E] Duplicate: userID:140,event:click
+[Node F] Duplicate: userID:141,event:login
+[Node E] Duplicate: userID:142,event:reset_password
+[Node F] Duplicate: userID:143,event:logout
+[Node E] Duplicate: userID:144,event:logout
+[Node F] Duplicate: userID:145,event:logout
+[Node E] Duplicate: userID:146,event:signup
+[Node F] Duplicate: userID:147,event:click
+[Node E] Duplicate: userID:148,event:update
+[Node F] Duplicate: userID:149,event:add_to_cart
+[Node E] Duplicate: oo Closely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/19/2022,7:55,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Unsafe Lane Changing,Other Vehicular,Ambulance,Unknown10/19/2022,23:47,UNKNOWN_BOROUGH,00000,40.717,-73.7994,0,0,0,0,0,0,0,0,0,Unsafe Speed,Sedan,Sedan10/21/2022,0:10,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Other Vehicular,Unsafe Lane Changing,Sedan,Unknown10/19/2022,23:00,BROOKLYN,11249,40.7017,-73.9606,0,0,0,0,0,0,0,0,0,Aggressive Driving/Road Rage,Station Wagon/Sport Utility Vehicle,Taxi10/20/2022,17:25,MANHATTAN,10031,40.8214,-73.9486,259,0,0,0,0,0,0,0,0,Backing Unsafely,Motorcycle,Unknown10/20/2022,22:20,QUEENS,11419,40.6899,-73.8248,101,2,0,0,0,0,0,2,0,Pavement Defective,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/19/2022,0:00,BROOKLYN,11222,40.7228,-73.9471,0,1,0,0,0,1,0,0,0,Passing Too Closely,Sedan,Bike10/19/2022,11:05,MANHATTAN,10011,40.7434,-74.007,460,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Box Truck10/15/2022,11:25,UNKNOWN_BORO
+[Node E] Duplicate: k Diesel10/20/2022,19:49,BROOKLYN,11208,40.6881,-73.8767,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown10/01/2022,14:00,BROOKLYN,11214,40.5826,-73.9862,2965,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown09/30/2022,12:47,QUEENS,11375,40.7101,-73.8488,104,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,E-Bike,Pick-up Truck10/20/2022,12:45,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Tractor Truck Diesel,Unknown10/19/2022,17:25,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/20/2022,17:00,QUEENS,11429,40.7087,-73.7383,109,1,0,1,0,0,0,0,0,Backing Unsafely,Unknown,Unknown10/21/2022,19:05,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unknown,Unknown,Unknown10/19/2022,21:00,UNKNOWN_BOROUGH,00000,40.8527,-73.9191,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Unknown10/20/2022,15:15,UNKNOWN_BOROUGH,00000,40.7388,-73.8104,0,0,0,0,0,0,0,
+[Node E] Duplicate: 2022,21:13,MANHATTAN,10002,40.7217,-73.9847,0,1,0,0,0,1,0,0,0,Unspecified,Bike,Unknown10/21/2022,4:37,QUEENS,11416,40.6842,-73.8448,101,0,0,0,0,0,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Station Wagon/Sport Utility Vehicle,Sedan10/20/2022,18:00,BRONX,10458,40.8788,-73.8829,0,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Box Truck10/19/2022,14:17,QUEENS,11373,40.7387,-73.8709,0,1,0,1,0,0,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Sedan,Unknown10/19/2022,17:40,QUEENS,11418,40.6919,-73.8435,102,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Sedan10/21/2022,17:50,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/19/2022,18:23,QUEENS,11385,40.6951,-73.8956,0,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Sedan,Sedan10/21/2022,10:54,BROOKLYN,11206,40.705,-73.9495,0,0,0,0,0,0,0,0,0,Oversized Vehicle,Sedan,Box Truck10/11/2022,18:00,UNKNOWN_BOROUGH,00000,
+[Node E] Duplicate: 40.6901,-73.7512,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,Station Wagon/Sport Utility Vehicle10/16/2022,14:30,BRONX,10453,40.85,-73.9142,0,3,0,0,0,0,0,3,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan10/21/2022,4:00,UNKNOWN_BOROUGH,00000,40.6674,-73.7699,0,1,0,0,0,0,0,1,0,Unsafe Speed,Sedan,Unknown10/19/2022,9:30,MANHATTAN,10036,40.7621,-73.9974,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Van,Van08/29/2022,23:51,BROOKLYN,11249,40.7078,-73.9684,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Unknown08/25/2022,0:00,BROOKLYN,11236,40.6506,-73.9022,10110,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/20/2022,8:20,QUEENS,11428,40.7157,-73.7555,93,1,0,0,0,0,0,1,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Box Truck08/29/2022,20:49,BROOKLYN,11206,40.7085,-73.9434,189,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,E-Bike,Moped08/24/2022,8:00,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unkno
+[Node E] Duplicate: wn,Station Wagon/Sport Utility Vehicle,Unknown05/26/2022,17:30,BROOKLYN,11212,40.6615,-73.9053,300,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan11/03/2023,10:30,QUEENS,11385,40.7047,-73.8602,0,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/21/2022,19:40,QUEENS,11417,40.6813,-73.8395,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Sedan,Sedan10/21/2022,8:33,BROOKLYN,11217,40.6834,-73.9754,625,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown08/29/2022,16:55,STATEN ISLAND,10306,40.5813,-74.1122,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Sedan,Sedan08/29/2022,12:30,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/27/2022,17:55,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unknown,Sedan,Unknown08/27/2022,10:00,QUEENS,11691,40.6005,-73.7521,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Uti
+[Node E] Duplicate: -73.9211,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,Taxi10/20/2022,12:30,BRONX,10461,40.8424,-73.8262,3333,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Sedan10/21/2022,23:00,UNKNOWN_BOROUGH,00000,40.59,-73.9931,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown10/19/2022,14:45,BROOKLYN,11214,40.6013,-73.9974,2115,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Bus,Station Wagon/Sport Utility Vehicle08/29/2022,18:20,QUEENS,11411,40.6938,-73.7358,0,1,0,1,0,0,0,0,0,Passing Too Closely,Unknown,Unknown10/20/2022,8:20,BRONX,10457,40.8543,-73.9003,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown08/29/2022,16:45,UNKNOWN_BOROUGH,00000,40.6836,-73.9411,0,1,0,0,0,1,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Sedan,Bike08/29/2022,11:40,QUEENS,11373,40.7458,-73.8839,0,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Sedan10/21/2022,14:00,STATEN ISLAND,10305,40.5906,-74.0913,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/19/2022,21:32,UNKNOWN_BOROUGH,00000,40.7924,-73.9343,0,0,0,0
+[Node E] Duplicate: lity Vehicle08/29/2022,9:10,UNKNOWN_BOROUGH,00000,40.6658,-73.7464,0,2,0,0,0,0,0,2,0,Following Too Closely,Sedan,Sedan08/25/2022,15:00,BROOKLYN,11206,40.7003,-73.9412,0,1,0,0,0,0,0,1,0,View Obstructed/Limited,Station Wagon/Sport Utility Vehicle,Moped10/19/2022,9:00,MANHATTAN,10037,40.8155,-73.9356,2301,1,0,0,0,0,0,1,0,Unsafe Lane Changing,Sedan,Sedan08/27/2022,18:30,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Unknown,Unknown08/29/2022,18:00,QUEENS,11429,40.715,-73.7367,218,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Unknown08/29/2022,8:15,MANHATTAN,10003,40.7254,-73.9914,12,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/17/2022,18:30,QUEENS,11369,40.7598,-73.8805,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bike08/21/2022,22:50,UNKNOWN_BOROUGH,00000,40.7854,-73.984,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Sedan,Taxi08/29/2022,14:20,UNKNOWN_BOROUGH,00000,40.7394,-73.9346,0,0,0,0,0,0,0,0,0,Driver
+[Node E] Duplicate: on Wagon/Sport Utility Vehicle,Unknown08/29/2022,11:22,BROOKLYN,11217,40.6841,-73.9775,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Pick-up Truck08/29/2022,16:46,STATEN ISLAND,10308,40.5391,-74.1435,0,0,0,0,0,0,0,0,0,Unsafe Speed,Sedan,Pick-up Truck08/23/2022,14:30,MANHATTAN,10028,40.7779,-73.9518,0,1,0,0,0,0,0,1,0,Unspecified,Taxi,Motorscooter08/16/2022,14:30,BRONX,10461,40.8429,-73.8428,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan08/29/2022,18:04,MANHATTAN,10027,40.8105,-73.956,433,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan
+[Node E] Duplicate: ention/Distraction,Van,Sedan10/19/2022,8:29,QUEENS,11101,40.7525,-73.9241,40,1,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,E-Bike08/10/2022,16:15,UNKNOWN_BOROUGH,00000,40.8193,-73.9303,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/27/2022,6:30,BRONX,10453,40.8504,-73.907,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan08/28/2022,20:45,BROOKLYN,11207,40.6862,-73.9124,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan08/29/2022,1:40,BRONX,10467,40.8734,-73.8759,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Box Truck08/29/2022,16:04,BROOKLYN,11212,40.673,-73.9038,81,0,0,0,0,0,0,0,0,Unspecified,Ambulance,Unknown08/29/2022,10:50,MANHATTAN,10021,40.7708,-73.9569,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan08/19/2022,12:00,BRONX,10454,40.8032,-73.9187,156,1,0,0,0,0,0,1,0,Backing Unsafely,Sedan,Tractor Truck Diesel08/29/2022,14:25,UNKNOWN_BOROUGH,00000,40.7384,-73.849,0,0,0,0
+[Node E] Duplicate: 08/29/2022,16:15,UNKNOWN_BOROUGH,00000,40.5841,-73.9234,0,0,0,0,0,0,0,0,0,Reaction to Uninvolved Vehicle,Sedan,Station Wagon/Sport Utility Vehicle08/29/2022,16:00,MANHATTAN,10014,40.7424,-74.0088,0,0,0,0,0,0,0,0,0,Turning Improperly,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: gon/Sport Utility Vehicle,Unknown08/29/2022,18:20,BROOKLYN,11226,40.6552,-73.9535,205,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown08/22/2022,19:00,BRONX,10467,40.8711,-73.8768,0,1,0,0,0,0,0,1,0,Passing Too Closely,Tanker,Station Wagon/Sport Utility Vehicle08/28/2022,0:00,QUEENS,11691,40.5933,-73.7797,0,1,0,0,0,0,0,0,0,Fell Asleep,E-Bike,Unknown08/28/2022,9:45,BRONX,10467,40.873,-73.8786,300,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/29/2022,18:50,QUEENS,11366,40.7226,-73.8079,0,1,0,0,0,0,0,1,0,Unsafe Speed,Sedan,Unknown08/29/2022,20:10,UNKNOWN_BOROUGH,00000,40.6931,-73.7449,0,2,0,0,0,0,0,2,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/29/2022,8:10,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/29/2022,19:55,BROOKLYN,11204,40.6309,-73.9857,4922,1,0,1,0,0,0,0,0,Unspecified,Sedan,Unknown08/29/202
+[Node E] Duplicate: 08/29/2022,15:52,UNKNOWN_BOROUGH,00000,0,0,1,0,1,0,0,0,0,0,Unspecified,Unknown,Unknown,Unknown08/26/2022,19:36,BRONX,10465,40.8297,-73.8199,0,1,0,0,0,0,0,0,0,Traffic Control Disregarded,E-Scooter,Station Wagon/Sport Utility Vehicle08/29/2022,18:01,BROOKLYN,11223,40.5923,-73.9739,0,1,0,0,0,0,0,1,0,Glare,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 08/29/2022,20:45,BROOKLYN,11230,40.6236,-73.9758,0,3,0,0,0,0,0,3,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 08/26/2022,8:44,QUEENS,11378,40.722,-73.9166,0,1,0,0,0,1,0,0,0,Steering Failure,Sedan,E-Bike
+[Node E] Duplicate: 08/29/2022,14:38,BROOKLYN,11236,40.6374,-73.8885,0,3,0,0,0,0,0,3,0,Unspecified,Sedan,Unknown08/14/2022,8:44,BRONX,10458,40.8681,-73.8856,0,0,0,0,0,0,0,0,0,Turning Improperly,Sedan,Station Wagon/Sport Utility Vehicle08/29/2022,19:30,QUEENS,11355,40.7505,-73.8158,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Sedan,Sedan
+[Node E] Duplicate: 08/29/2022,10:45,UNKNOWN_BOROUGH,00000,40.7007,-73.8273,0,1,0,1,0,0,0,0,0,Unsafe Speed,Sedan,Unknown
+[Node E] Duplicate: 08/25/2022,9:20,QUEENS,11691,40.6051,-73.7547,21,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Sedan,Bike
+[Node E] Duplicate: 08/23/2022,5:53,UNKNOWN_BOROUGH,00000,40.8737,-73.8244,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Pick-up Truck,Unknown08/29/2022,12:00,BRONX,10457,40.8487,-73.9033,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown08/29/2022,17:30,BROOKLYN,11204,40.6211,-73.9873,1816,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 08/20/2022,21:35,UNKNOWN_BOROUGH,00000,40.7105,-73.9638,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unknown,Unknown
+[Node E] Duplicate: 08/29/2022,8:00,UNKNOWN_BOROUGH,00000,40.6938,-73.9431,0,0,0,0,0,0,0,0,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 08/13/2022,17:20,BROOKLYN,11201,40.6921,-73.9831,141,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan
+[Node E] Duplicate: 08/28/2022,2:00,UNKNOWN_BOROUGH,00000,40.7399,-73.7901,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Sedan
+[Node E] Duplicate: 10/20/2022,15:05,QUEENS,11102,40.7704,-73.9236,0,1,0,0,0,0,0,1,0,Following Too Closely,Taxi,Taxi10/20/2022,19:05,BROOKLYN,11223,40.5935,-73.9629,702,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,E-Scooter
+[Node E] Duplicate: 10/19/2022,23:30,QUEENS,11369,40.7603,-73.8758,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Motorcycle10/19/2022,22:46,BROOKLYN,11203,40.6498,-73.9466,968,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle10/20/2022,22:17,BROOKLYN,11228,40.6181,-74.0205,0,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,E-Bike
+[Node E] Duplicate: 07/07/2023,13:09,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Obstruction/Debris,Unknown,Unknown,Unknown
+[Node E] Duplicate: 10/21/2022,7:45,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown10/14/2022,22:22,BROOKLYN,11207,40.6819,-73.9049,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Unknown10/13/2022,12:33,BRONX,10459,40.8213,-73.8969,944,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/23/2022,12:00,BROOKLYN,11226,40.6548,-73.9563,2038,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,E-Bike,Sedan11/12/2022,16:00,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/30/2022,17:28,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Aggressive Driving/Road Rage,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 11/02/2023,10:30,UNKNOWN_BOROUGH,00000,40.8036,-73.9155,0,0,0,0,0,0,0,0,0,Unsafe Speed,Sedan,Station Wagon/Sport Utility Vehicle08/06/2023,13:30,MANHATTAN,10026,40.8059,-73.9569,368,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan
+[Node E] Duplicate: 06/18/2023,16:20,UNKNOWN_BOROUGH,00000,40.8874,-73.8945,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown11/02/2023,20:24,BROOKLYN,11234,40.625,-73.9295,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown08/04/2023,16:20,BRONX,10453,40.8558,-73.9056,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown07/30/2023,0:41,BRONX,10471,0,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unknown,Unknown,Unknown
+[Node E] Duplicate: 01/20/2023,20:11,UNKNOWN_BOROUGH,00000,40.7994,-73.975,0,1,0,0,0,0,0,1,0,Following Too Closely,Sedan,Sedan08/03/2023,8:00,UNKNOWN_BOROUGH,00000,40.6065,-74.1643,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown11/01/2023,19:43,BROOKLYN,11234,40.6105,-73.9334,1915,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 10/30/2023,10:30,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Sedan,Unknown11/01/2023,2:23,UNKNOWN_BOROUGH,00000,40.6745,-73.9529,0,0,0,0,0,0,0,0,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Sedan07/17/2023,16:20,QUEENS,11372,40.7547,-73.8937,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Bus,Pick-up Truck
+[Node E] Duplicate: 11/01/2023,14:35,UNKNOWN_BOROUGH,00000,40.6888,-73.9169,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bike10/22/2022,13:11,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 01/29/2023,11:56,QUEENS,11103,40.7633,-73.9099,28,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 01/31/2023,12:05,QUEENS,11692,40.5889,-73.802,0,0,0,0,0,0,0,0,0,Unsafe Speed,Sedan,Unknown08/06/2023,17:54,BROOKLYN,11211,40.7126,-73.9582,239,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 01/31/2023,12:41,BRONX,10460,40.8383,-73.8862,0,1,0,0,0,0,0,1,0,Unspecified,Box Truck,wheelchair01/31/2023,18:19,BROOKLYN,11229,40.6065,-73.9441,1826,0,0,0,0,0,0,0,0,Unspecified,Ambulance,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 01/31/2023,23:30,BROOKLYN,11230,40.6094,-73.9677,0,1,0,0,0,1,0,0,0,Unspecified,Sedan,Bike08/30/2022,10:35,BROOKLYN,11235,40.582,-73.9599,0,1,0,0,0,1,0,0,0,Aggressive Driving/Road Rage,Sedan,Bike08/30/2022,3:30,MANHATTAN,10027,40.8088,-73.9658,0,0,0,0,0,0,0,0,0,View Obstructed/Limited,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 08/25/2022,5:20,BROOKLYN,11234,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Unknown,Unknown01/31/2023,0:00,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 08/30/2022,18:02,UNKNOWN_BOROUGH,00000,40.8429,-73.9096,0,1,0,0,0,0,0,0,0,Driver Inexperience,E-Bike,Station Wagon/Sport Utility Vehicle08/29/2022,12:55,STATEN ISLAND,10304,40.6233,-74.0838,0,1,0,1,0,0,0,0,0,Unspecified,Pick-up Truck,Unknown01/27/2023,5:10,BRONX,10465,40.8132,-73.8266,2581,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 08/28/2022,4:05,UNKNOWN_BOROUGH,00000,40.8619,-73.9208,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown08/30/2022,10:55,BRONX,10472,40.8323,-73.8713,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 01/31/2023,15:40,UNKNOWN_BOROUGH,00000,40.7568,-73.8387,0,2,0,0,0,0,0,2,0,Unspecified,Pick-up Truck,Station Wagon/Sport Utility Vehicle08/28/2022,2:15,UNKNOWN_BOROUGH,00000,40.7297,-73.8337,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/30/2022,10:20,BRONX,10456,40.8241,-73.9087,0,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Bus,E-Bike
+[Node E] Duplicate: 08/30/2022,17:15,QUEENS,11413,40.681,-73.7429,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Unknown08/30/2022,20:40,BROOKLYN,11229,40.595,-73.9547,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 08/30/2022,15:30,UNKNOWN_BOROUGH,00000,40.7636,-73.836,0,1,0,0,0,1,0,0,0,Backing Unsafely,E-Bike,Unknown08/29/2022,14:59,BROOKLYN,11236,40.6303,-73.9184,1940,0,0,0,0,0,0,0,0,Brakes Defective,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 08/29/2022,4:20,QUEENS,11370,40.7607,-73.8835,30,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown08/25/2022,13:32,UNKNOWN_BOROUGH,00000,40.836,-73.87,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Tractor Truck Diesel,Sedan
+[Node E] Duplicate: 08/30/2022,9:41,QUEENS,11434,40.673,-73.7766,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,AMBULANCE,Sedan08/30/2022,17:06,BROOKLYN,11221,40.6941,-73.9265,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Box Truck
+[Node E] Duplicate: 08/25/2022,17:45,UNKNOWN_BOROUGH,00000,40.8525,-73.9,0,2,0,0,0,0,0,2,0,Passing or Lane Usage Improper,Moped,Sedan08/30/2022,18:37,BROOKLYN,11236,40.6484,-73.91,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node E] Duplicate: 08/30/2022,4:30,STATEN ISLAND,10305,40.5931,-74.0791,20,0,0,0,0,0,0,0,0,Backing Unsafely,Pick-up Truck,Sedan08/28/2022,21:43,MANHATTAN,10027,40.8058,-73.9507,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Sedan,E-Bike
+[Node E] Duplicate: 08/30/2022,20:50,BROOKLYN,11209,40.6243,-74.0248,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle08/29/2022,15:46,BRONX,10457,40.8395,-73.8996,551,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 08/30/2022,17:00,QUEENS,11374,40.7223,-73.8673,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Sedan,Sedan
+[Node E] Duplicate: 08/30/2022,18:51,QUEENS,11420,40.6699,-73.8094,133,1,0,0,0,0,0,1,0,Reaction to Uninvolved Vehicle,Motorcycle,Unknown08/30/2022,17:13,BROOKLYN,11237,40.7015,-73.9231,0,0,0,0,0,0,0,0,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 08/24/2022,15:45,BRONX,10461,40.8574,-73.8466,1400,0,0,0,0,0,0,0,0,View Obstructed/Limited,Ambulance,E-Scooter08/30/2022,15:00,BRONX,10453,40.8546,-73.9019,0,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 08/30/2022,12:48,UNKNOWN_BOROUGH,00000,40.8344,-73.9285,0,1,0,0,0,1,0,0,0,Driver Inexperience,Sedan,E-Bike08/30/2022,15:10,STATEN ISLAND,10309,40.5306,-74.2175,0,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Sedan,Station Wagon/Sport Utility Vehicle08/30/2022,15:45,BRONX,10465,40.8291,-73.8158,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 08/28/2022,16:48,BRONX,10472,40.8259,-73.8633,1791,1,0,0,0,0,0,1,0,Turning Improperly,Sedan,Sedan08/30/2022,14:32,UNKNOWN_BOROUGH,00000,40.5756,-73.9812,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan08/29/2022,13:21,BROOKLYN,11233,40.6741,-73.9133,2021,0,0,0,0,0,0,0,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Box Truck
+[Node E] Duplicate: 08/30/2022,14:39,QUEENS,11364,40.7496,-73.7547,221,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown01/31/2023,18:12,UNKNOWN_BOROUGH,00000,40.5966,-74.0023,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/30/2022,19:10,UNKNOWN_BOROUGH,00000,40.6663,-73.9596,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 01/31/2023,19:00,BROOKLYN,11209,40.6126,-74.0361,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Sedan01/31/2023,0:10,QUEENS,11358,40.7645,-73.7911,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle01/31/2023,23:00,QUEENS,11373,40.7304,-73.8789,57,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 08/30/2022,23:00,QUEENS,11368,40.7502,-73.8607,104,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Box Truck01/31/2023,10:00,QUEENS,11102,40.7699,-73.923,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle08/30/2022,19:27,MANHATTAN,10001,40.7503,-73.9911,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown01/31/2023,13:00,BROOKLYN,11201,40.6905,-73.9954,139,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,AMBULANCE,Station Wagon/Sport Utility Vehicle01/31/2023,18:08,BRONX,10459,40.8228,-73.8939,972,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown01/31/2023,20:30,BROOKLYN,11203,40.6439,-73.9383,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 01/22/2023,15:40,MANHATTAN,10013,40.7194,-74.0019,0,0,0,0,0,0,0,0,0,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Unknown01/31/2023,20:50,UNKNOWN_BOROUGH,00000,40.8296,-73.9501,0,0,0,0,0,0,0,0,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle01/31/2023,12:30,BROOKLYN,11211,40.7065,-73.9504,211,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Sedan01/31/2023,0:00,UNKNOWN_BOROUGH,00000,40.8366,-73.8714,0,1,0,0,0,0,0,1,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Sedan01/30/2023,14:53,BRONX,10458,40.8654,-73.8868,0,1,0,0,0,0,0,1,0,Following Too Closely,Tractor Truck Diesel,Sedan01/31/2023,23:15,UNKNOWN_BOROUGH,00000,40.6657,-73.7556,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,Sedan01/31/2023,18:50,UNKNOWN_BOROUGH,00000,40.5939,-74.1869,0,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 01/31/2023,18:52,UNKNOWN_BOROUGH,00000,40.6689,-73.9586,0,1,0,0,0,1,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Bike01/30/2023,0:07,MANHATTAN,10002,40.7143,-73.9809,0,1,0,0,0,1,0,0,0,Alcohol Involvement,Sedan,Bike01/30/2023,7:41,QUEENS,11102,40.7707,-73.9206,28,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Dump,Sedan01/31/2023,22:39,MANHATTAN,10003,40.7277,-73.9913,21,1,0,0,0,0,0,1,0,Other Vehicular,Sedan,FIRE TRUCK
+[Node E] Duplicate: 01/31/2023,11:20,BROOKLYN,11201,40.6899,-73.9957,127,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown01/31/2023,11:32,UNKNOWN_BOROUGH,00000,40.6623,-73.9887,0,1,0,0,0,0,0,1,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle01/31/2023,15:05,BROOKLYN,11232,40.6565,-74.0021,0,1,0,0,0,1,0,0,0,Failure to Yield Right-of-Way,Bike,Unknown01/31/2023,14:30,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Following Too Closely,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 01/31/2023,3:57,QUEENS,11412,40.7009,-73.7571,0,2,0,0,0,0,0,2,0,Traffic Control Disregarded,Sedan,Station Wagon/Sport Utility Vehicle01/31/2023,10:30,BROOKLYN,11201,40.7029,-73.9847,53,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Flat Bed,Station Wagon/Sport Utility Vehicle08/28/2022,16:00,BROOKLYN,11208,40.6775,-73.8715,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown10/01/2022,3:58,UNKNOWN_BOROUGH,00000,40.8554,-73.9184,0,0,0,0,0,0,0,0,0,Driver Inexperience,Sedan,Unknown
+[Node E] Duplicate: 01/31/2023,7:00,QUEENS,11354,40.7646,-73.8235,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Station Wagon/Sport Utility Vehicle01/31/2023,18:00,UNKNOWN_BOROUGH,00000,40.5792,-73.9819,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Sedan,Bike
+[Node E] Duplicate: 01/19/2023,20:52,UNKNOWN_BOROUGH,00000,40.8263,-73.8888,0,1,0,0,0,0,0,1,0,Other Vehicular,Sedan,Sedan01/31/2023,7:13,BROOKLYN,11229,40.6114,-73.9498,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Dump01/31/2023,10:30,UNKNOWN_BOROUGH,00000,40.6937,-73.8398,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,Unknown
+[Node E] Duplicate: 01/31/2023,22:13,QUEENS,11373,40.7335,-73.8704,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Convertible,Unknown10/11/2022,14:30,QUEENS,11101,40.7525,-73.9102,33,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,UNK01/31/2023,9:11,UNKNOWN_BOROUGH,00000,40.7689,-73.949,0,2,0,0,0,0,0,2,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle01/31/2023,16:30,QUEENS,11101,40.752,-73.932,0,1,0,1,0,0,0,0,0,Traffic Control Disregarded,E-Scooter,Unknown
+[Node E] Duplicate: 01/31/2023,17:50,BROOKLYN,11217,40.6872,-73.9819,45,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Station Wagon/Sport Utility Vehicle10/22/2022,3:07,BRONX,10473,40.8187,-73.8662,0,0,0,0,0,0,0,0,0,Using On Board Navigation Device,Sedan,Sedan
+[Node E] Duplicate: 10/22/2022,12:20,STATEN ISLAND,10307,40.5133,-74.2482,5373,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan10/20/2022,19:48,QUEENS,11368,40.7439,-73.8575,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown10/22/2022,22:35,QUEENS,11422,40.6595,-73.7326,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 10/22/2022,3:30,UNKNOWN_BOROUGH,00000,40.7007,-73.995,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Pick-up Truck,Sedan01/31/2023,17:25,BROOKLYN,11204,40.6201,-73.9857,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node E] Duplicate: 10/21/2022,14:40,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Following Too Closely,Sedan,Unknown10/22/2022,17:30,UNKNOWN_BOROUGH,00000,40.7157,-73.8257,0,3,0,0,0,0,0,3,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/22/2022,16:48,STATEN ISLAND,10307,40.5108,-74.242,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 10/19/2022,15:32,QUEENS,11379,40.7205,-73.8888,0,0,0,0,0,0,0,0,0,Unspecified,Pick-up Truck,Unknown10/22/2022,10:15,MANHATTAN,10001,40.7476,-73.9893,860,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Ford,Box Truck10/19/2022,14:05,MANHATTAN,10033,40.8446,-73.9372,1275,0,0,0,0,0,0,0,0,Passing Too Closely,Van,Box Truck
+[Node E] Duplicate: 10/20/2022,0:39,MANHATTAN,10128,40.7859,-73.953,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bike10/20/2022,0:00,QUEENS,11378,40.722,-73.8932,0,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Motorcycle,Sedan
+[Node E] Duplicate: 10/20/2022,4:00,MANHATTAN,10001,40.7496,-74.0028,0,0,0,0,0,0,0,0,0,Oversized Vehicle,Sedan,Garbage or Refuse10/22/2022,0:15,UNKNOWN_BOROUGH,00000,40.8265,-73.9312,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Van,Taxi
+[Node E] Duplicate: 08/23/2022,3:50,QUEENS,11368,40.7368,-73.8559,102,0,0,0,0,0,0,0,0,Other Vehicular,Station Wagon/Sport Utility Vehicle,Tractor Truck Diesel10/13/2022,0:00,BROOKLYN,11211,40.7076,-73.962,159,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 10/22/2022,10:33,UNKNOWN_BOROUGH,00000,40.6929,-73.8778,0,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Sedan10/20/2022,8:30,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Following Too Closely,Unspecified,Sedan,Unknown01/12/2023,19:15,BRONX,10466,40.8981,-73.8512,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Unknown,Unknown
+[Node E] Duplicate: 10/22/2022,9:58,MANHATTAN,10012,40.7301,-73.9994,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/22/2022,10:15,QUEENS,11432,40.7164,-73.7749,187,0,0,0,0,0,0,0,0,Reaction to Uninvolved Vehicle,Station Wagon/Sport Utility Vehicle,Unknown10/22/2022,2:50,BROOKLYN,11221,40.6893,-73.924,0,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 10/22/2022,10:30,UNKNOWN_BOROUGH,00000,40.6086,-74.1482,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan10/19/2022,18:15,MANHATTAN,10011,40.747,-74.0024,435,0,0,0,0,0,0,0,0,Passing Too Closely,Motorcycle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 10/21/2022,19:30,STATEN ISLAND,10301,40.6334,-74.0877,50,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown10/15/2022,21:29,BROOKLYN,11212,40.671,-73.9111,0,0,0,0,0,0,0,0,0,Turning Improperly,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 10/22/2022,4:50,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unknown,Unknown,Unknown10/22/2022,23:25,UNKNOWN_BOROUGH,00000,40.6811,-73.9644,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 10/21/2022,17:45,UNKNOWN_BOROUGH,00000,40.7967,-73.9293,0,0,0,0,0,0,0,0,0,Unspecified,Pick-up Truck,Sedan
+[Node E] Duplicate: 10/22/2022,4:05,QUEENS,11372,40.7538,-73.8841,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/22/2022,17:03,MANHATTAN,10013,40.722,-74.0082,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan08/06/2023,16:50,BROOKLYN,11231,40.6761,-73.9998,162,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/06/2023,10:25,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown08/06/2023,23:05,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Unknown,Unknown
+[Node E] Duplicate: 08/06/2023,21:10,QUEENS,11433,40.6908,-73.7948,0,4,0,0,0,0,0,4,0,Unsafe Speed,Sedan,Sedan08/06/2023,11:07,BRONX,10456,40.8364,-73.9159,0,1,0,0,0,0,0,1,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Sedan08/06/2023,15:24,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Unknown,Unknown,Unknown08/05/2023,18:25,STATEN ISLAND,10306,40.5747,-74.1293,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 08/06/2023,21:15,UNKNOWN_BOROUGH,00000,40.6666,-73.8118,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Sedan08/05/2023,9:35,UNKNOWN_BOROUGH,00000,40.6759,-73.9472,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Bike,Sedan08/31/2022,16:00,BRONX,10453,40.8518,-73.9092,0,1,0,0,0,1,0,0,0,Turning Improperly,Bike,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 08/31/2022,11:46,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Passing or Lane Usage Improper,Sedan,Unknown08/06/2023,2:30,BROOKLYN,11229,40.6101,-73.9496,1662,0,0,0,0,0,0,0,0,Fell Asleep,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/02/2022,11:15,UNKNOWN_BOROUGH,00000,40.7063,-73.9196,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown08/31/2022,8:00,MANHATTAN,10021,40.7655,-73.9547,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown08/06/2023,23:20,BROOKLYN,11207,40.6582,-73.8957,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Pick-up Truck
+[Node E] Duplicate: 09/02/2022,17:00,BROOKLYN,11226,40.6481,-73.951,2802,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Sedan09/01/2022,6:08,QUEENS,11361,40.7628,-73.7697,214,0,0,0,0,0,0,0,0,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 08/26/2022,9:10,QUEENS,11354,40.761,-73.8352,0,1,0,1,0,0,0,0,0,Oversized Vehicle,Dump,Unknown08/13/2022,21:00,QUEENS,11373,40.7368,-73.8777,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Bike,Unknown
+[Node E] Duplicate: 09/01/2022,9:30,BROOKLYN,11219,40.6375,-74.0022,937,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown08/31/2022,16:58,BRONX,10453,40.8561,-73.9065,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Sedan,Sedan08/29/2022,19:43,BROOKLYN,11207,40.6628,-73.8809,0,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/31/2022,11:00,UNKNOWN_BOROUGH,00000,40.8241,-73.941,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 09/01/2022,17:10,BRONX,10472,40.834,-73.8629,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Box Truck,Station Wagon/Sport Utility Vehicle08/04/2022,7:24,UNKNOWN_BOROUGH,00000,40.8189,-73.9522,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Garbage or Refuse,Bus08/04/2022,17:00,QUEENS,11435,40.6947,-73.8092,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Motorbike
+[Node E] Duplicate: 08/31/2022,14:40,QUEENS,11435,40.7025,-73.8143,0,1,0,0,0,0,0,1,0,Other Vehicular,Bus,Sedan09/01/2022,15:35,BRONX,10451,40.8246,-73.9106,0,2,0,2,0,0,0,0,0,Unsafe Speed,Taxi,Unknown09/02/2022,12:00,UNKNOWN_BOROUGH,00000,40.6667,-73.8718,0,0,0,0,0,0,0,0,0,Unspecified,Pick-up Truck,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/01/2022,19:17,MANHATTAN,10027,40.8081,-73.9601,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Taxi,Taxi09/01/2022,21:20,UNKNOWN_BOROUGH,00000,40.5966,-74.0023,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Taxi08/28/2022,17:00,STATEN ISLAND,10312,40.542,-74.1729,126,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Pick-up Truck
+[Node F] Duplicate: 08/30/2022,20:00,UNKNOWN_BOROUGH,00000,40.6826,-73.7659,0,0,0,0,0,0,0,0,0,Aggressive Driving/Road Rage,Sedan,Unknown09/01/2022,7:00,BRONX,10472,40.8251,-73.8822,1095,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown08/28/2022,6:45,UNKNOWN_BOROUGH,00000,40.7922,-73.9463,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/31/2022,22:00,UNKNOWN_BOROUGH,00000,40.6616,-73.9507,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/02/2022,19:41,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,1,0,0,0,Unspecified,Unknown,Unknown,Unknown
+[Node F] Duplicate: 08/31/2022,17:20,UNKNOWN_BOROUGH,00000,40.6609,-73.9291,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan08/20/2022,4:20,UNKNOWN_BOROUGH,00000,40.6663,-73.7917,0,0,0,0,0,0,0,0,0,Following Too Closely,Pick-up Truck,Sedan
+[Node F] Duplicate: 09/01/2022,19:20,UNKNOWN_BOROUGH,00000,40.6984,-73.9133,0,0,0,0,0,0,0,0,0,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Sedan08/31/2022,14:45,QUEENS,11005,40.7563,-73.7211,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Motorcycle
+[Node E] Duplicate: 08/16/2022,21:00,BROOKLYN,11237,40.7038,-73.9312,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown08/07/2022,17:26,QUEENS,11355,0,0,0,0,0,0,0,0,0,0,Turning Improperly,Unspecified,Unknown,Unknown
+[Node F] Duplicate: 08/30/2022,16:19,UNKNOWN_BOROUGH,00000,40.7885,-73.9511,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown09/01/2022,8:51,BROOKLYN,11207,40.6712,-73.8918,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 08/31/2022,0:12,UNKNOWN_BOROUGH,00000,40.6967,-73.9378,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Taxi09/02/2022,4:50,MANHATTAN,10019,40.7648,-73.9843,0,2,0,0,0,0,0,2,0,Unspecified,Tractor Truck Diesel,Sedan09/01/2022,12:15,QUEENS,11368,40.7478,-73.8606,0,1,0,0,0,1,0,0,0,Unspecified,Sedan,Bike
+[Node E] Duplicate: 08/27/2022,21:00,QUEENS,11413,40.6788,-73.7542,0,0,0,0,0,0,0,0,0,Unspecified,Trailer,Unknown08/29/2022,9:30,BROOKLYN,11208,40.6844,-73.8744,165,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Box Truck09/01/2022,0:10,MANHATTAN,10013,40.7199,-73.9953,0,3,0,0,0,0,0,3,0,Failure to Yield Right-of-Way,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 08/31/2022,11:50,STATEN ISLAND,10307,0,0,371,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Utility08/30/2022,12:13,BROOKLYN,11206,40.7074,-73.9505,0,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,E-Scooter08/31/2022,12:30,QUEENS,11357,40.7753,-73.8096,0,3,0,0,0,0,0,3,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/01/2022,13:00,MANHATTAN,10014,40.7279,-74.0057,68,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Pick-up Truck,Motorcycle08/31/2022,20:30,UNKNOWN_BOROUGH,00000,0,0,4,0,0,0,0,0,4,0,Passing or Lane Usage Improper,Unspecified,Tow Truck / Wrecker,Unknown08/31/2022,16:24,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unsafe Speed,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 08/31/2022,3:13,QUEENS,11373,40.7453,-73.8825,83,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown09/01/2022,17:10,UNKNOWN_BOROUGH,00000,40.7921,-73.9718,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown08/31/2022,22:17,UNKNOWN_BOROUGH,00000,40.6308,-73.8864,0,1,0,1,0,0,0,0,0,Unspecified,E-Bike,Unknown08/31/2022,11:00,BRONX,10458,40.8779,-73.885,3224,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 08/28/2022,15:00,BRONX,10469,40.873,-73.8383,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/31/2022,16:30,MANHATTAN,10035,40.8051,-73.939,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Station Wagon/Sport Utility Vehicle,Unknown09/01/2022,21:11,QUEENS,11101,40.7397,-73.9346,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Sedan08/31/2022,19:26,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Unspecified,E-Scooter,Unknown
+[Node F] Duplicate: 09/01/2022,22:40,BROOKLYN,11219,40.6306,-74.0092,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan08/25/2022,15:20,MANHATTAN,10065,40.7623,-73.9587,415,0,0,0,0,0,0,0,0,Other Vehicular,Taxi,Sedan09/02/2022,6:30,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Passing Too Closely,Following Too Closely,Flat Bed,Unknown
+[Node E] Duplicate: 08/31/2022,4:45,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Driver Inexperience,Unknown,Unknown,Unknown08/31/2022,7:50,BRONX,10457,40.854,-73.8933,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle09/02/2022,13:19,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/31/2022,14:20,UNKNOWN_BOROUGH,00000,40.6108,-74.1811,0,0,0,0,0,0,0,0,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 09/02/2022,5:00,UNKNOWN_BOROUGH,00000,40.6787,-73.953,0,1,0,0,0,1,0,0,0,Unsafe Speed,Sedan,E-Bike09/02/2022,0:11,MANHATTAN,10024,40.7839,-73.9741,0,0,0,0,0,0,0,0,0,Other Vehicular,Sedan,Station Wagon/Sport Utility Vehicle09/02/2022,15:30,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Unspecified,C1,Unknown09/01/2022,12:15,QUEENS,11355,40.7576,-73.828,0,0,0,0,0,0,0,0,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/01/2022,11:45,UNKNOWN_BOROUGH,00000,40.7119,-74.006,0,1,0,0,0,1,0,0,0,Unspecified,Sedan,Bike09/01/2022,17:28,QUEENS,11369,40.7645,-73.8698,0,0,1,0,1,0,0,0,0,Unspecified,Pick-up Truck,Unknown09/02/2022,5:22,MANHATTAN,10075,40.7717,-73.9532,0,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown09/01/2022,10:30,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Brakes Defective,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 09/01/2022,6:20,BRONX,10452,0,0,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/26/2022,21:21,MANHATTAN,10002,40.7151,-73.9925,0,1,0,0,0,0,0,1,0,Unspecified,E Bike w p,E Bike w p09/01/2022,0:15,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Reaction to Uninvolved Vehicle,Unknown,Unknown,Unknown
+[Node F] Duplicate: 08/24/2022,14:43,UNKNOWN_BOROUGH,00000,40.632,-74.1467,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown08/29/2022,3:15,UNKNOWN_BOROUGH,00000,40.7032,-73.8166,0,2,0,0,0,0,0,2,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Unknown08/31/2022,8:42,UNKNOWN_BOROUGH,00000,40.8259,-73.9471,0,1,0,1,0,0,0,0,0,Alcohol Involvement,Sedan,Unknown
+[Node E] Duplicate: 08/29/2022,19:25,MANHATTAN,10002,40.7177,-73.9858,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Unknown09/01/2022,8:30,BRONX,10466,40.8906,-73.8487,0,1,0,1,0,0,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Sedan,Unknown09/01/2022,23:50,BRONX,10473,40.8239,-73.8746,1600,1,0,0,0,0,0,1,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 09/01/2022,16:25,BROOKLYN,11225,40.6618,-73.9463,502,1,0,0,0,0,0,1,0,Following Too Closely,Sedan,Station Wagon/Sport Utility Vehicle09/02/2022,14:40,MANHATTAN,10035,40.8051,-73.939,0,1,0,0,0,0,0,1,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/01/2022,20:00,BROOKLYN,11209,40.6179,-74.0333,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/02/2022,8:30,MANHATTAN,10018,40.7523,-73.9897,0,1,0,0,0,1,0,0,0,Passenger Distraction,Sedan,Bike
+[Node E] Duplicate: 08/28/2022,12:40,STATEN ISLAND,10304,40.6268,-74.0832,19,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/02/2022,4:00,UNKNOWN_BOROUGH,00000,40.6325,-73.8832,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 08/31/2022,19:30,BROOKLYN,11214,40.6077,-74.0021,8513,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bus09/01/2022,11:00,MANHATTAN,10027,40.82,-73.9589,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node F] Duplicate: 08/30/2022,16:00,QUEENS,11372,40.7489,-73.8927,0,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,E-Scooter,Unknown09/02/2022,10:04,BROOKLYN,11231,40.6833,-73.9928,251,1,0,0,0,1,0,0,0,Failure to Yield Right-of-Way,Sedan,Bike
+[Node E] Duplicate: 08/29/2022,15:30,BROOKLYN,11208,40.6809,-73.8714,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/31/2022,10:20,UNKNOWN_BOROUGH,00000,40.785,-73.9406,0,2,0,0,0,0,0,2,0,Unsafe Speed,Sedan,Sedan
+[Node F] Duplicate: 08/06/2023,4:57,UNKNOWN_BOROUGH,00000,40.645,-73.9249,0,3,0,0,0,0,0,3,0,Unspecified,Pick-up Truck,Station Wagon/Sport Utility Vehicle10/31/2022,14:57,BRONX,10463,40.8882,-73.8989,5925,1,0,0,0,0,0,1,0,Alcohol Involvement,Sedan,Scooter
+[Node E] Duplicate: 05/05/2023,20:30,UNKNOWN_BOROUGH,00000,40.6519,-73.9294,0,1,0,1,0,0,0,0,0,Unspecified,Bus,Unknown08/31/2022,18:00,QUEENS,11416,40.6813,-73.8621,97,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 07/28/2023,14:38,MANHATTAN,10027,40.8093,-73.949,209,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,E-Bike,Unknown08/28/2022,5:30,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/01/2022,7:30,UNKNOWN_BOROUGH,00000,40.5829,-73.9805,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan
+[Node F] Duplicate: 09/02/2022,16:10,BROOKLYN,11238,40.6861,-73.9714,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bike08/06/2023,16:20,UNKNOWN_BOROUGH,00000,40.5966,-74.0023,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Station Wagon/Sport Utility Vehicle07/31/2023,16:30,UNKNOWN_BOROUGH,00000,40.6105,-74.1035,0,0,0,0,0,0,0,0,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Pick-up Truck
+[Node F] Duplicate: 08/06/2023,23:37,QUEENS,11418,40.7022,-73.825,86,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown08/05/2023,18:40,STATEN ISLAND,10304,40.6138,-74.0836,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown07/06/2023,19:33,UNKNOWN_BOROUGH,00000,40.8771,-73.9062,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan07/29/2023,10:55,UNKNOWN_BOROUGH,00000,40.6823,-73.8509,0,1,0,0,0,0,0,1,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 08/03/2022,8:43,MANHATTAN,10017,40.7542,-73.969,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Bus,Sedan08/31/2022,13:45,QUEENS,11361,40.7577,-73.7793,0,0,0,0,0,0,0,0,0,Reaction to Uninvolved Vehicle,Pick-up Truck,Sedan08/06/2023,16:48,UNKNOWN_BOROUGH,00000,40.7415,-73.8426,0,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 08/06/2023,4:27,BROOKLYN,11216,40.681,-73.9377,0,0,1,0,0,0,0,0,1,Traffic Control Disregarded,Sedan,Motorscooter08/06/2023,10:08,QUEENS,11106,40.757,-73.9306,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown07/29/2023,21:05,QUEENS,11372,40.7466,-73.8936,0,1,0,0,0,1,0,0,0,Unspecified,Bus,Bike
+[Node E] Duplicate: 08/06/2023,2:57,QUEENS,11420,40.68,-73.83,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown09/01/2022,23:25,QUEENS,11106,40.7643,-73.9235,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Taxi,Motorcycle08/06/2023,17:39,BROOKLYN,11204,40.615,-73.9818,2159,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 08/06/2023,15:00,UNKNOWN_BOROUGH,00000,40.7166,-73.9756,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Motorcycle,Sedan05/05/2023,8:42,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Unspecified,Unspecified,Sedan,Unknown10/23/2022,13:45,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Following Too Closely,Following Too Closely,Sedan,Sedan
+[Node F] Duplicate: 08/05/2023,21:20,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Bus,Unknown09/03/2022,21:01,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Turning Improperly,Unspecified,Sedan,Unknown08/06/2023,18:35,BROOKLYN,11221,40.6924,-73.9428,0,2,0,0,0,0,0,0,0,Reaction to Uninvolved Vehicle,Station Wagon/Sport Utility Vehicle,E-Bike
+[Node E] Duplicate: 08/06/2023,15:30,UNKNOWN_BOROUGH,00000,40.6608,-73.8955,0,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown05/29/2023,16:16,UNKNOWN_BOROUGH,00000,40.8881,-73.8928,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 08/06/2023,9:35,MANHATTAN,10027,40.8109,-73.9529,354,2,0,0,0,0,0,2,0,Unspecified,Taxi,Station Wagon/Sport Utility Vehicle08/06/2023,1:02,BRONX,10454,40.8089,-73.9184,0,0,0,0,0,0,0,0,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 08/06/2023,21:30,BRONX,10456,40.8318,-73.8993,1325,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/06/2023,18:00,QUEENS,11426,40.742,-73.7229,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 08/06/2023,3:50,BROOKLYN,11212,40.6663,-73.9157,0,0,0,0,0,0,0,0,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Unknown06/19/2023,0:00,BRONX,10463,40.8857,-73.9103,565,2,0,0,0,0,0,2,0,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 07/26/2023,8:12,QUEENS,11369,40.7577,-73.8792,32,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node E] Duplicate: 05/03/2023,14:07,BROOKLYN,11237,40.7065,-73.9309,0,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Box Truck05/01/2023,15:15,UNKNOWN_BOROUGH,00000,40.8866,-73.8463,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 04/23/2023,14:00,BROOKLYN,11225,40.6541,-73.9617,297,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown05/04/2023,22:30,UNKNOWN_BOROUGH,00000,40.8454,-73.914,0,2,0,2,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 08/06/2023,9:20,MANHATTAN,10028,40.7759,-73.9561,1441,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Taxi,Station Wagon/Sport Utility Vehicle08/06/2023,12:50,BROOKLYN,11203,40.6505,-73.9236,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 05/05/2023,3:12,UNKNOWN_BOROUGH,00000,40.7382,-73.8492,0,0,0,0,0,0,0,0,0,Other Vehicular,Taxi,Sedan05/03/2023,15:00,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Unknown05/05/2023,11:46,BROOKLYN,11249,40.7132,-73.9622,326,1,0,1,0,0,0,0,0,Backing Unsafely,Sedan,Unknown
+[Node E] Duplicate: 05/04/2023,20:00,QUEENS,11413,0,0,135,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan07/28/2023,11:45,BRONX,10466,40.8869,-73.8628,655,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/06/2023,2:07,UNKNOWN_BOROUGH,00000,0,0,2,0,0,0,0,0,2,0,Unsafe Speed,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan08/04/2023,21:00,QUEENS,11369,40.7582,-73.8811,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 05/03/2023,11:12,BROOKLYN,11206,40.6959,-73.9376,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan05/03/2023,21:22,BROOKLYN,11209,40.6299,-74.0314,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/06/2023,11:54,MANHATTAN,10032,40.8352,-73.9385,0,0,0,0,0,0,0,0,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Sedan08/06/2023,0:00,BROOKLYN,11238,40.6789,-73.962,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 09/03/2022,23:14,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Following Too Closely,Unspecified,Sedan,Unknown05/04/2023,8:40,BROOKLYN,11235,40.5888,-73.9464,2301,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Sedan04/22/2023,22:30,UNKNOWN_BOROUGH,00000,40.8111,-73.9273,0,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 05/03/2023,0:04,BRONX,10459,40.8224,-73.902,0,2,0,0,0,0,0,2,0,Following Too Closely,Sedan,Station Wagon/Sport Utility Vehicle05/03/2023,10:25,UNKNOWN_BOROUGH,00000,40.6582,-74.0004,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bike05/05/2023,13:28,UNKNOWN_BOROUGH,00000,40.7561,-73.9428,0,1,0,0,0,0,0,0,0,Traffic Control Disregarded,Bus,E-Scooter
+[Node F] Duplicate: 10/07/2022,15:42,QUEENS,11101,40.7549,-73.9342,28,0,0,0,0,0,0,0,0,Passing Too Closely,Sedan,Sedan10/22/2022,15:10,MANHATTAN,10019,40.766,-73.9871,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Pick-up Truck05/03/2023,20:10,BRONX,10458,40.8685,-73.8883,0,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle05/05/2023,21:55,BROOKLYN,11209,40.6228,-74.0284,0,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,E-Bike,Sedan
+[Node F] Duplicate: 05/04/2023,17:00,UNKNOWN_BOROUGH,00000,40.6772,-73.9275,0,2,0,0,0,0,0,2,0,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/22/2022,3:27,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Unspecified,Unknown,Unknown,Unknown10/22/2022,18:43,UNKNOWN_BOROUGH,00000,40.642,-74.0172,0,0,1,0,1,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 10/23/2022,18:41,BROOKLYN,11211,40.7141,-73.9516,0,1,0,0,0,1,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Station Wagon/Sport Utility Vehicle,Bike05/03/2023,16:32,BROOKLYN,11203,40.6446,-73.9431,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown05/03/2023,8:00,UNKNOWN_BOROUGH,00000,40.7254,-73.8378,0,2,0,0,0,0,0,2,0,Unsafe Lane Changing,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 05/03/2023,2:31,UNKNOWN_BOROUGH,00000,40.6925,-73.8108,0,0,0,0,0,0,0,0,0,Passing Too Closely,Tractor Truck Diesel,Tractor Truck Diesel08/22/2022,5:10,MANHATTAN,10001,40.751,-73.9906,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,Taxi10/21/2022,18:30,QUEENS,11105,40.7787,-73.9143,25,1,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,E-Bike,Sedan
+[Node F] Duplicate: 08/24/2022,13:19,UNKNOWN_BOROUGH,00000,0,0,1,1,0,1,1,0,0,0,Unspecified,Unspecified,E-Bike,Unknown09/03/2022,8:39,BROOKLYN,11222,40.7307,-73.9492,0,2,0,0,0,0,0,2,0,Unspecified,Station Wagon/Sport Utility Vehicle,Motorcycle10/21/2022,17:19,UNKNOWN_BOROUGH,00000,40.6799,-73.9403,0,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Unknown
+[Node E] Duplicate: 08/31/2022,16:30,MANHATTAN,10001,40.7518,-74.0079,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Sedan09/03/2022,2:35,UNKNOWN_BOROUGH,00000,40.8239,-73.8765,0,0,0,0,0,0,0,0,0,Unsafe Speed,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/23/2022,0:00,STATEN ISLAND,10304,40.6121,-74.0853,0,1,0,1,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 09/03/2022,18:40,BROOKLYN,11201,0,0,1,0,0,0,0,0,1,0,Following Too Closely,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/23/2022,1:57,UNKNOWN_BOROUGH,00000,0,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Unspecified,Sedan,Unknown10/23/2022,6:30,QUEENS,11432,40.7141,-73.7777,184,1,0,0,0,0,0,1,0,Fell Asleep,Sedan,Pick-up Truck08/28/2022,0:18,BRONX,10474,40.811,-73.8807,0,3,0,0,0,0,0,3,0,Oversized Vehicle,Carry All,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/03/2022,20:55,QUEENS,11379,40.7182,-73.8938,0,1,0,0,0,1,0,0,0,Passing or Lane Usage Improper,Sedan,Bike09/03/2022,2:38,UNKNOWN_BOROUGH,00000,40.708,-73.8446,0,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Sedan09/03/2022,1:50,BROOKLYN,11211,40.712,-73.9407,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle08/29/2022,1:00,QUEENS,11368,40.758,-73.8578,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 10/23/2022,9:20,UNKNOWN_BOROUGH,00000,40.8347,-73.9407,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Ambulance,Sedan09/03/2022,20:00,QUEENS,11369,40.7588,-73.8648,32,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown09/03/2022,20:45,MANHATTAN,10019,40.7648,-73.9843,0,0,0,0,0,0,0,0,0,Turning Improperly,Bus,Sedan08/31/2022,7:55,UNKNOWN_BOROUGH,00000,40.6304,-73.8859,0,2,0,0,0,0,0,2,0,Following Too Closely,Sedan,Station Wagon/Sport Utility Vehicle10/23/2022,13:12,UNKNOWN_BOROUGH,00000,0,0,4,0,0,0,0,0,4,0,Cell Phone (hand-Held),Unknown,Unknown,Unknown
+[Node F] Duplicate: 09/03/2022,23:25,MANHATTAN,10012,0,0,0,1,0,0,0,0,0,1,0,Alcohol Involvement,Sedan,Sedan09/03/2022,2:11,BRONX,10467,40.8769,-73.8646,3445,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Sedan08/06/2023,6:15,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Unspecified,Unknown,Unknown,Unknown08/28/2022,1:00,BROOKLYN,11211,40.712,-73.9407,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Bike,Bus08/28/2022,15:30,UNKNOWN_BOROUGH,00000,40.7491,-73.9882,0,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Unknown
+[Node E] Duplicate: 09/03/2022,16:12,BROOKLYN,11215,40.6657,-73.9792,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bike08/30/2022,13:37,BROOKLYN,11203,40.6559,-73.9424,0,1,0,0,0,1,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Sedan,Bike09/03/2022,22:00,BROOKLYN,11201,40.7014,-73.9848,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Sedan,Bike09/03/2022,2:10,QUEENS,11368,40.7571,-73.8704,0,2,0,0,0,0,0,2,0,Alcohol Involvement,Sedan,Sedan
+[Node F] Duplicate: 08/10/2022,9:30,UNKNOWN_BOROUGH,00000,40.6065,-74.0325,0,0,0,0,0,0,0,0,0,Aggressive Driving/Road Rage,Pick-up Truck,Station Wagon/Sport Utility Vehicle09/03/2022,23:57,UNKNOWN_BOROUGH,00000,40.7243,-73.9374,0,0,0,0,0,0,0,0,0,Illnes,Sedan,Sedan09/02/2022,23:54,MANHATTAN,10069,0,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Unknown,Unknown,Unknown
+[Node F] Duplicate: 10/23/2022,5:27,BROOKLYN,11235,40.5847,-73.9537,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 09/02/2022,11:35,QUEENS,11373,40.7416,-73.8829,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown
+[Node E] Duplicate: 09/03/2022,17:00,UNKNOWN_BOROUGH,00000,40.5969,-74.1913,0,0,0,0,0,0,0,0,0,Other Vehicular,Dump,Station Wagon/Sport Utility Vehicle10/20/2022,17:30,MANHATTAN,10032,40.841,-73.9395,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Bike
+[Node F] Duplicate: 10/23/2022,4:30,UNKNOWN_BOROUGH,00000,40.7928,-73.8249,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,Unknown09/02/2022,16:30,BRONX,10456,40.8353,-73.9046,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,E-Scooter09/03/2022,5:00,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Unknown,Unknown,Unknown
+[Node E] Duplicate: 09/03/2022,18:30,UNKNOWN_BOROUGH,00000,0,0,2,0,0,0,0,0,2,0,Failure to Yield Right-of-Way,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/27/2022,15:40,UNKNOWN_BOROUGH,00000,40.7075,-73.9644,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown08/30/2022,16:00,BRONX,10466,40.8909,-73.8588,4109,0,0,0,0,0,0,0,0,View Obstructed/Limited,AMBULANCE,Unknown
+[Node F] Duplicate: 09/03/2022,12:24,BRONX,10457,40.8388,-73.9016,1570,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,E-Bike,Sedan09/01/2022,8:45,UNKNOWN_BOROUGH,00000,40.6732,-74.0026,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Pick-up Truck09/02/2022,16:15,BROOKLYN,11211,40.7103,-73.9634,147,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Pick-up Truck,Sedan08/29/2022,11:50,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/03/2022,3:59,QUEENS,11370,40.7654,-73.89,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Sedan,Unknown09/01/2022,21:30,QUEENS,11385,40.7026,-73.8952,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Sedan,Moped09/02/2022,21:50,QUEENS,11435,40.696,-73.805,0,1,0,0,0,1,0,0,0,Failure to Keep Right,Station Wagon/Sport Utility Vehicle,Bike
+[Node F] Duplicate: 09/02/2022,11:41,BROOKLYN,11224,40.5742,-73.9876,3003,0,0,0,0,0,0,0,0,Passing Too Closely,Sedan,Station Wagon/Sport Utility Vehicle09/03/2022,19:00,BROOKLYN,11229,40.596,-73.9478,2272,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 09/03/2022,3:10,QUEENS,11370,40.7669,-73.8893,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Sedan09/01/2022,20:10,QUEENS,11369,40.7606,-73.8732,95,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Unknown,Unknown09/03/2022,10:00,QUEENS,11101,40.7476,-73.941,26,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bike09/03/2022,1:29,MANHATTAN,10013,40.7163,-73.9963,155,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Motorcycle,Sedan
+[Node F] Duplicate: 09/03/2022,18:23,QUEENS,11435,40.6979,-73.8024,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Sedan09/03/2022,11:30,QUEENS,11377,40.7529,-73.9041,33,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Box Truck08/29/2022,16:24,MANHATTAN,10010,40.7398,-73.9795,0,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown08/30/2022,6:50,UNKNOWN_BOROUGH,00000,40.6306,-73.8859,0,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 09/03/2022,13:03,UNKNOWN_BOROUGH,00000,40.7191,-73.8121,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan08/24/2022,12:00,BROOKLYN,11206,40.703,-73.9375,413,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 09/03/2022,7:15,MANHATTAN,10033,40.8465,-73.9401,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Bike09/03/2022,15:00,MANHATTAN,10011,40.7447,-74.0065,500,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 09/02/2022,15:10,STATEN ISLAND,10306,40.5759,-74.1483,1001,1,0,0,0,0,0,1,0,Driver Inexperience,Sedan,Sedan09/01/2022,19:00,BROOKLYN,11235,40.5799,-73.9604,728,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/03/2022,0:43,UNKNOWN_BOROUGH,00000,40.6747,-73.9092,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/01/2022,9:25,BROOKLYN,11224,40.5794,-73.9796,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown09/03/2022,23:54,BROOKLYN,11203,40.6548,-73.9394,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Sedan,Bike
+[Node E] Duplicate: 10/23/2022,1:40,BROOKLYN,11238,40.673,-73.9675,0,1,0,0,0,1,0,0,0,Traffic Control Disregarded,Taxi,Bike10/23/2022,22:40,STATEN ISLAND,10309,40.5252,-74.2096,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/23/2022,5:00,QUEENS,11426,40.7235,-73.7272,240,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan08/31/2022,16:51,UNKNOWN_BOROUGH,00000,40.7285,-73.8826,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Motorcycle
+[Node E] Duplicate: 10/23/2022,15:00,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Other Vehicular,Unspecified,Sedan,Unknown09/03/2022,7:00,BRONX,10467,40.8768,-73.8733,3308,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 10/23/2022,1:50,STATEN ISLAND,10304,40.5927,-74.0985,0,0,0,0,0,0,0,0,0,Unsafe Speed,Sedan,Sedan10/10/2022,10:43,UNKNOWN_BOROUGH,00000,40.6086,-74.1482,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Carry All10/23/2022,14:47,UNKNOWN_BOROUGH,00000,40.844,-73.8975,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Tractor Truck Diesel
+[Node F] Duplicate: 10/23/2022,17:55,UNKNOWN_BOROUGH,00000,40.6681,-73.9507,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan09/03/2022,18:15,STATEN ISLAND,10304,40.6195,-74.0811,108,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Van10/23/2022,0:00,BRONX,10469,40.8635,-73.8444,2544,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 08/31/2022,20:29,MANHATTAN,10023,40.7767,-73.9793,0,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Sedan10/23/2022,19:56,BROOKLYN,11230,40.615,-73.9653,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Sedan
+[Node E] Duplicate: 10/23/2022,0:33,BROOKLYN,11221,40.6907,-73.9396,215,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan10/22/2022,8:25,MANHATTAN,10019,40.7693,-73.9949,0,1,0,0,0,1,0,0,0,Failure to Yield Right-of-Way,Dump,Bike10/23/2022,8:15,BROOKLYN,11207,40.6705,-73.8879,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/22/2022,3:05,BRONX,10460,40.8437,-73.8876,806,0,0,0,0,0,0,0,0,Other Vehicular,Sedan,Unknown10/23/2022,2:22,UNKNOWN_BOROUGH,00000,40.8554,-73.9184,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/02/2022,11:04,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Following Too Closely,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/25/2022,6:00,MANHATTAN,10031,40.8283,-73.9432,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/23/2022,14:06,QUEENS,11434,40.6799,-73.7916,150,0,0,0,0,0,0,0,0,Passing Too Closely,Sedan,Sedan
+[Node E] Duplicate: 10/23/2022,16:40,MANHATTAN,10001,40.7491,-73.992,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Taxi09/02/2022,9:40,UNKNOWN_BOROUGH,00000,40.8674,-73.8918,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node F] Duplicate: 09/03/2022,7:30,UNKNOWN_BOROUGH,00000,40.6921,-73.8348,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Bike09/03/2022,9:30,UNKNOWN_BOROUGH,00000,40.737,-74.01,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown10/23/2022,13:15,UNKNOWN_BOROUGH,00000,40.7486,-73.9522,0,1,0,0,0,0,0,0,0,Reaction to Uninvolved Vehicle,E-Bike,Unknown
+[Node E] Duplicate: 10/23/2022,0:25,BRONX,10460,40.8398,-73.8812,1922,0,0,0,0,0,0,0,0,Other Vehicular,Station Wagon/Sport Utility Vehicle,Box Truck10/22/2022,7:54,BROOKLYN,11203,40.6516,-73.9321,4816,1,0,0,0,0,0,1,0,Outside Car Distraction,Station Wagon/Sport Utility Vehicle,Sedan10/23/2022,7:30,QUEENS,11101,40.7563,-73.9201,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 09/03/2022,19:10,QUEENS,11435,40.6982,-73.8063,95,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node F] Duplicate: 10/21/2022,17:20,UNKNOWN_BOROUGH,00000,40.8392,-73.9469,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/17/2022,20:15,UNKNOWN_BOROUGH,00000,40.7605,-73.9513,500,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Unknown,Unknown
+[Node E] Duplicate: 10/13/2022,16:37,MANHATTAN,10016,40.7477,-73.9809,0,2,0,0,0,0,0,2,0,Traffic Control Disregarded,Sedan,Taxi10/23/2022,13:30,UNKNOWN_BOROUGH,00000,40.7012,-73.8134,0,1,0,0,0,0,0,0,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,E-Scooter09/04/2022,0:20,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Alcohol Involvement,Unspecified,Sedan,Unknown10/23/2022,20:14,BROOKLYN,11212,40.6543,-73.9176,0,3,0,0,0,0,0,3,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 10/23/2022,14:05,UNKNOWN_BOROUGH,00000,40.7207,-73.9434,0,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Sedan10/23/2022,3:45,BROOKLYN,11237,40.6978,-73.908,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Sedan10/23/2022,10:29,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 10/23/2022,18:32,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Bus,Station Wagon/Sport Utility Vehicle10/19/2022,4:31,MANHATTAN,10075,40.774,-73.9546,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Unknown10/23/2022,1:30,UNKNOWN_BOROUGH,00000,40.7207,-73.8187,0,1,0,0,0,0,0,1,0,Driver Inexperience,Sedan,Sedan10/21/2022,11:25,BRONX,10463,40.8854,-73.9005,5832,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Bike
+[Node F] Duplicate: 10/23/2022,18:00,MANHATTAN,10036,40.7616,-73.9962,546,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/23/2022,2:00,STATEN ISLAND,10305,40.601,-74.0764,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/16/2022,16:30,UNKNOWN_BOROUGH,00000,40.7269,-73.9999,0,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,E-Bike,Unknown
+[Node E] Duplicate: 10/20/2022,10:00,MANHATTAN,10033,40.8507,-73.9365,2,0,0,0,0,0,0,0,0,Passing Too Closely,Flat Rack,Sedan10/20/2022,1:05,UNKNOWN_BOROUGH,00000,40.8454,-73.9387,0,1,0,0,0,0,0,1,0,Unsafe Speed,Sedan,Moped05/04/2023,9:40,BROOKLYN,11228,40.6285,-74.0168,7213,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 10/23/2022,4:45,BRONX,10454,40.8072,-73.9064,380,1,0,0,0,0,0,1,0,Tire Failure/Inadequate,Taxi,Unknown10/19/2022,12:45,QUEENS,11413,40.6791,-73.745,0,1,0,0,0,0,0,1,0,Unspecified,Motorcycle,Unknown10/23/2022,20:35,UNKNOWN_BOROUGH,00000,40.8702,-73.891,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 05/03/2023,10:30,QUEENS,11370,40.7646,-73.8849,84,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown05/03/2023,16:30,UNKNOWN_BOROUGH,00000,40.6702,-73.907,0,1,0,1,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 10/23/2022,13:30,QUEENS,11421,40.6894,-73.8659,75,0,0,0,0,0,0,0,0,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/23/2022,0:40,BRONX,10453,40.8553,-73.9128,0,2,0,0,0,0,0,2,0,Other Vehicular,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/04/2022,23:50,QUEENS,11377,40.7496,-73.8982,64,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan09/02/2022,5:46,UNKNOWN_BOROUGH,00000,40.6192,-74.1639,0,3,0,0,0,0,0,3,0,Fell Asleep,Sedan,Station Wagon/Sport Utility Vehicle09/03/2022,16:00,STATEN ISLAND,10306,40.5732,-74.107,0,2,0,0,0,0,0,2,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/24/2022,12:45,UNKNOWN_BOROUGH,00000,40.7077,-73.7877,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,4 dr sedan,Sedan
+[Node F] Duplicate: 08/31/2022,21:20,STATEN ISLAND,10304,40.6289,-74.0797,0,6,0,0,0,0,0,6,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle08/25/2022,13:50,UNKNOWN_BOROUGH,00000,40.8876,-73.9117,0,0,0,0,0,0,0,0,0,Oversized Vehicle,Station Wagon/Sport Utility Vehicle,Box Truck09/03/2022,2:20,STATEN ISLAND,10308,40.5429,-74.143,0,1,0,0,0,0,0,1,0,Alcohol Involvement,Sedan,Sedan
+[Node F] Duplicate: 09/04/2022,4:22,BROOKLYN,11234,40.6207,-73.9281,1632,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan09/02/2022,19:59,BRONX,10466,40.8957,-73.8566,693,1,0,0,0,0,0,1,0,Following Too Closely,Sedan,Sedan08/25/2022,17:00,BRONX,10463,40.8877,-73.907,492,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/02/2022,12:35,BRONX,10451,40.8148,-73.9257,375,0,0,0,0,0,0,0,0,Cell Phone (hand-Held),Pick-up Truck,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 08/28/2022,0:50,BRONX,10462,40.8378,-73.8525,0,0,0,0,0,0,0,0,0,Unsafe Speed,Sedan,Station Wagon/Sport Utility Vehicle09/02/2022,0:40,UNKNOWN_BOROUGH,00000,40.7801,-73.9883,0,1,0,0,0,0,0,1,0,Reaction to Uninvolved Vehicle,Station Wagon/Sport Utility Vehicle,Taxi09/04/2022,0:00,BROOKLYN,11209,40.6202,-74.0286,440,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Taxi,Unknown09/02/2022,0:00,BROOKLYN,11214,40.5971,-73.9964,191,0,0,0,0,0,0,0,0,Other Vehicular,Station Wagon/Sport Utility Vehicle,Unknown09/04/2022,4:00,BROOKLYN,11226,40.6514,-73.9559,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 08/24/2022,17:35,MANHATTAN,10026,40.7989,-73.954,141,1,0,0,0,1,0,0,0,Turning Improperly,Bike,Sedan09/02/2022,13:30,STATEN ISLAND,10306,40.5667,-74.1136,2690,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle08/16/2022,9:30,BRONX,10453,40.8531,-73.9056,0,0,0,0,0,0,0,0,0,Following Too Closely,Garbage or Refuse,Unknown
+[Node E] Duplicate: 08/09/2022,11:00,BRONX,10458,40.8539,-73.8836,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown09/02/2022,14:22,BRONX,10460,40.8398,-73.8812,1922,0,0,0,0,0,0,0,0,Aggressive Driving/Road Rage,Bike,Unknown08/30/2022,13:00,BROOKLYN,11232,40.6625,-73.9938,213,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 09/04/2022,8:30,UNKNOWN_BOROUGH,00000,0,0,3,0,0,0,0,0,3,0,Traffic Control Disregarded,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/29/2022,18:10,QUEENS,11104,40.7448,-73.9174,0,1,0,0,0,0,0,1,0,Illnes,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/03/2022,14:19,BRONX,10457,40.8494,-73.903,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan
+[Node E] Duplicate: 09/04/2022,16:20,UNKNOWN_BOROUGH,00000,40.7561,-73.7466,0,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan08/30/2022,13:50,UNKNOWN_BOROUGH,00000,40.6443,-74.018,0,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Box Truck,Unknown08/31/2022,5:03,BROOKLYN,11234,40.6339,-73.9227,885,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan09/04/2022,22:05,UNKNOWN_BOROUGH,00000,40.7296,-73.8338,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/02/2022,10:00,UNKNOWN_BOROUGH,00000,40.8003,-73.9695,0,0,0,0,0,0,0,0,0,Other Vehicular,Sedan,Unknown09/04/2022,0:00,MANHATTAN,10017,40.7498,-73.9722,0,1,0,0,0,0,0,1,0,Following Too Closely,Sedan,Sedan09/03/2022,23:15,BROOKLYN,11211,40.7131,-73.9535,0,0,0,0,0,0,0,0,0,Passing Too Closely,Sedan,Station Wagon/Sport Utility Vehicle09/04/2022,16:46,UNKNOWN_BOROUGH,00000,40.7713,-73.9467,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 08/27/2022,23:20,MANHATTAN,10027,40.809,-73.9483,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle08/03/2022,8:00,QUEENS,11369,40.7617,-73.8818,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Taxi09/02/2022,20:07,UNKNOWN_BOROUGH,00000,40.5369,-74.225,0,2,0,0,0,0,0,2,0,Traffic Control Disregarded,Sedan,Sedan
+[Node E] Duplicate: 09/02/2022,11:00,QUEENS,11412,40.6919,-73.7641,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Sedan09/04/2022,4:30,UNKNOWN_BOROUGH,00000,40.7585,-73.8296,0,0,0,0,0,0,0,0,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Sedan09/04/2022,21:15,UNKNOWN_BOROUGH,00000,40.7187,-73.9405,0,1,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,E-Scooter
+[Node F] Duplicate: 09/04/2022,22:40,UNKNOWN_BOROUGH,00000,40.5529,-74.216,0,0,0,0,0,0,0,0,0,Reaction to Uninvolved Vehicle,Station Wagon/Sport Utility Vehicle,Unknown09/04/2022,15:58,MANHATTAN,10002,40.7144,-73.9928,0,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown08/30/2022,7:40,UNKNOWN_BOROUGH,00000,40.6828,-73.9409,0,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 09/04/2022,2:35,UNKNOWN_BOROUGH,00000,40.5757,-73.963,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan05/05/2023,14:20,QUEENS,11379,40.7126,-73.8975,63,0,0,0,0,0,0,0,0,Steering Failure,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/04/2022,9:55,QUEENS,11378,40.716,-73.9043,60,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 04/28/2023,11:40,UNKNOWN_BOROUGH,00000,40.6904,-73.7504,0,2,0,0,0,0,0,2,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/03/2022,23:19,BRONX,10457,40.843,-73.9036,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Unknown05/03/2023,17:00,BROOKLYN,11234,40.6195,-73.9146,1429,1,0,0,0,0,0,1,0,Lost Consciousness,Sedan,Pick-up Truck
+[Node F] Duplicate: 05/02/2023,14:54,BROOKLYN,11233,40.6764,-73.9276,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Taxi,Unknown04/23/2023,20:35,UNKNOWN_BOROUGH,00000,40.8447,-73.9226,0,3,0,0,0,0,0,3,0,Unsafe Lane Changing,Station Wagon/Sport Utility Vehicle,Tractor Truck Gasoline
+[Node E] Duplicate: 05/03/2023,4:20,BRONX,10457,40.8441,-73.9005,450,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown05/04/2023,5:45,UNKNOWN_BOROUGH,00000,40.7094,-73.7672,0,0,0,0,0,0,0,0,0,Unsafe Speed,Sedan,Sedan
+[Node F] Duplicate: 05/03/2023,20:47,UNKNOWN_BOROUGH,00000,40.7008,-73.9949,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Sedan,Box Truck04/27/2023,19:00,UNKNOWN_BOROUGH,00000,40.6141,-74.1578,1415,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 05/03/2023,11:48,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Unspecified,Sedan,Unknown09/04/2022,16:50,QUEENS,11109,40.7449,-73.9579,0,1,0,1,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown07/27/2023,17:00,BRONX,10475,40.8683,-73.8332,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 05/04/2023,9:00,BROOKLYN,11238,40.6863,-73.9695,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Bike,Sedan05/04/2023,8:02,QUEENS,11374,40.7223,-73.8673,0,2,0,0,0,0,0,2,0,Turning Improperly,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 05/03/2023,18:00,QUEENS,11373,40.7452,-73.8843,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,AMBULANCE,Sedan05/03/2023,9:30,UNKNOWN_BOROUGH,00000,40.695,-73.9073,0,0,0,0,0,0,0,0,0,Driver Inexperience,Sedan,Unknown
+[Node F] Duplicate: 05/05/2023,8:50,UNKNOWN_BOROUGH,00000,40.746,-73.9943,0,1,0,0,0,1,0,0,0,Unspecified,Sedan,Bike05/01/2023,20:50,UNKNOWN_BOROUGH,00000,40.805,-73.9114,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan
+[Node E] Duplicate: 05/05/2023,2:50,BRONX,10469,40.8729,-73.8511,1253,0,0,0,0,0,0,0,0,Other Vehicular,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 05/05/2023,18:30,QUEENS,11694,40.5841,-73.8221,215,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown05/05/2023,11:00,QUEENS,11385,40.7018,-73.9051,1816,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan05/04/2023,16:15,QUEENS,11358,40.7689,-73.7919,0,0,0,0,0,0,0,0,0,Reaction to Uninvolved Vehicle,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 05/05/2023,16:30,BROOKLYN,11239,40.6526,-73.8767,528,1,0,1,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown05/05/2023,15:43,QUEENS,11101,40.753,-73.9216,0,1,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,E-Bike
+[Node F] Duplicate: 04/30/2023,2:16,UNKNOWN_BOROUGH,00000,40.8042,-73.913,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Taxi,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 05/03/2023,21:20,BROOKLYN,11249,40.7106,-73.9668,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,E-Bike05/05/2023,3:23,BROOKLYN,11201,40.6879,-73.9955,0,1,0,0,0,1,0,0,0,Failure to Yield Right-of-Way,Bike,Van05/04/2023,18:08,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Unspecified,Moped,Unknown
+[Node F] Duplicate: 05/03/2023,18:00,UNKNOWN_BOROUGH,00000,40.7633,-73.792,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown05/03/2023,18:17,UNKNOWN_BOROUGH,00000,40.6561,-73.9236,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Taxi04/29/2023,11:40,BRONX,10459,40.826,-73.8871,1045,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 05/01/2023,18:00,QUEENS,11412,40.7088,-73.7519,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Unknown,Unknown
+[Node E] Duplicate: 05/05/2023,23:32,UNKNOWN_BOROUGH,00000,40.6881,-73.9117,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle05/05/2023,7:30,UNKNOWN_BOROUGH,00000,40.6559,-74.0059,0,2,0,0,0,0,0,2,0,Following Too Closely,Sedan,Sedan
+[Node F] Duplicate: 05/04/2023,16:03,BROOKLYN,11237,40.7048,-73.92,0,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Taxi05/03/2023,14:09,UNKNOWN_BOROUGH,00000,40.7894,-73.7861,0,0,0,0,0,0,0,0,0,Following Too Closely,Pick-up Truck,Sedan05/04/2023,10:01,UNKNOWN_BOROUGH,00000,40.6307,-74.1409,32,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown05/03/2023,16:05,UNKNOWN_BOROUGH,00000,40.6728,-73.7694,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 05/02/2023,20:00,QUEENS,11379,40.725,-73.8842,59,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown05/03/2023,11:30,QUEENS,11004,40.7527,-73.7075,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 10/22/2022,12:25,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Unknown05/03/2023,15:37,QUEENS,11385,40.7071,-73.8972,0,0,0,0,0,0,0,0,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 05/05/2023,8:13,BROOKLYN,11234,40.6201,-73.9408,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle05/03/2023,13:45,UNKNOWN_BOROUGH,00000,0,0,2,0,0,0,0,0,2,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown05/04/2023,12:18,QUEENS,11373,40.741,-73.8769,47,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 05/04/2023,6:45,BROOKLYN,11237,40.7087,-73.9207,0,0,0,0,0,0,0,0,0,Passing Too Closely,Pick-up Truck,Bus03/19/2023,14:00,BRONX,10462,40.8378,-73.8601,44,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Bike05/04/2023,14:30,BROOKLYN,11220,40.6482,-74.0108,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 10/24/2022,18:25,BROOKLYN,11214,40.5926,-73.9957,1752,0,0,0,0,0,0,0,0,Following Too Closely,Tractor Truck Gasoline,Unknown10/12/2022,16:00,BROOKLYN,11220,40.644,-74.0115,0,0,0,0,0,0,0,0,0,Driver Inexperience,Sedan,Station Wagon/Sport Utility Vehicle05/05/2023,17:06,UNKNOWN_BOROUGH,00000,40.7639,-73.8282,0,2,0,2,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 10/21/2022,17:10,UNKNOWN_BOROUGH,00000,40.8186,-73.9273,0,1,0,0,0,1,0,0,0,Traffic Control Disregarded,Sedan,Bike05/04/2023,23:10,BROOKLYN,11237,40.7027,-73.9208,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle05/04/2023,8:12,MANHATTAN,10002,40.7199,-73.9866,131,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node E] Duplicate: 10/24/2022,16:00,BROOKLYN,11236,40.6432,-73.8898,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle08/06/2023,17:30,QUEENS,11364,40.7501,-73.7789,50,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/24/2022,0:05,QUEENS,11428,40.7206,-73.7491,0,0,0,0,0,0,0,0,0,Unspecified,Pick-up Truck,Unknown
+[Node F] Duplicate: 05/03/2023,23:57,QUEENS,11370,40.7684,-73.8882,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Sedan,Unknown10/24/2022,9:40,UNKNOWN_BOROUGH,00000,40.6938,-73.8116,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Box Truck10/24/2022,1:05,QUEENS,11414,40.6626,-73.8369,157,0,0,0,0,0,0,0,0,Other Vehicular,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 06/16/2022,14:50,BROOKLYN,11235,40.5828,-73.9622,2811,1,0,0,0,0,0,1,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Taxi08/17/2022,21:45,BRONX,10460,40.8421,-73.8687,0,4,0,0,0,0,0,4,0,Other Vehicular,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/13/2022,20:20,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle10/22/2022,7:00,BROOKLYN,11228,40.6186,-74,1547,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 05/03/2023,12:30,UNKNOWN_BOROUGH,00000,40.7259,-74.0084,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown05/02/2023,11:09,QUEENS,11102,40.7723,-73.9259,0,1,0,1,0,0,0,0,0,Fell Asleep,Station Wagon/Sport Utility Vehicle,Unknown10/24/2022,15:45,UNKNOWN_BOROUGH,00000,40.7915,-73.9722,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Tractor Truck Gasoline,Sedan
+[Node F] Duplicate: 09/05/2022,0:07,BROOKLYN,11212,40.6616,-73.9155,0,1,0,1,0,0,0,0,0,Unknown,Unknown,Unknown10/24/2022,5:47,BRONX,10462,40.8334,-73.8592,1955,0,0,0,0,0,0,0,0,Other Vehicular,Sedan,Unknown09/03/2022,13:54,BROOKLYN,11237,40.705,-73.9174,0,0,0,0,0,0,0,0,0,Following Too Closely,Convertible,Station Wagon/Sport Utility Vehicle10/24/2022,13:49,MANHATTAN,10065,40.768,-73.9682,0,1,0,1,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 09/05/2022,5:39,BROOKLYN,11224,40.576,-73.9901,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Pick-up Truck09/03/2022,9:30,QUEENS,11373,40.7328,-73.8743,57,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown09/05/2022,21:04,UNKNOWN_BOROUGH,00000,40.583,-73.957,0,1,0,0,0,0,0,0,0,Unspecified,Sedan,E-Scooter
+[Node F] Duplicate: 09/05/2022,21:35,MANHATTAN,10019,40.7668,-73.9968,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan10/23/2022,16:00,UNKNOWN_BOROUGH,00000,40.6632,-73.9373,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/06/2022,4:00,BROOKLYN,11220,40.6506,-74.0104,317,3,0,0,0,0,0,3,0,Other Vehicular,Sedan,Sedan
+[Node F] Duplicate: 08/29/2022,16:03,BROOKLYN,11216,40.6821,-73.9537,0,0,0,0,0,0,0,0,0,Turning Improperly,Motorscooter,Station Wagon/Sport Utility Vehicle09/05/2022,9:25,UNKNOWN_BOROUGH,00000,40.7019,-73.937,0,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,E-Scooter,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/03/2022,23:05,UNKNOWN_BOROUGH,00000,40.7015,-73.9896,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Sedan09/05/2022,7:30,BROOKLYN,11236,40.6348,-73.9013,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Sedan
+[Node E] Duplicate: 09/05/2022,19:30,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Sedan,Unknown09/05/2022,15:26,MANHATTAN,10035,40.8019,-73.9414,0,3,0,0,0,0,0,3,0,Unspecified,Sedan,Sedan09/05/2022,10:00,QUEENS,11434,40.6765,-73.7684,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Pick-up Truck,Sedan
+[Node F] Duplicate: 09/03/2022,23:11,BROOKLYN,11221,40.6884,-73.9449,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Sedan,Bike
+[Node F] Duplicate: 09/02/2022,7:35,BRONX,10454,40.8068,-73.9275,0,1,0,0,0,0,0,1,0,Turning Improperly,Tractor Truck Diesel,Dump09/01/2022,18:42,UNKNOWN_BOROUGH,00000,40.7624,-73.9544,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 08/03/2022,7:40,UNKNOWN_BOROUGH,00000,40.8892,-73.8313,0,1,0,0,0,0,0,1,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Sedan09/05/2022,18:19,UNKNOWN_BOROUGH,00000,40.7564,-73.9601,0,1,0,0,0,0,0,1,0,Unspecified,Taxi,Unknown
+[Node F] Duplicate: 08/24/2022,0:26,UNKNOWN_BOROUGH,00000,40.6983,-73.9498,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle09/05/2022,14:30,BROOKLYN,11219,40.6275,-74.0071,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 07/30/2022,16:55,QUEENS,11368,40.7612,-73.8582,125,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Box Truck09/01/2022,16:20,BROOKLYN,11234,40.6352,-73.9286,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/05/2022,15:44,UNKNOWN_BOROUGH,00000,40.6661,-73.7591,0,1,0,0,0,0,0,1,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Sedan09/03/2022,14:20,BROOKLYN,11236,40.6415,-73.91,630,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Pick-up Truck09/02/2022,14:19,STATEN ISLAND,10312,40.5463,-74.1863,204,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Sedan
+[Node F] Duplicate: 08/31/2022,14:15,UNKNOWN_BOROUGH,00000,40.8624,-73.8941,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Box Truck,Sedan08/27/2022,22:37,QUEENS,11435,40.6974,-73.8095,0,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,E-Scooter09/05/2022,4:30,QUEENS,11432,40.7083,-73.7881,91,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 09/05/2022,0:00,UNKNOWN_BOROUGH,00000,40.6931,-73.7733,0,1,0,0,0,0,0,1,0,Unsafe Speed,Sedan,Unknown08/26/2022,15:15,QUEENS,11373,0,0,74,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown09/05/2022,20:30,MANHATTAN,10025,40.7936,-73.9734,255,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Sedan
+[Node E] Duplicate: 09/01/2022,16:46,BROOKLYN,11212,40.6595,-73.9081,0,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Motorcycle09/05/2022,23:55,STATEN ISLAND,10304,40.6207,-74.0728,26,2,0,0,0,0,0,2,0,Passing Too Closely,Sedan,Sedan09/05/2022,19:00,UNKNOWN_BOROUGH,00000,40.8447,-73.9123,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Pick-up Truck
+[Node E] Duplicate: 08/24/2022,12:00,QUEENS,11414,40.661,-73.851,0,0,0,0,0,0,0,0,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/05/2022,2:36,BRONX,10468,40.8616,-73.9019,2409,0,0,0,0,0,0,0,0,Alcohol Involvement,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 09/05/2022,8:00,UNKNOWN_BOROUGH,00000,40.6904,-73.7556,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan09/05/2022,5:39,UNKNOWN_BOROUGH,00000,40.576,-73.9901,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 09/04/2022,12:00,BROOKLYN,11235,40.5824,-73.9641,2,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown07/09/2022,18:40,BRONX,10470,40.8954,-73.8636,0,0,0,0,0,0,0,0,0,Turning Improperly,Sedan,Sedan
+[Node F] Duplicate: 09/05/2022,0:17,BROOKLYN,11212,40.66,-73.9151,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/05/2022,1:30,MANHATTAN,10016,40.7475,-73.9688,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown09/05/2022,12:25,QUEENS,11377,40.7419,-73.9075,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node E] Duplicate: 09/05/2022,1:33,UNKNOWN_BOROUGH,00000,40.5832,-73.973,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan06/26/2022,3:40,UNKNOWN_BOROUGH,00000,40.8054,-73.9209,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/05/2022,8:10,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,1,0,0,0,Traffic Control Disregarded,Unspecified,Sedan,Unknown09/05/2022,19:56,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 09/04/2022,21:00,BRONX,10472,40.8282,-73.8753,1144,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/05/2022,13:15,MANHATTAN,10010,40.7395,-73.9827,0,1,0,0,0,1,0,0,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/05/2022,10:05,STATEN ISLAND,10304,40.6286,-74.077,77,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node F] Duplicate: 09/05/2022,9:55,QUEENS,11420,40.6671,-73.8113,0,1,0,0,0,0,0,1,0,View Obstructed/Limited,Tanker,Motorcycle08/30/2022,13:52,BRONX,10460,40.8414,-73.8744,1151,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,E-Scooter10/24/2022,22:37,UNKNOWN_BOROUGH,00000,40.8765,-73.9046,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown10/19/2022,9:30,BROOKLYN,11214,40.5923,-73.9953,1736,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 09/05/2022,16:20,BROOKLYN,11230,40.6331,-73.9722,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Sedan09/05/2022,14:00,QUEENS,11435,40.7061,-73.8116,144,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 09/05/2022,14:52,UNKNOWN_BOROUGH,00000,40.7363,-73.8563,0,0,0,0,0,0,0,0,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Sedan10/24/2022,6:23,STATEN ISLAND,10314,40.6025,-74.1206,0,1,0,0,0,0,0,1,0,Pavement Slippery,Taxi,Sedan10/22/2022,23:05,UNKNOWN_BOROUGH,00000,40.7153,-73.9604,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Taxi,Sedan
+[Node E] Duplicate: 10/24/2022,9:20,BROOKLYN,11236,40.6337,-73.9161,7602,1,0,1,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Unknown10/24/2022,5:55,UNKNOWN_BOROUGH,00000,40.8519,-73.9108,0,0,0,0,0,0,0,0,0,Other Vehicular,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/24/2022,15:40,BROOKLYN,11220,40.6357,-74.013,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle10/24/2022,19:53,BROOKLYN,11228,40.6158,-74.0121,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 10/06/2022,17:30,UNKNOWN_BOROUGH,00000,40.819,-73.8867,0,0,0,0,0,0,0,0,0,Unspecified,Pick-up Truck,Sedan10/24/2022,6:10,UNKNOWN_BOROUGH,00000,40.5955,-73.999,0,2,0,0,0,0,0,2,0,Unspecified,Sedan,Sedan
+[Node F] Duplicate: 10/24/2022,22:12,QUEENS,11413,40.667,-73.7573,0,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Sedan,Unknown10/12/2022,14:45,UNKNOWN_BOROUGH,00000,40.8468,-73.9319,0,0,0,0,0,0,0,0,0,Driver Inexperience,Sedan,Sedan10/22/2022,15:02,BROOKLYN,11234,40.6174,-73.9311,2156,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Sedan09/30/2022,14:25,BRONX,10471,40.9045,-73.8964,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Bus,Sedan10/18/2022,18:20,UNKNOWN_BOROUGH,00000,40.8239,-73.9523,0,0,0,0,0,0,0,0,0,Unsafe Speed,Sedan,Bus
+[Node E] Duplicate: 10/24/2022,3:00,UNKNOWN_BOROUGH,00000,40.8479,-73.925,0,2,0,0,0,0,0,2,0,Pavement Slippery,Sedan,Unknown10/24/2022,18:29,BROOKLYN,11210,40.6274,-73.947,2361,1,0,0,0,1,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Bike10/14/2022,7:45,UNKNOWN_BOROUGH,00000,40.8624,-73.918,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node F] Duplicate: 10/22/2022,9:25,BROOKLYN,11208,40.6906,-73.8706,934,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/23/2022,7:47,UNKNOWN_BOROUGH,00000,40.9015,-73.8788,0,0,0,0,0,0,0,0,0,Unspecified,Van,Sedan10/24/2022,18:00,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Unsafe Lane Changing,Unknown,Unknown,Unknown
+[Node E] Duplicate: 10/24/2022,21:41,MANHATTAN,10016,0,0,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/24/2022,10:40,MANHATTAN,10009,40.7252,-73.9871,0,1,0,0,0,1,0,0,0,Unspecified,Bike,Unknown10/24/2022,9:03,BROOKLYN,11218,40.6344,-73.9694,3737,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown
+[Node F] Duplicate: 10/24/2022,6:55,UNKNOWN_BOROUGH,00000,40.6925,-73.8795,0,1,0,0,0,0,0,1,0,Following Too Closely,Sedan,Station Wagon/Sport Utility Vehicle10/24/2022,23:13,MANHATTAN,10036,40.7608,-73.9983,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Taxi,Motorcycle10/24/2022,9:24,BROOKLYN,11220,40.6352,-74.0203,6715,0,0,0,0,0,0,0,0,Driver Inexperience,Box Truck,Sedan
+[Node F] Duplicate: 10/24/2022,19:00,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown05/03/2023,22:40,UNKNOWN_BOROUGH,00000,40.7009,-73.9261,0,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Unknown05/04/2023,11:53,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Following Too Closely,Tractor Truck Diesel,Unknown
+[Node E] Duplicate: 05/04/2023,21:43,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Pavement Slippery,Unknown,Unknown,Unknown10/24/2022,8:00,QUEENS,11364,40.7526,-73.771,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node E] Duplicate: 05/04/2023,22:05,BROOKLYN,11212,40.6562,-73.9147,0,1,0,1,0,0,0,0,0,Unknown,Sedan,Unknown05/03/2023,7:20,BROOKLYN,11236,40.6456,-73.8976,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Unknown05/05/2023,11:45,QUEENS,11422,40.6368,-73.7406,0,1,0,0,0,0,0,1,0,Reaction to Uninvolved Vehicle,Sedan,Station Wagon/Sport Utility Vehicle10/24/2022,15:35,UNKNOWN_BOROUGH,00000,40.5961,-74.0007,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown10/24/2022,1:40,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Pavement Slippery,Unknown,Unknown,Unknown
+[Node F] Duplicate: 04/29/2023,23:55,UNKNOWN_BOROUGH,00000,40.8773,-73.9006,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan05/05/2023,11:35,UNKNOWN_BOROUGH,00000,40.6367,-73.968,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 10/24/2022,7:08,UNKNOWN_BOROUGH,00000,40.7157,-73.8257,0,1,0,0,0,0,0,1,0,Fell Asleep,Sedan,Sedan10/24/2022,18:00,BROOKLYN,11218,40.6403,-73.9735,349,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 10/25/2022,9:35,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Unspecified,Carry All,Unknown05/05/2023,15:20,UNKNOWN_BOROUGH,00000,40.7579,-73.9099,0,1,0,1,0,0,0,0,0,Traffic Control Disregarded,Unknown,Unknown
+[Node F] Duplicate: 05/04/2023,17:00,QUEENS,11417,40.6737,-73.8432,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Bus05/04/2023,3:50,UNKNOWN_BOROUGH,00000,40.6655,-73.7447,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Flat Rack,Sedan05/04/2023,22:00,UNKNOWN_BOROUGH,00000,40.6977,-73.8141,0,3,0,0,0,0,0,3,0,Passing Too Closely,Sedan,Box Truck
+[Node E] Duplicate: 04/25/2023,13:30,UNKNOWN_BOROUGH,00000,40.7537,-73.8328,0,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Unknown10/22/2022,22:50,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Following Too Closely,Following Too Closely,Sedan,Sedan
+[Node E] Duplicate: 04/03/2020,17:00,STATEN ISLAND,10301,40.604,-74.104,35,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,PK01/21/2023,0:00,MANHATTAN,10002,40.7191,-73.9764,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Motorcycle,Sedan05/05/2023,9:30,QUEENS,11365,40.7439,-73.7829,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle02/01/2023,6:02,QUEENS,11421,40.6898,-73.8501,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown
+[Node F] Duplicate: 05/03/2023,17:55,QUEENS,11355,40.756,-73.8131,0,1,0,1,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown05/03/2023,8:48,BROOKLYN,11229,40.6107,-73.9557,0,0,0,0,0,0,0,0,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle01/27/2023,0:30,BRONX,10451,40.8162,-73.9212,0,0,0,0,0,0,0,0,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Sedan10/24/2022,8:30,QUEENS,11691,40.5942,-73.7703,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node F] Duplicate: 05/05/2023,5:21,QUEENS,11419,40.6847,-73.8311,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown04/25/2023,10:50,MANHATTAN,10038,40.7087,-74.0073,0,0,0,0,0,0,0,0,0,Following Too Closely,Box Truck,Unknown
+[Node E] Duplicate: 01/30/2023,12:40,BROOKLYN,11203,40.6573,-73.9474,0,1,0,0,0,0,0,0,0,Traffic Control Disregarded,Sedan,Bike01/29/2023,20:00,MANHATTAN,10033,40.8471,-73.9382,4162,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 02/01/2023,7:30,BROOKLYN,11236,40.638,-73.9174,601,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,Unknown05/03/2023,8:39,MANHATTAN,10027,40.814,-73.9524,419,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 01/31/2023,12:00,UNKNOWN_BOROUGH,00000,40.8434,-73.9155,0,0,0,0,0,0,0,0,0,Passing Too Closely,Bus,Sedan05/03/2023,17:00,STATEN ISLAND,10301,40.6392,-74.0901,24,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node E] Duplicate: 02/02/2023,7:12,QUEENS,11367,40.7247,-73.8208,0,1,0,1,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/31/2022,16:15,BROOKLYN,11209,40.62,-74.0237,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/06/2022,14:40,BRONX,10453,0,0,0,0,0,0,0,0,0,0,0,Driver Inexperience,Sedan,Sedan09/03/2022,21:20,UNKNOWN_BOROUGH,00000,40.6413,-73.9428,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/06/2022,0:45,UNKNOWN_BOROUGH,00000,40.8352,-73.8668,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Sedan,Tractor Truck Diesel08/27/2022,10:16,BROOKLYN,11220,40.6422,-74.0025,0,1,0,0,0,1,0,0,0,Other Vehicular,Station Wagon/Sport Utility Vehicle,Bike09/06/2022,16:26,UNKNOWN_BOROUGH,00000,40.7026,-73.7906,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Bus,Sedan09/06/2022,7:38,UNKNOWN_BOROUGH,00000,40.7375,-73.9339,0,1,0,0,0,0,0,1,0,Pavement Slippery,Sedan,Unknown08/23/2022,4:35,BRONX,10475,40.8683,-73.8332,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Sedan,Box Truck
+[Node F] Duplicate: 09/02/2022,14:12,MANHATTAN,10002,40.719,-73.9898,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan09/04/2022,3:29,UNKNOWN_BOROUGH,00000,40.7358,-73.8581,0,1,0,0,0,0,0,1,0,Illnes,Sedan,Sedan09/05/2022,18:39,BROOKLYN,11216,40.6738,-73.9501,685,0,0,0,0,0,0,0,0,Other Vehicular,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/04/2022,1:25,MANHATTAN,10012,40.7206,-73.9939,180,1,0,0,0,0,0,1,0,Unsafe Lane Changing,Sedan,Sedan
+[Node F] Duplicate: 09/06/2022,8:00,QUEENS,11367,40.7177,-73.8171,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Bus,Pick-up Truck09/04/2022,12:00,BROOKLYN,11214,40.6098,-73.9947,1950,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Pick-up Truck
+[Node E] Duplicate: 09/06/2022,20:37,UNKNOWN_BOROUGH,00000,40.6938,-73.8117,0,2,0,0,0,0,0,2,0,Passing or Lane Usage Improper,Sedan,Tractor Truck Diesel09/06/2022,0:00,BROOKLYN,11217,40.6835,-73.978,568,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,E-Scooter09/06/2022,9:48,QUEENS,11379,40.7133,-73.8859,69,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown08/18/2022,18:00,BROOKLYN,11203,40.6494,-73.9331,963,1,0,0,0,0,0,0,0,Backing Unsafely,E-Scooter,Pick-up Truck
+[Node F] Duplicate: 09/04/2022,4:22,UNKNOWN_BOROUGH,00000,40.6592,-73.9534,0,0,0,0,0,0,0,0,0,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/06/2022,21:50,UNKNOWN_BOROUGH,00000,40.7282,-73.8331,0,3,0,0,0,0,0,3,0,Driver Inattention/Distraction,Tractor Truck Diesel,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/03/2022,23:20,UNKNOWN_BOROUGH,00000,40.8763,-73.904,0,1,0,0,0,0,0,1,0,Unspecified,Taxi,Taxi08/30/2022,12:00,BRONX,10469,40.873,-73.8555,0,0,0,0,0,0,0,0,0,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 09/06/2022,2:00,UNKNOWN_BOROUGH,00000,40.6707,-73.9476,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown09/06/2022,8:10,BROOKLYN,11226,40.6524,-73.9657,25,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 09/06/2022,10:50,BROOKLYN,11201,40.6946,-73.9907,0,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Pick-up Truck,Unknown09/06/2022,17:01,UNKNOWN_BOROUGH,00000,40.6805,-73.7633,0,0,0,0,0,0,0,0,0,Turning Improperly,Station Wagon/Sport Utility Vehicle,Sedan09/01/2022,11:05,UNKNOWN_BOROUGH,00000,40.7256,-73.9899,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Sedan
+[Node F] Duplicate: 09/06/2022,10:34,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 09/04/2022,3:25,BROOKLYN,11207,40.6511,-73.89,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle09/06/2022,7:58,BROOKLYN,11218,40.6364,-73.9701,810,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/06/2022,22:26,QUEENS,11419,40.6825,-73.83,0,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Sedan,Unknown
+[Node E] Duplicate: 09/06/2022,0:05,BROOKLYN,11204,40.6083,-73.9776,273,1,0,0,0,0,0,1,0,Alcohol Involvement,Taxi,Sedan09/06/2022,15:05,MANHATTAN,10014,40.7345,-74.003,237,0,0,0,0,0,0,0,0,Backing Unsafely,Box Truck,Unknown
+[Node E] Duplicate: 09/04/2022,7:12,BROOKLYN,11207,40.6698,-73.8896,401,0,0,0,0,0,0,0,0,Aggressive Driving/Road Rage,Sedan,Sedan09/02/2022,0:00,UNKNOWN_BOROUGH,00000,40.8949,-73.8851,0,2,0,0,0,0,0,2,0,Unsafe Lane Changing,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/06/2022,8:30,MANHATTAN,10128,40.7814,-73.9542,0,0,0,0,0,0,0,0,0,Driver Inexperience,Sedan,Unknown
+[Node E] Duplicate: 09/06/2022,20:55,BROOKLYN,11217,40.6866,-73.9745,97,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan09/02/2022,10:00,UNKNOWN_BOROUGH,00000,40.6895,-73.948,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node F] Duplicate: 09/06/2022,7:16,QUEENS,11367,40.7257,-73.8138,75,0,0,0,0,0,0,0,0,Unspecified,4 dr sedan,Unknown09/03/2022,16:57,QUEENS,11375,40.7365,-73.8514,62,1,0,0,0,0,0,1,0,Fatigued/Drowsy,Sedan,Bus
+[Node F] Duplicate: 09/06/2022,23:35,BROOKLYN,11209,40.6165,-74.0267,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Station Wagon/Sport Utility Vehicle,Sedan09/06/2022,13:00,BROOKLYN,11231,40.6745,-74.0073,58,0,0,0,0,0,0,0,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 09/06/2022,2:00,BROOKLYN,11222,40.7318,-73.9524,210,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown09/06/2022,1:05,BROOKLYN,11233,40.6774,-73.908,0,2,0,0,0,0,0,2,0,Tire Failure/Inadequate,Sedan,Sedan
+[Node E] Duplicate: 09/06/2022,21:22,QUEENS,11434,40.6917,-73.7792,0,1,0,0,0,0,0,1,0,Reaction to Uninvolved Vehicle,Sedan,Unknown09/06/2022,18:30,QUEENS,11372,40.7477,-73.8938,0,0,0,0,0,0,0,0,0,Other Vehicular,Sedan,Unknown
+[Node F] Duplicate: 09/06/2022,7:30,UNKNOWN_BOROUGH,00000,40.6848,-73.8061,0,1,0,0,0,0,0,1,0,Following Too Closely,Sedan,Sedan
+[Node E] Duplicate: 08/25/2022,13:00,UNKNOWN_BOROUGH,00000,40.608,-74.1789,1000,2,0,0,0,0,0,2,0,Unspecified,Sedan,Sedan09/06/2022,1:56,BROOKLYN,11207,40.6776,-73.9023,0,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Station Wagon/Sport Utility Vehicle08/21/2022,2:00,MANHATTAN,10002,40.7184,-73.9878,124,0,0,0,0,0,0,0,0,Driver Inexperience,Taxi,Unknown
+[Node F] Duplicate: 09/03/2022,0:00,BRONX,10461,40.8344,-73.8262,0,1,0,0,0,1,0,0,0,Unspecified,Bike,Sedan09/06/2022,19:11,BRONX,10468,40.8663,-73.9006,0,0,0,0,0,0,0,0,0,Unsafe Speed,Sedan,Sedan08/27/2022,19:58,QUEENS,11435,40.6915,-73.8054,106,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/06/2022,15:18,UNKNOWN_BOROUGH,00000,40.7878,-73.8234,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Box Truck,Sedan
+[Node F] Duplicate: 08/28/2022,21:05,QUEENS,11434,40.6602,-73.7669,178,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Bike,Unknown09/06/2022,23:40,UNKNOWN_BOROUGH,00000,40.6548,-74.0071,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/01/2022,12:45,BRONX,10471,40.903,-73.8964,0,1,0,0,0,0,0,1,0,Unspecified,Motorcycle,Station Wagon/Sport Utility Vehicle09/04/2022,14:59,QUEENS,11101,40.7549,-73.9179,34,0,0,0,0,0,0,0,0,Passing Too Closely,Pick-up Truck,Moped
+[Node F] Duplicate: 09/02/2022,17:00,UNKNOWN_BOROUGH,00000,40.8731,-73.9057,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Sedan09/06/2022,21:44,QUEENS,11416,40.6793,-73.8605,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown
+[Node F] Duplicate: 09/02/2022,13:00,QUEENS,11375,40.7256,-73.8407,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 09/04/2022,22:50,UNKNOWN_BOROUGH,00000,40.6519,-73.8654,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node E] Duplicate: 02/02/2023,0:00,BROOKLYN,11230,40.6227,-73.9619,0,1,0,1,0,0,0,0,0,Unknown,Station Wagon/Sport Utility Vehicle,Unknown02/01/2023,13:10,BROOKLYN,11226,40.644,-73.9599,766,1,0,0,0,0,0,1,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/06/2022,13:08,BROOKLYN,11211,40.7076,-73.9556,0,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Unknown09/06/2022,11:07,UNKNOWN_BOROUGH,00000,40.6811,-73.9644,0,1,0,0,0,0,0,1,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/05/2022,12:36,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,FDNY,Unknown
+[Node F] Duplicate: 02/02/2023,18:30,UNKNOWN_BOROUGH,00000,40.6231,-74.1493,965,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Sedan02/01/2023,17:55,UNKNOWN_BOROUGH,00000,40.6825,-73.95,0,3,0,0,0,0,0,3,0,Following Too Closely,Taxi,Sedan
+[Node E] Duplicate: 09/02/2022,10:00,BROOKLYN,11210,40.6359,-73.9451,1503,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown09/06/2022,16:30,UNKNOWN_BOROUGH,00000,40.6809,-73.907,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 08/27/2022,7:00,QUEENS,11372,40.753,-73.8735,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 02/02/2023,18:00,BROOKLYN,11206,40.7014,-73.943,712,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 02/02/2023,0:45,BRONX,10462,40.8358,-73.8505,0,3,0,0,0,0,0,3,0,Driver Inexperience,Sedan,Van09/06/2022,14:40,BROOKLYN,11207,40.6528,-73.8863,0,2,0,0,0,0,0,2,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/06/2022,15:30,BROOKLYN,11217,40.6867,-73.9794,0,0,0,0,0,0,0,0,0,Unspecified,Pick-up Truck,Box Truck02/01/2023,12:03,MANHATTAN,10013,40.7165,-74.0023,60,1,0,1,0,0,0,0,0,Backing Unsafely,Sedan,Unknown
+[Node E] Duplicate: 02/01/2023,12:55,QUEENS,11354,40.7626,-73.8186,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown02/01/2023,17:42,QUEENS,11420,40.682,-73.8089,0,1,0,0,0,0,0,1,0,Following Too Closely,Sedan,Sedan
+[Node F] Duplicate: 02/03/2023,16:45,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Unspecified,Bike,Unknown08/31/2022,18:40,BROOKLYN,11207,40.671,-73.8957,272,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan
+[Node E] Duplicate: 08/31/2022,21:30,MANHATTAN,10030,0,0,2,0,0,0,0,0,2,0,Aggressive Driving/Road Rage,Unspecified,Sedan,Unknown09/06/2022,12:40,MANHATTAN,10065,40.7612,-73.9579,0,0,0,0,0,0,0,0,0,Other Vehicular,Sedan,Sedan
+[Node F] Duplicate: 02/01/2023,10:54,MANHATTAN,10007,40.7114,-74.0086,0,0,0,0,0,0,0,0,0,Unspecified,Box Truck,Unknown02/03/2023,3:00,UNKNOWN_BOROUGH,00000,40.7429,-73.8277,0,2,0,0,0,0,0,2,0,Passenger Distraction,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 08/27/2022,23:05,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/06/2022,16:00,MANHATTAN,10035,40.801,-73.9412,111,0,0,0,0,0,0,0,0,Other Vehicular,Pick-up Truck,Station Wagon/Sport Utility Vehicle01/31/2023,15:00,BROOKLYN,11206,40.7111,-73.9376,108,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,FORK LIFT02/02/2023,8:00,QUEENS,11368,40.7578,-73.8619,0,1,0,1,0,0,0,0,0,Unknown,Unknown,Unknown
+[Node F] Duplicate: 08/29/2022,17:30,UNKNOWN_BOROUGH,00000,0,0,2,0,0,0,0,0,2,0,Passing or Lane Usage Improper,Passing or Lane Usage Improper,Flat Bed,Unknown02/03/2023,8:30,BROOKLYN,11223,40.5965,-73.9733,0,0,0,0,0,0,0,0,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle01/27/2023,12:40,MANHATTAN,10027,40.8111,-73.9533,374,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Unknown
+[Node F] Duplicate: 02/03/2023,15:32,BROOKLYN,11234,40.6291,-73.9231,0,0,0,0,0,0,0,0,0,Illnes,Station Wagon/Sport Utility Vehicle,Unknown10/25/2022,10:28,BRONX,10474,40.8164,-73.8918,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Box Truck
+[Node E] Duplicate: 02/01/2023,22:20,QUEENS,11368,40.747,-73.8602,0,0,0,0,0,0,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Sedan,Bike01/30/2023,10:00,BRONX,10459,40.8279,-73.8909,1176,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 10/22/2022,18:25,BRONX,10472,40.8289,-73.8515,2169,0,0,0,0,0,0,0,0,Aggressive Driving/Road Rage,Sedan,Unknown10/25/2022,15:30,UNKNOWN_BOROUGH,00000,40.7662,-73.9198,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 10/22/2022,23:00,QUEENS,11372,40.7556,-73.8852,82,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown10/25/2022,16:00,BRONX,10454,40.8045,-73.912,0,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 10/25/2022,4:45,BRONX,10468,40.8627,-73.9049,0,0,0,0,0,0,0,0,0,Unsafe Speed,Sedan,Unknown10/25/2022,5:40,QUEENS,11373,40.7365,-73.8701,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown09/08/2022,10:35,MANHATTAN,10039,40.8327,-73.9354,159,0,0,0,0,0,0,0,0,Unspecified,Box Truck,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 01/21/2023,2:04,BRONX,10466,40.8981,-73.8534,0,4,0,0,0,0,0,4,0,Driver Inattention/Distraction,Sedan,Sedan02/02/2023,16:15,QUEENS,11418,40.7037,-73.8214,131,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,Sedan02/01/2023,15:50,BROOKLYN,11210,40.6342,-73.9449,0,1,0,1,0,0,0,0,0,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Unknown02/02/2023,0:20,MANHATTAN,10003,40.7316,-73.9823,239,1,0,0,0,0,0,0,0,Traffic Control Device Improper/Non-Working,Station Wagon/Sport Utility Vehicle,E-Scooter
+[Node E] Duplicate: 05/03/2023,16:45,UNKNOWN_BOROUGH,00000,40.6894,-73.9422,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle12/14/2022,22:06,UNKNOWN_BOROUGH,00000,40.8973,-73.8553,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan10/25/2022,15:30,BRONX,10475,40.8745,-73.8339,750,0,0,0,0,0,0,0,0,Unspecified,Bus,Bus
+[Node F] Duplicate: 10/25/2022,16:10,QUEENS,11413,40.6656,-73.7582,0,1,0,0,0,0,0,1,0,Unsafe Speed,Sedan,Sedan10/25/2022,22:51,UNKNOWN_BOROUGH,00000,40.8332,-73.8282,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle02/01/2023,9:40,BROOKLYN,11209,40.6167,-74.0309,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown
+[Node E] Duplicate: 08/26/2022,20:02,UNKNOWN_BOROUGH,00000,40.8192,-73.9604,0,0,0,0,0,0,0,0,0,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Taxi10/25/2022,6:30,QUEENS,11105,40.7773,-73.9124,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle10/12/2022,23:05,MANHATTAN,10036,40.7587,-73.9853,0,0,0,0,0,0,0,0,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Carry All
+[Node F] Duplicate: 10/20/2022,7:30,UNKNOWN_BOROUGH,00000,40.742,-73.9464,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown09/07/2022,19:55,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/20/2022,22:45,BROOKLYN,11233,40.6787,-73.9191,0,0,0,0,0,0,0,0,0,Aggressive Driving/Road Rage,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/25/2022,14:52,BROOKLYN,11203,40.6533,-73.9383,0,1,0,0,0,0,0,1,0,Unspecified,Tractor Truck Diesel,Sedan10/25/2022,10:56,BROOKLYN,11216,40.6917,-73.9485,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 10/25/2022,17:34,BRONX,10458,40.8582,-73.8943,2384,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Motorscooter10/25/2022,18:45,BRONX,10453,40.8559,-73.9043,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 10/25/2022,17:51,UNKNOWN_BOROUGH,00000,40.7377,-73.7686,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Box Truck,Station Wagon/Sport Utility Vehicle08/06/2023,4:49,QUEENS,11368,40.742,-73.866,0,0,1,0,0,0,0,0,1,Unspecified,Motorscooter,Unknown
+[Node E] Duplicate: 10/25/2022,15:30,QUEENS,11101,40.7525,-73.9296,34,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 10/25/2022,16:00,QUEENS,11429,40.702,-73.7411,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Bus10/25/2022,19:34,UNKNOWN_BOROUGH,00000,40.6901,-73.9192,0,1,0,0,0,1,0,0,0,Unsafe Lane Changing,Bike,Sedan10/25/2022,22:40,UNKNOWN_BOROUGH,00000,40.8072,-73.8817,0,0,0,0,0,0,0,0,0,Following Too Closely,Tractor Truck Diesel,Sedan
+[Node E] Duplicate: 10/22/2022,22:20,QUEENS,11369,40.7617,-73.8632,0,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown10/25/2022,15:00,BROOKLYN,11222,0,0,0,0,0,0,0,0,0,0,Unspecified,Unknown,Unknown,Unknown10/25/2022,19:30,MANHATTAN,10002,40.72,-73.9929,0,0,0,0,0,0,0,0,0,Unspecified,Taxi,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 10/24/2022,19:00,BROOKLYN,11207,40.6613,-73.8905,749,0,0,0,0,0,0,0,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Sedan09/14/2022,13:16,BRONX,10467,40.8714,-73.8633,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Convertible,Pick-up Truck
+[Node F] Duplicate: 10/25/2022,7:50,UNKNOWN_BOROUGH,00000,40.6822,-73.9466,0,1,0,0,0,1,0,0,0,Turning Improperly,Station Wagon/Sport Utility Vehicle,Bike
+[Node E] Duplicate: 10/23/2022,13:18,QUEENS,11372,40.7525,-73.8744,35,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle10/24/2022,4:20,MANHATTAN,10034,0,0,1,0,1,0,0,0,0,0,Backing Unsafely,Unknown,Unknown,Unknown10/25/2022,21:10,QUEENS,11432,40.7145,-73.7896,172,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/25/2022,16:30,QUEENS,11361,40.762,-73.7585,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/25/2022,8:10,QUEENS,11433,40.7079,-73.7833,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 10/25/2022,12:48,BRONX,10475,40.8781,-73.8323,99,0,0,0,0,0,0,0,0,Pavement Slippery,Sedan,Sedan10/25/2022,0:00,MANHATTAN,10003,40.7262,-73.9894,0,1,0,0,0,0,0,1,0,Driver Inexperience,Sedan,Sedan
+[Node F] Duplicate: 10/25/2022,0:15,UNKNOWN_BOROUGH,00000,40.7646,-73.8235,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Dump,Station Wagon/Sport Utility Vehicle10/25/2022,17:50,BROOKLYN,11212,40.6612,-73.918,7,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/25/2022,16:10,BRONX,10462,40.8392,-73.8638,1549,1,0,0,0,0,0,1,0,Other Vehicular,Flat Rack,Sedan
+[Node F] Duplicate: 10/25/2022,23:00,BROOKLYN,11218,40.6412,-73.9833,0,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/22/2022,5:00,MANHATTAN,10002,40.7201,-73.9934,12,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node E] Duplicate: 10/24/2022,18:30,MANHATTAN,10001,40.7488,-73.9933,220,1,0,0,0,1,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Sedan,E-Bike10/18/2022,11:00,UNKNOWN_BOROUGH,00000,40.7007,-73.9897,0,0,0,0,0,0,0,0,,,,
+[Node E] Duplicate: 10/25/2022,15:15,BROOKLYN,11249,40.7175,-73.9647,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Sedan,Bike10/13/2022,18:00,BRONX,10459,40.8201,-73.8999,852,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 10/24/2022,21:00,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Passing Too Closely,Unspecified,Tractor Truck Diesel,Unknown10/25/2022,23:20,QUEENS,11432,40.7108,-73.7928,169,0,0,0,0,0,0,0,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 02/02/2023,19:00,UNKNOWN_BOROUGH,00000,0,0,2,0,0,0,0,0,2,0,Traffic Control Disregarded,Traffic Control Disregarded,Sedan,Unknown02/01/2023,10:00,QUEENS,11368,40.756,-73.8586,34,0,0,0,0,0,0,0,0,Tire Failure/Inadequate,Sedan,Sedan10/25/2022,22:20,UNKNOWN_BOROUGH,00000,40.7547,-73.8331,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/25/2022,13:40,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unsafe Speed,Unknown,Unknown,Unknown10/25/2022,12:20,STATEN ISLAND,10304,40.597,-74.0934,0,2,0,0,0,0,0,2,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Sedan02/03/2023,16:26,BROOKLYN,11234,40.6224,-73.9366,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 01/26/2023,16:30,MANHATTAN,10001,0,0,444,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown02/03/2023,10:10,BROOKLYN,11226,40.6504,-73.9587,0,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown02/01/2023,18:00,UNKNOWN_BOROUGH,00000,40.5716,-74.0942,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,Unknown
+[Node F] Duplicate: 10/25/2022,15:30,QUEENS,11427,40.7329,-73.7322,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown10/21/2022,23:30,MANHATTAN,10013,40.7154,-73.9979,59,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown10/22/2022,17:10,QUEENS,11369,40.7603,-73.8758,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node E] Duplicate: 10/25/2022,20:58,UNKNOWN_BOROUGH,00000,40.732,-73.8703,0,1,0,0,0,0,0,1,0,Alcohol Involvement,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/25/2022,0:03,UNKNOWN_BOROUGH,00000,40.8433,-73.9249,0,0,0,0,0,0,0,0,0,Outside Car Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 02/03/2023,19:44,QUEENS,11413,40.6706,-73.7564,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle10/26/2022,6:30,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Unspecified,Unknown,Unknown,Unknown02/03/2023,15:49,UNKNOWN_BOROUGH,00000,40.8157,-73.9583,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Box Truck
+[Node E] Duplicate: 02/03/2023,8:30,BROOKLYN,11231,40.6736,-74.0042,123,1,0,1,0,0,0,0,0,Unspecified,Sedan,Unknown02/03/2023,6:49,UNKNOWN_BOROUGH,00000,40.7896,-73.9401,0,0,0,0,0,0,0,0,0,Backing Unsafely,Refrigerated Van,Sedan02/01/2023,11:31,QUEENS,11379,40.7153,-73.8998,62,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan
+[Node F] Duplicate: 02/01/2023,7:27,BROOKLYN,11226,40.6505,-73.9558,0,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan02/02/2023,12:18,STATEN ISLAND,10314,40.6101,-74.1167,0,0,0,0,0,0,0,0,0,Turning Improperly,Station Wagon/Sport Utility Vehicle,Unknown02/02/2023,15:36,UNKNOWN_BOROUGH,00000,0,0,1,0,1,0,0,0,0,0,Reaction to Uninvolved Vehicle,Unknown,Unknown,Unknown02/03/2023,21:30,BRONX,10457,40.843,-73.9105,0,0,0,0,0,0,0,0,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Sedan02/03/2023,23:40,QUEENS,11422,40.6784,-73.7292,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node F] Duplicate: 02/01/2023,19:29,STATEN ISLAND,10306,40.5705,-74.1098,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Unknown,Unknown02/02/2023,10:05,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Unknown02/02/2023,16:30,BROOKLYN,11232,40.6537,-74.0051,968,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bike02/02/2023,5:04,UNKNOWN_BOROUGH,00000,40.6872,-73.9547,0,0,0,0,0,0,0,0,0,Backing Unsafely,Motorcycle,Unknown02/03/2023,1:35,UNKNOWN_BOROUGH,00000,40.7564,-73.9601,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown02/01/2023,9:55,STATEN ISLAND,10304,0,0,1,0,0,0,0,0,1,0,Turning Improperly,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 02/02/2023,7:35,QUEENS,11412,40.6888,-73.764,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Sedan,Unknown02/02/2023,10:26,MANHATTAN,10038,40.7087,-74.0073,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown02/01/2023,7:15,BROOKLYN,11234,40.6345,-73.9189,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan01/28/2023,18:40,MANHATTAN,10036,40.7573,-73.986,0,0,0,0,0,0,0,0,0,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 02/02/2023,15:43,BRONX,10460,40.8428,-73.866,647,0,0,0,0,0,0,0,0,Other Vehicular,Ambulance,Bus02/03/2023,17:20,QUEENS,11379,40.72,-73.8697,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Station Wagon/Sport Utility Vehicle02/01/2023,7:05,UNKNOWN_BOROUGH,00000,40.8789,-73.9048,0,1,0,1,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 02/03/2023,19:05,BROOKLYN,11203,40.6416,-73.938,0,2,0,0,0,0,0,2,0,Failure to Yield Right-of-Way,Sedan,Sedan01/20/2023,21:30,MANHATTAN,10011,40.7443,-73.9962,208,0,0,0,0,0,0,0,0,Unspecified,Sedan,Box Truck02/01/2023,19:35,UNKNOWN_BOROUGH,00000,40.831,-73.8523,0,0,0,0,0,0,0,0,0,Reaction to Uninvolved Vehicle,Tractor Truck Diesel,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 02/01/2023,15:40,UNKNOWN_BOROUGH,00000,40.5843,-73.9638,0,0,0,0,0,0,0,0,0,Following Too Closely,Bus,Pick-up Truck
+[Node F] Duplicate: 02/03/2023,0:05,QUEENS,11370,40.7587,-73.8907,0,1,0,0,0,0,0,1,0,Driver Inexperience,Sedan,Pick-up Truck02/01/2023,22:00,BROOKLYN,11206,40.7005,-73.9416,760,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Sedan02/03/2023,8:50,UNKNOWN_BOROUGH,00000,40.6911,-73.9536,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Bus,Station Wagon/Sport Utility Vehicle02/01/2023,11:07,MANHATTAN,10012,40.7259,-73.9963,620,1,0,0,0,0,0,1,0,Unspecified,Box Truck,Sedan
+[Node E] Duplicate: 01/19/2023,8:15,MANHATTAN,10013,40.7262,-74.0075,310,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Box Truck,Sedan02/03/2023,18:30,QUEENS,11357,40.7941,-73.8181,7,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Bus
+[Node F] Duplicate: 02/03/2023,6:10,MANHATTAN,10019,40.763,-73.9781,0,1,0,0,0,1,0,0,0,Unspecified,Bike,Taxi02/03/2023,18:37,BROOKLYN,11223,40.6073,-73.9619,0,1,0,1,0,0,0,0,0,Unspecified,Taxi,Unknown
+[Node F] Duplicate: 02/03/2023,15:38,BROOKLYN,11238,40.6802,-73.968,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bus
+[Node E] Duplicate: 02/03/2023,10:30,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Obstruction/Debris,Unknown,Unknown,Unknown02/02/2023,23:45,QUEENS,11105,40.7759,-73.9076,21,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 02/02/2023,16:00,BROOKLYN,11234,40.6185,-73.9135,0,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Sedan,Sedan10/27/2022,8:10,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Glare,Unknown,Unknown,Unknown
+[Node E] Duplicate: 01/31/2023,11:55,QUEENS,11379,40.7105,-73.8789,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown10/27/2022,22:15,BROOKLYN,11218,40.6361,-73.9727,0,1,0,1,0,0,0,0,0,Unspecified,Sedan,Unknown02/03/2023,16:30,BROOKLYN,11217,40.6861,-73.9827,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 02/01/2023,9:00,QUEENS,11423,40.7086,-73.7797,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Flat Bed,Unknown02/01/2023,18:32,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Pick-up Truck,Unknown
+[Node F] Duplicate: 02/02/2023,2:43,UNKNOWN_BOROUGH,00000,40.6606,-74.0013,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown02/03/2023,11:10,MANHATTAN,10065,40.7643,-73.9672,131,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 02/02/2023,13:30,UNKNOWN_BOROUGH,00000,40.5751,-74.1051,0,1,0,0,0,0,0,1,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Unknown
+[Node E] Duplicate: 08/26/2022,14:00,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Unknown,Unknown
+[Node E] Duplicate: 02/02/2023,19:00,BROOKLYN,11226,40.6428,-73.9609,0,1,0,0,0,1,0,0,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Bike
+[Node F] Duplicate: 02/01/2023,8:01,MANHATTAN,10065,40.7634,-73.9593,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Bus,Bus
+[Node F] Duplicate: 01/29/2023,20:00,UNKNOWN_BOROUGH,00000,40.6815,-73.7278,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 02/02/2023,21:50,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Turning Improperly,Turning Improperly,Sedan,Unknown
+[Node F] Duplicate: 02/01/2023,17:35,QUEENS,11362,40.7521,-73.7414,0,0,0,0,0,0,0,0,0,Unspecified,Pick-up Truck,Unknown
+[Node E] Duplicate: 01/28/2023,20:51,UNKNOWN_BOROUGH,00000,40.8134,-73.9654,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan
+[Node E] Duplicate: 02/03/2023,0:00,QUEENS,11358,40.7501,-73.7862,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Sedan,Sedan
+[Node F] Duplicate: 09/09/2022,19:30,UNKNOWN_BOROUGH,00000,40.828,-73.9348,0,1,0,0,0,0,0,1,0,Oversized Vehicle,Station Wagon/Sport Utility Vehicle,Bus
+[Node F] Duplicate: 02/01/2023,15:55,BRONX,10455,40.8114,-73.9078,0,0,0,0,0,0,0,0,0,Oversized Vehicle,Bus,Sedan
+[Node E] Duplicate: 02/03/2023,22:00,QUEENS,11434,40.6584,-73.7674,179,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 02/03/2023,13:45,UNKNOWN_BOROUGH,00000,40.6981,-73.9254,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Bus01/18/2023,8:00,QUEENS,11372,40.755,-73.8853,33,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown02/02/2023,8:48,BROOKLYN,11230,40.6242,-73.9705,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Unknown02/03/2023,4:20,QUEENS,11368,40.7441,-73.8597,103,0,0,0,0,0,0,0,0,Unspecified,Van,UNKOWN
+[Node E] Duplicate: 09/09/2022,21:15,STATEN ISLAND,10301,40.6404,-74.0979,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown09/08/2022,16:58,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Sedan,Unknown02/03/2023,0:21,UNKNOWN_BOROUGH,00000,40.6945,-73.8491,0,3,0,0,0,0,0,3,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Sedan
+[Node E] Duplicate: 09/02/2022,23:26,BRONX,10455,40.8127,-73.9063,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan09/09/2022,13:30,BROOKLYN,11235,40.5882,-73.9525,0,0,0,0,0,0,0,0,0,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/08/2022,8:30,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,1,0,0,0,Unspecified,Unspecified,Bike,Unknown09/07/2022,14:00,BRONX,10462,40.8364,-73.8472,2355,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 01/31/2023,9:11,QUEENS,11374,40.7118,-73.8598,0,1,0,0,0,0,0,1,0,Following Too Closely,Sedan,Station Wagon/Sport Utility Vehicle02/02/2023,11:50,UNKNOWN_BOROUGH,00000,40.5891,-73.801,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown02/01/2023,9:30,UNKNOWN_BOROUGH,00000,40.6471,-73.9939,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Convertible,Convertible02/02/2023,15:00,MANHATTAN,10065,40.7644,-73.9636,225,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,E-Scooter02/02/2023,20:55,UNKNOWN_BOROUGH,00000,40.6427,-73.8766,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node F] Duplicate: 09/09/2022,1:00,UNKNOWN_BOROUGH,00000,40.7159,-73.8118,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown08/24/2022,19:34,BROOKLYN,11213,40.6761,-73.936,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan05/02/2023,21:15,BROOKLYN,11234,40.6098,-73.9225,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Bus,Sedan
+[Node E] Duplicate: 02/02/2023,20:15,UNKNOWN_BOROUGH,00000,40.6872,-73.9547,0,0,0,0,0,0,0,0,0,Turning Improperly,Motorcycle,Box Truck
+[Node E] Duplicate: 09/08/2022,13:00,UNKNOWN_BOROUGH,00000,40.74,-73.8456,0,1,0,0,0,0,0,1,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/07/2022,18:20,STATEN ISLAND,10312,40.5486,-74.1718,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/07/2022,19:40,UNKNOWN_BOROUGH,00000,40.702,-73.8019,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,PK09/04/2022,21:17,UNKNOWN_BOROUGH,00000,40.7427,-73.8462,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 09/08/2022,5:00,MANHATTAN,10013,40.7194,-74.0019,0,0,0,0,0,0,0,0,0,Unspecified,Pick-up Truck,Sedan09/09/2022,16:16,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Unsafe Speed,Unspecified,Sedan,Unknown09/08/2022,11:30,UNKNOWN_BOROUGH,00000,40.6976,-73.8714,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Unknown09/08/2022,6:03,UNKNOWN_BOROUGH,00000,40.6917,-73.9059,0,0,0,0,0,0,0,0,0,Turning Improperly,Station Wagon/Sport Utility Vehicle,Unknown09/07/2022,6:33,UNKNOWN_BOROUGH,00000,40.5962,-73.7462,0,1,0,0,0,1,0,0,0,Passing or Lane Usage Improper,Sedan,Bike
+[Node E] Duplicate: 09/07/2022,18:50,BRONX,10467,40.8803,-73.8827,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown09/08/2022,11:30,MANHATTAN,10012,40.7234,-73.9996,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/08/2022,13:37,BRONX,10464,40.8495,-73.7874,394,1,0,1,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/07/2022,16:09,BROOKLYN,11238,40.6802,-73.9642,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Sedan
+[Node F] Duplicate: 09/05/2022,21:20,BROOKLYN,11206,40.7116,-73.9439,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle09/08/2022,12:57,MANHATTAN,10029,40.7993,-73.9432,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Bus
+[Node E] Duplicate: 02/01/2023,3:18,QUEENS,11370,40.7646,-73.8849,84,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan01/28/2023,8:17,BRONX,10459,40.8219,-73.8883,0,0,0,0,0,0,0,0,0,Following Too Closely,AMBU,Sedan
+[Node F] Duplicate: 09/09/2022,14:20,QUEENS,11429,40.7122,-73.7344,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bike09/07/2022,9:24,UNKNOWN_BOROUGH,00000,40.8256,-73.8177,0,1,0,0,0,0,0,1,0,Reaction to Uninvolved Vehicle,Sedan,Sedan
+[Node E] Duplicate: 09/08/2022,14:50,BROOKLYN,11204,40.6085,-73.9759,0,3,0,0,0,0,0,3,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle09/07/2022,1:00,MANHATTAN,10036,40.7604,-73.9912,0,0,0,0,0,0,0,0,0,View Obstructed/Limited,Sedan,Unknown09/07/2022,6:09,MANHATTAN,10002,40.7197,-73.9828,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Sedan,Sedan
+[Node F] Duplicate: 09/07/2022,20:20,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Other Vehicular,Unspecified,Tractor Truck Diesel,Unknown09/07/2022,11:28,UNKNOWN_BOROUGH,00000,40.6902,-73.9482,0,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Sedan,Sedan09/08/2022,11:25,UNKNOWN_BOROUGH,00000,40.705,-73.9174,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/09/2022,13:06,BRONX,10467,40.8818,-73.8654,0,3,0,0,0,0,0,2,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,E-Bike09/07/2022,8:40,QUEENS,11420,40.6748,-73.8062,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Pick-up Truck,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/09/2022,23:40,BRONX,10451,40.8239,-73.9176,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,AMBULANCE09/09/2022,12:55,UNKNOWN_BOROUGH,00000,40.8454,-73.9282,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Tractor Truck Diesel
+[Node F] Duplicate: 09/07/2022,21:54,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Sedan,Unknown09/08/2022,8:50,UNKNOWN_BOROUGH,00000,40.6804,-73.9496,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Box Truck
+[Node E] Duplicate: 09/07/2022,23:26,UNKNOWN_BOROUGH,00000,40.6926,-73.928,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Motorcycle09/07/2022,15:40,BRONX,10473,40.8145,-73.8491,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Unknown09/08/2022,14:53,BROOKLYN,11211,40.7151,-73.9564,0,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Sedan,Motorscooter09/08/2022,23:27,BROOKLYN,11204,40.6147,-73.9965,1755,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node E] Duplicate: 08/02/2022,18:40,BROOKLYN,11221,40.6893,-73.924,0,0,0,0,0,0,0,0,0,Unspecified,E-Bike,Unknown09/09/2022,7:47,QUEENS,11422,40.6547,-73.7433,0,5,0,0,0,0,0,5,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle09/07/2022,12:20,QUEENS,11421,40.6944,-73.8525,86,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 09/09/2022,14:45,MANHATTAN,10029,40.7879,-73.9537,0,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Bus,Station Wagon/Sport Utility Vehicle08/23/2022,14:03,BRONX,10463,40.877,-73.9058,188,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown09/09/2022,8:11,QUEENS,11355,40.7419,-73.8189,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 09/07/2022,14:26,BROOKLYN,11217,40.6834,-73.9754,625,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/04/2022,0:15,UNKNOWN_BOROUGH,00000,0,0,3,0,0,0,0,0,3,0,Following Too Closely,Unknown,Unknown,Unknown09/08/2022,8:30,UNKNOWN_BOROUGH,00000,40.6471,-74.0226,0,1,0,0,0,0,0,1,0,View Obstructed/Limited,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/07/2022,21:25,MANHATTAN,10002,40.7177,-73.9858,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Sedan,Bike09/09/2022,18:49,MANHATTAN,10027,40.8162,-73.9575,566,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 09/08/2022,13:05,BRONX,10455,40.8188,-73.9032,806,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown09/07/2022,10:35,STATEN ISLAND,10301,40.6395,-74.0849,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node E] Duplicate: 09/04/2022,9:24,BROOKLYN,11212,40.6642,-73.9221,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Pick-up Truck,Sedan08/23/2022,8:00,QUEENS,11355,40.7514,-73.818,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Unknown05/04/2023,0:30,UNKNOWN_BOROUGH,00000,40.6925,-73.8108,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Tractor Truck Diesel
+[Node E] Duplicate: 09/06/2022,14:00,BROOKLYN,11233,40.6783,-73.9108,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Pick-up Truck,Pick-up Truck09/06/2022,9:45,BROOKLYN,11217,40.6761,-73.9775,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 09/01/2022,17:00,BRONX,10463,40.8844,-73.9019,3623,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan09/08/2020,14:35,QUEENS,11372,40.7556,-73.8854,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/05/2022,19:00,UNKNOWN_BOROUGH,00000,40.7987,-73.9595,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Unknown09/09/2022,16:31,BRONX,10469,40.879,-73.8474,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Station Wagon/Sport Utility Vehicle
+[Node E] Duplicate: 09/08/2022,15:26,MANHATTAN,10023,40.7792,-73.9871,0,1,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,E-Scooter,Unknown09/07/2022,8:00,UNKNOWN_BOROUGH,00000,40.6061,-74.0798,0,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Motorcycle
+[Node E] Duplicate: 08/28/2022,15:46,MANHATTAN,10029,40.7906,-73.9485,118,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown09/07/2022,12:00,UNKNOWN_BOROUGH,00000,40.6656,-73.8885,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Box Truck09/07/2022,18:50,UNKNOWN_BOROUGH,00000,40.767,-73.9041,0,1,0,0,0,0,0,1,0,Following Too Closely,Sedan,Sedan
+[Node F] Duplicate: 09/03/2022,10:45,MANHATTAN,10023,40.781,-73.9813,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown09/08/2022,19:08,UNKNOWN_BOROUGH,00000,0,0,3,0,0,0,0,0,3,0,Unsafe Speed,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan09/08/2022,6:30,BROOKLYN,11237,40.7129,-73.9222,0,0,0,0,0,0,0,0,0,Turning Improperly,Bus,Bus
+[Node E] Duplicate: 09/09/2022,13:04,MANHATTAN,10007,40.7145,-74.0136,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Box Truck09/09/2022,18:50,UNKNOWN_BOROUGH,00000,40.8351,-73.9455,0,0,0,0,0,0,0,0,0,Brakes Defective,Station Wagon/Sport Utility Vehicle,Sedan09/07/2022,10:20,STATEN ISLAND,10310,40.6417,-74.1149,47,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node F] Duplicate: 09/09/2022,21:30,BRONX,10467,40.8608,-73.8695,2385,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown09/09/2022,16:45,BROOKLYN,11214,40.6005,-74.0013,175,1,0,1,0,0,0,0,0,Backing Unsafely,Sedan,Sedan09/09/2022,18:00,BRONX,10457,40.8463,-73.8873,0,0,0,0,0,0,0,0,0,Oversized Vehicle,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 09/07/2022,9:30,BROOKLYN,11213,40.666,-73.9295,0,0,0,0,0,0,0,0,0,Unspecified,Flat Rack,Station Wagon/Sport Utility Vehicle09/06/2022,21:15,QUEENS,11355,40.7551,-73.821,0,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan08/02/2022,21:45,BROOKLYN,11236,40.6432,-73.9093,0,1,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,E-Bike,Unknown
+[Node E] Duplicate: 09/07/2022,17:15,BRONX,10475,40.8846,-73.8266,0,0,0,0,0,0,0,0,0,Aggressive Driving/Road Rage,Station Wagon/Sport Utility Vehicle,Unknown08/30/2022,10:45,MANHATTAN,10016,40.7488,-73.9816,38,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan
+[Node F] Duplicate: 09/08/2022,7:20,UNKNOWN_BOROUGH,00000,40.6667,-73.7863,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Unknown09/08/2022,18:20,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Other Vehicular,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Unknown08/31/2022,20:00,BROOKLYN,11211,40.7124,-73.9626,337,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Sedan09/09/2022,13:51,UNKNOWN_BOROUGH,00000,40.5753,-74.1618,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 09/08/2022,4:21,BROOKLYN,11212,40.6697,-73.9108,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Sedan09/07/2022,15:50,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown09/09/2022,12:45,BROOKLYN,11230,40.6256,-73.9576,0,1,0,0,0,1,0,0,0,Unspecified,Bike,Station Wagon/Sport Utility Vehicle09/07/2022,16:25,UNKNOWN_BOROUGH,00000,40.6507,-73.9719,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Bus,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/01/2022,12:30,BROOKLYN,11211,40.7111,-73.9541,335,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Box Truck09/07/2022,9:00,BRONX,10470,40.896,-73.8639,4215,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 09/07/2022,5:30,BROOKLYN,11210,40.6171,-73.9458,2922,0,0,0,0,0,0,0,0,Unspecified,Taxi,Bus09/08/2022,17:49,BROOKLYN,11215,40.6683,-73.9936,549,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Station Wagon/Sport Utility Vehicle08/26/2022,17:07,BRONX,10463,40.8746,-73.9025,2899,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Unknown09/08/2022,19:35,BRONX,10457,40.8487,-73.9033,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Bus,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/06/2022,11:41,BROOKLYN,11201,40.6948,-73.9839,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Box Truck,PICKUP09/09/2022,11:45,UNKNOWN_BOROUGH,00000,40.7028,-73.9137,0,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Station Wagon/Sport Utility Vehicle08/26/2022,20:15,BROOKLYN,11233,40.6767,-73.908,1878,2,0,1,0,0,0,1,0,Unspecified,Sedan,Unknown09/03/2022,11:00,BROOKLYN,11213,40.675,-73.9305,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Bus,Firetruck08/25/2022,23:50,BRONX,10471,40.8895,-73.8983,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/09/2022,23:25,QUEENS,11368,40.7502,-73.8607,104,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Sedan
+[Node F] Duplicate: 09/08/2022,11:40,BROOKLYN,11234,0,0,0,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Sedan,Motorcycle09/09/2022,0:15,QUEENS,11369,40.7599,-73.8593,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Bus,Unknown09/08/2022,12:14,UNKNOWN_BOROUGH,00000,40.7133,-73.9776,0,0,0,0,0,0,0,0,,,,09/07/2022,19:05,UNKNOWN_BOROUGH,00000,40.6919,-73.7983,0,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Unknown
+[Node F] Duplicate: 09/09/2022,9:36,UNKNOWN_BOROUGH,00000,40.7924,-73.9343,0,0,0,0,0,0,0,0,0,Following Too Closely,Box Truck,Sedan09/01/2022,7:30,BROOKLYN,11220,40.6457,-74.0204,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 08/25/2022,17:50,UNKNOWN_BOROUGH,00000,40.8438,-73.9095,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 08/26/2022,14:19,BRONX,10459,40.8202,-73.8907,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Van,Unknown09/09/2022,7:30,UNKNOWN_BOROUGH,00000,0,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Unspecified,Taxi,Unknown
+[Node F] Duplicate: 09/07/2022,13:43,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,View Obstructed/Limited,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown09/09/2022,0:08,UNKNOWN_BOROUGH,00000,40.6958,-73.9659,0,1,0,0,0,0,0,1,0,Following Too Closely,Tractor Truck Gasoline,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 02/03/2023,13:30,UNKNOWN_BOROUGH,00000,40.7464,-73.7653,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Tractor Truck Diesel02/01/2023,9:00,UNKNOWN_BOROUGH,00000,40.6983,-73.9216,0,0,0,0,0,0,0,0,0,Turning Improperly,Sedan,Tractor Truck Diesel
+[Node F] Duplicate: 09/08/2022,7:30,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Sedan02/02/2023,0:00,BRONX,10467,40.8808,-73.8835,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 02/02/2023,12:11,UNKNOWN_BOROUGH,00000,40.7624,-73.8275,0,1,0,0,0,1,0,0,0,Failure to Yield Right-of-Way,Sedan,E-Bike09/08/2022,17:13,UNKNOWN_BOROUGH,00000,40.7198,-73.9448,0,0,0,0,0,0,0,0,0,Other Vehicular,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 05/05/2023,17:24,UNKNOWN_BOROUGH,00000,0,0,1,0,1,0,0,0,0,0,Unspecified,Unknown,Unknown,Unknown02/03/2023,18:00,UNKNOWN_BOROUGH,00000,40.6816,-73.7722,0,1,0,0,0,0,0,1,0,Passing Too Closely,Van,Sedan02/03/2023,14:50,QUEENS,11411,40.6998,-73.7433,0,2,0,0,0,0,0,2,0,Glare,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 02/01/2023,20:45,QUEENS,11368,40.7571,-73.8704,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Unknown,Unknown02/03/2023,14:53,QUEENS,11377,40.7403,-73.8959,0,1,0,0,0,1,0,0,0,Passing or Lane Usage Improper,Sedan,Bike05/05/2023,15:30,MANHATTAN,10009,40.7281,-73.979,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bus
+[Node F] Duplicate: 05/05/2023,14:45,UNKNOWN_BOROUGH,00000,40.6907,-73.9573,0,1,0,1,0,0,0,0,0,Other Vehicular,Ele. Unicy,Unknown05/04/2023,9:40,BROOKLYN,11211,40.7105,-73.9609,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Unknown05/05/2023,0:00,UNKNOWN_BOROUGH,00000,40.7554,-73.8283,0,0,0,0,0,0,0,0,0,Aggressive Driving/Road Rage,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle04/20/2023,13:01,MANHATTAN,10014,40.7289,-74.0086,0,0,0,0,0,0,0,0,0,Turning Improperly,Garbage or Refuse,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 03/22/2023,14:00,BROOKLYN,11211,40.7155,-73.948,331,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Unknown03/26/2023,21:06,MANHATTAN,10025,40.8025,-73.9647,200,0,0,0,0,0,0,0,0,Driverless/Runaway Vehicle,Sedan,Station Wagon/Sport Utility Vehicle05/05/2023,20:10,BROOKLYN,11207,40.6775,-73.902,2501,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle05/04/2023,15:50,UNKNOWN_BOROUGH,00000,40.8476,-73.9162,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node F] Duplicate: 05/05/2023,7:50,MANHATTAN,10032,40.8331,-73.9407,0,1,0,1,0,0,0,0,0,Unspecified,Sedan,Unknown05/03/2023,15:25,BROOKLYN,11207,40.6759,-73.8951,2689,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle05/05/2023,23:45,UNKNOWN_BOROUGH,00000,40.8159,-73.9099,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 05/03/2023,17:15,QUEENS,11358,40.7667,-73.7928,33,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan05/02/2023,10:30,BROOKLYN,11225,40.6658,-73.9575,220,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown05/04/2023,8:49,BRONX,10456,40.8392,-73.9055,1458,1,0,0,0,0,0,0,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,E-Bike05/04/2023,6:30,QUEENS,11422,40.661,-73.7285,142,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node F] Duplicate: 05/01/2023,16:48,BROOKLYN,11206,40.7066,-73.9431,0,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown05/01/2023,18:45,MANHATTAN,10013,40.726,-74.0038,180,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown05/03/2023,8:54,UNKNOWN_BOROUGH,00000,40.7627,-73.9543,0,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle05/03/2023,22:35,UNKNOWN_BOROUGH,00000,40.7713,-73.7325,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 05/05/2023,8:50,BRONX,10453,40.8511,-73.9047,0,1,0,0,0,0,0,1,0,Accelerator Defective,Sedan,Sedan05/03/2023,19:30,UNKNOWN_BOROUGH,00000,40.5926,-73.787,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Sedan,Sedan05/03/2023,12:46,MANHATTAN,10003,40.7259,-73.9897,59,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 05/05/2023,23:47,MANHATTAN,10036,40.7586,-73.9831,144,1,0,0,0,1,0,0,0,Other Vehicular,Pedicab,Unknown05/04/2023,20:00,QUEENS,11430,0,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Traffic Control Disregarded,Sedan,Unknown05/04/2023,7:54,QUEENS,11358,40.7557,-73.7961,0,1,0,0,0,1,0,0,0,Traffic Control Disregarded,Bus,Bike
+[Node F] Duplicate: 05/03/2023,14:07,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Driver Inexperience,Driver Inattention/Distraction,Carry All,Unknown05/04/2023,5:50,UNKNOWN_BOROUGH,00000,40.7016,-73.9149,0,0,0,0,0,0,0,0,0,Passing Too Closely,Sedan,Unknown04/29/2023,7:30,MANHATTAN,10033,40.8468,-73.9319,0,0,0,0,0,0,0,0,0,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 05/05/2023,6:40,UNKNOWN_BOROUGH,00000,40.677,-73.8196,0,2,0,0,0,0,0,2,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Sedan10/28/2022,19:50,BROOKLYN,11204,40.6118,-73.9764,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle08/30/2022,14:29,BROOKLYN,11207,40.6638,-73.8899,0,2,0,0,0,0,0,2,0,Failure to Yield Right-of-Way,Sedan,Sedan
+[Node F] Duplicate: 08/28/2022,0:00,UNKNOWN_BOROUGH,00000,40.6662,-73.7918,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/24/2022,2:00,QUEENS,11379,40.7122,-73.885,70,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown09/10/2022,8:05,QUEENS,11432,40.707,-73.7905,169,1,0,0,0,0,0,1,0,Unsafe Speed,Sedan,Unknown
+[Node F] Duplicate: 09/10/2022,19:30,QUEENS,11375,40.727,-73.8465,0,1,0,0,0,0,0,0,0,Headlights Defective,Station Wagon/Sport Utility Vehicle,E-Bike05/05/2023,5:20,QUEENS,11434,40.6596,-73.7738,0,2,0,0,0,0,0,2,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/10/2022,18:00,QUEENS,11373,40.745,-73.8783,0,2,0,1,0,1,0,0,0,Unspecified,Bike,Sedan
+[Node F] Duplicate: 09/10/2022,17:58,UNKNOWN_BOROUGH,00000,40.631,-74.1373,51,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan09/09/2022,18:25,BROOKLYN,11206,40.7012,-73.9568,80,0,0,0,0,0,0,0,0,Passenger Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/08/2022,16:33,UNKNOWN_BOROUGH,00000,40.865,-73.8247,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan10/26/2022,20:48,UNKNOWN_BOROUGH,00000,40.652,-73.8654,0,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Unknown09/10/2022,10:26,QUEENS,11355,40.7579,-73.8285,41,1,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,E-Scooter,Unknown
+[Node F] Duplicate: 09/10/2022,23:48,QUEENS,11103,40.7662,-73.9153,0,1,0,0,0,0,0,1,0,Driver Inexperience,Motorscooter,Sedan09/10/2022,15:46,MANHATTAN,10005,40.7052,-74.0048,0,1,0,0,0,1,0,0,0,Alcohol Involvement,Bike,Bike09/09/2022,21:10,UNKNOWN_BOROUGH,00000,40.739,-73.9734,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown09/10/2022,21:45,QUEENS,11428,40.7281,-73.7345,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Sedan09/09/2022,9:30,BROOKLYN,11207,40.6771,-73.8882,2873,0,0,0,0,0,0,0,0,Other Vehicular,Pick-up Truck,Station Wagon/Sport Utility Vehicle09/10/2022,13:00,QUEENS,11411,40.691,-73.7392,0,2,0,0,0,0,0,2,0,Traffic Control Disregarded,Sedan,Sedan09/10/2022,11:35,BRONX,10468,40.8687,-73.895,0,0,0,0,0,0,0,0,0,Passing Too Closely,Pick-up Truck,Unknown
+[Node F] Duplicate: 09/03/2022,19:41,BRONX,10461,40.8431,-73.8474,0,0,0,0,0,0,0,0,0,Alcohol Involvement,Sedan,Station Wagon/Sport Utility Vehicle09/10/2022,18:30,UNKNOWN_BOROUGH,00000,40.6908,-73.7273,0,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Sedan09/09/2022,19:45,BROOKLYN,11208,40.6622,-73.8728,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/09/2022,17:40,MANHATTAN,10029,40.7914,-73.9388,2110,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,FDNY FIRE09/10/2022,16:00,QUEENS,11385,40.7128,-73.9023,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/10/2022,20:30,BROOKLYN,11201,40.7008,-73.9959,55,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown09/09/2022,9:19,MANHATTAN,10075,40.7732,-73.9568,244,0,0,0,0,0,0,0,0,Other Vehicular,Station Wagon/Sport Utility Vehicle,Unknown09/10/2022,4:15,UNKNOWN_BOROUGH,00000,40.7041,-73.9386,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Motorcycle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/01/2022,18:40,BROOKLYN,11230,40.63,-73.9716,0,1,0,0,0,0,0,1,0,Unspecified,Sedan,Unknown09/07/2022,12:20,BROOKLYN,11222,40.7276,-73.9498,158,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Sedan,Unknown
+[Node F] Duplicate: 09/10/2022,18:10,QUEENS,11419,40.6925,-73.8336,112,0,0,0,0,0,0,0,0,Backing Unsafely,Sedan,Station Wagon/Sport Utility Vehicle09/10/2022,7:55,BRONX,10462,40.8568,-73.8619,0,1,0,0,0,0,0,1,0,Reaction to Uninvolved Vehicle,Sedan,Ambulance
+[Node F] Duplicate: 09/09/2022,17:14,UNKNOWN_BOROUGH,00000,40.8724,-73.8898,0,0,0,0,0,0,0,0,0,Driverless/Runaway Vehicle,Sedan,Station Wagon/Sport Utility Vehicle08/28/2022,19:00,MANHATTAN,10029,40.7923,-73.9404,320,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 10/26/2022,11:39,BROOKLYN,11230,40.6288,-73.9699,915,1,0,1,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/26/2022,8:00,MANHATTAN,10128,40.7819,-73.9488,1769,0,0,0,0,0,0,0,0,Unspecified,Sedan,Flat Bed
+[Node F] Duplicate: 10/28/2022,8:00,QUEENS,11358,40.7562,-73.8017,0,2,0,2,0,0,0,0,0,Unknown,Unknown,Unknown10/22/2022,19:10,MANHATTAN,10026,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unknown,Unknown,Unknown
+[Node F] Duplicate: 10/20/2022,12:08,MANHATTAN,10031,40.8278,-73.9477,554,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 10/28/2022,8:35,UNKNOWN_BOROUGH,00000,40.5867,-73.9662,0,0,0,0,0,0,0,0,0,View Obstructed/Limited,Sedan,Unknown
+[Node F] Duplicate: 10/28/2022,19:10,BROOKLYN,11232,40.6564,-74.0004,194,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown10/27/2022,19:00,BROOKLYN,11226,40.6461,-73.9592,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown10/27/2022,7:32,BRONX,10472,40.8279,-73.8481,2271,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 10/06/2022,13:21,UNKNOWN_BOROUGH,00000,40.7073,-73.7512,0,1,0,1,0,0,0,0,0,Passing Too Closely,Unknown,Unknown
+[Node F] Duplicate: 10/27/2022,11:21,QUEENS,11102,40.772,-73.9189,0,1,0,0,0,0,0,1,0,Unsafe Lane Changing,Station Wagon/Sport Utility Vehicle,Bus10/25/2022,12:15,UNKNOWN_BOROUGH,00000,40.6063,-73.9755,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Sedan,Sedan
+[Node F] Duplicate: 10/27/2022,22:00,UNKNOWN_BOROUGH,00000,40.7048,-73.9393,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown10/26/2022,15:40,QUEENS,11102,40.7761,-73.9222,0,0,0,0,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/27/2022,15:10,UNKNOWN_BOROUGH,00000,40.8681,-73.9084,0,0,0,0,0,0,0,0,0,Obstruction/Debris,Box Truck,Sedan09/27/2022,20:00,MANHATTAN,10039,40.8219,-73.9358,101,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown10/27/2022,16:49,UNKNOWN_BOROUGH,00000,40.7289,-73.9278,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 10/26/2022,16:00,STATEN ISLAND,10312,40.5433,-74.1643,0,0,0,0,0,0,0,0,0,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Bus10/26/2022,10:23,UNKNOWN_BOROUGH,00000,40.8627,-73.9049,0,0,0,0,0,0,0,0,0,Oversized Vehicle,Tractor Truck Diesel,Unknown10/20/2022,8:45,MANHATTAN,10011,40.7441,-74.0068,0,1,0,1,0,0,0,0,0,Turning Improperly,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 10/28/2022,16:19,STATEN ISLAND,10306,40.5765,-74.1037,0,2,0,0,0,0,0,2,0,Unsafe Speed,Sedan,Station Wagon/Sport Utility Vehicle10/27/2022,8:45,BRONX,10451,40.8188,-73.9283,0,1,0,1,0,0,0,0,0,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Unknown10/26/2022,8:30,BROOKLYN,11211,40.7138,-73.9443,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Box Truck,Sedan
+[Node F] Duplicate: 10/27/2022,17:10,MANHATTAN,10016,40.7516,-73.9823,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Bus,Station Wagon/Sport Utility Vehicle10/28/2022,8:05,UNKNOWN_BOROUGH,00000,40.7254,-73.8945,0,0,0,0,0,0,0,0,0,Aggressive Driving/Road Rage,Sedan,Pick-up Truck
+[Node F] Duplicate: 10/27/2022,15:23,BROOKLYN,11233,40.6769,-73.9218,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle10/28/2022,15:28,MANHATTAN,10017,40.7504,-73.9687,1,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 10/28/2022,0:51,MANHATTAN,10016,0,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Unspecified,Bike,Unknown10/26/2022,23:30,BROOKLYN,11218,40.645,-73.9809,0,0,0,0,0,0,0,0,0,Reaction to Uninvolved Vehicle,Sedan,Station Wagon/Sport Utility Vehicle10/27/2022,16:55,UNKNOWN_BOROUGH,00000,40.6535,-73.8623,0,3,0,0,0,0,0,3,0,Following Too Closely,Pick-up Truck,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/24/2022,6:45,UNKNOWN_BOROUGH,00000,40.5836,-73.9841,0,1,0,0,0,0,0,1,0,Pavement Slippery,Sedan,Unknown10/27/2022,10:17,UNKNOWN_BOROUGH,00000,40.6007,-74.0101,0,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Tractor Truck Gasoline,Unknown10/23/2022,16:45,UNKNOWN_BOROUGH,00000,40.7207,-73.9782,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Pick-up Truck,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/28/2022,18:15,UNKNOWN_BOROUGH,00000,40.6274,-74.1666,0,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown02/04/2023,15:00,UNKNOWN_BOROUGH,00000,0,0,1,0,0,0,0,0,1,0,Following Too Closely,Following Too Closely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/27/2022,8:00,MANHATTAN,10009,40.7304,-73.9803,0,1,0,0,0,0,0,1,0,Backing Unsafely,Box Truck,Station Wagon/Sport Utility Vehicle10/28/2022,5:45,BROOKLYN,11201,40.6889,-73.9921,212,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Tractor Truck Diesel10/27/2022,8:40,QUEENS,11413,40.6687,-73.7482,0,0,0,0,0,0,0,0,0,View Obstructed/Limited,Station Wagon/Sport Utility Vehicle,Sedan10/27/2022,12:45,QUEENS,11375,40.7215,-73.844,0,0,0,0,0,0,0,0,0,Following Too Closely,Motorbike,Unknown
+[Node F] Duplicate: 10/26/2022,10:41,BRONX,10453,40.8619,-73.9128,0,0,0,0,0,0,0,0,0,Oversized Vehicle,Station Wagon/Sport Utility Vehicle,Unknown10/26/2022,22:50,BROOKLYN,11221,40.6862,-73.9163,1544,0,0,0,0,0,0,0,0,Unspecified,Sedan,Box Truck10/28/2022,15:06,QUEENS,11373,40.743,-73.883,81,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Bike
+[Node F] Duplicate: 09/05/2022,22:30,QUEENS,11417,40.6745,-73.8377,0,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Sedan10/26/2022,7:14,UNKNOWN_BOROUGH,00000,40.6796,-73.7964,0,0,0,0,0,0,0,0,0,Following Too Closely,Station Wagon/Sport Utility Vehicle,Sedan09/11/2022,5:57,QUEENS,11385,40.703,-73.8954,69,0,0,0,0,0,0,0,0,Turning Improperly,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/08/2022,17:20,BROOKLYN,11221,40.6875,-73.9146,0,0,0,0,0,0,0,0,0,Passing Too Closely,Sedan,Bus10/22/2022,19:27,MANHATTAN,10027,40.8081,-73.9527,2268,1,0,1,0,0,0,0,0,Other Vehicular,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/26/2022,18:36,BROOKLYN,11203,40.6371,-73.9346,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle10/27/2022,14:00,BRONX,10468,40.8597,-73.9065,2280,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Unknown10/26/2022,14:00,UNKNOWN_BOROUGH,00000,40.734,-73.9217,0,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/11/2022,20:14,BRONX,10472,40.8295,-73.8746,0,1,0,1,0,0,0,0,0,Unspecified,Van,Unknown10/27/2022,21:48,UNKNOWN_BOROUGH,00000,0,0,2,0,0,0,0,0,2,0,Unsafe Lane Changing,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 09/06/2022,16:09,BRONX,10451,40.8108,-73.9276,2535,0,0,0,0,0,0,0,0,Unspecified,Sedan,Sedan09/10/2022,7:00,STATEN ISLAND,10310,40.6289,-74.1162,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown
+[Node F] Duplicate: 09/11/2022,11:55,QUEENS,11413,40.6765,-73.7471,223,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown08/17/2022,13:39,MANHATTAN,10168,40.7514,-73.9761,0,1,0,0,0,0,0,0,0,Passing or Lane Usage Improper,E-Scooter,Bus09/06/2022,10:00,UNKNOWN_BOROUGH,00000,40.6091,-74.0915,0,1,0,0,0,0,0,1,0,Passing or Lane Usage Improper,Sedan,Sedan
+[Node F] Duplicate: 09/11/2022,7:29,UNKNOWN_BOROUGH,00000,40.832,-73.8557,0,1,0,0,0,0,0,1,0,Following Too Closely,Sedan,Box Truck09/10/2022,11:30,MANHATTAN,10019,40.7674,-73.9804,180,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown09/11/2022,10:40,QUEENS,11357,40.7787,-73.8062,0,1,0,0,0,0,0,1,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Sedan
+[Node F] Duplicate: 09/11/2022,22:26,UNKNOWN_BOROUGH,00000,40.6176,-74.0405,0,3,0,0,0,0,0,3,0,Unsafe Speed,Sedan,Unknown09/11/2022,17:44,BROOKLYN,11236,40.6324,-73.8882,0,1,0,1,0,0,0,0,0,Failure to Yield Right-of-Way,Station Wagon/Sport Utility Vehicle,Unknown09/11/2022,0:55,UNKNOWN_BOROUGH,00000,40.8358,-73.9495,0,2,0,0,0,0,0,2,0,Tire Failure/Inadequate,Taxi,Unknown
+[Node F] Duplicate: 09/11/2022,4:26,BROOKLYN,11237,40.7072,-73.9211,0,2,0,0,0,0,0,2,0,Unspecified,Sedan,Sedan09/11/2022,16:00,QUEENS,11367,40.7339,-73.8169,152,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown09/11/2022,13:00,STATEN ISLAND,10312,40.5465,-74.1804,0,4,0,0,0,0,0,4,0,Failure to Yield Right-of-Way,Sedan,Sedan08/31/2022,17:48,QUEENS,11434,40.6675,-73.7806,0,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/11/2022,11:03,BROOKLYN,11236,40.6442,-73.8985,929,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown09/11/2022,19:40,BROOKLYN,11208,40.6814,-73.8802,0,1,0,1,0,0,0,0,0,Unspecified,LIMO,Unknown
+[Node F] Duplicate: 09/11/2022,2:25,QUEENS,11417,40.6776,-73.8476,107,0,0,0,0,0,0,0,0,Passing or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Unknown09/11/2022,16:30,BROOKLYN,11206,40.7099,-73.9393,244,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown
+[Node F] Duplicate: 10/28/2022,15:30,BRONX,10458,40.8636,-73.8918,0,1,0,0,0,0,0,1,0,Unsafe Speed,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/04/2022,4:55,BROOKLYN,11231,40.6765,-73.9987,0,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/27/2022,17:50,UNKNOWN_BOROUGH,00000,0,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unknown,Unknown,Unknown
+[Node F] Duplicate: 09/11/2022,8:39,BRONX,10462,40.8366,-73.8609,1448,0,0,0,0,0,0,0,0,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown10/25/2022,15:00,BRONX,10472,40.8322,-73.8652,1824,0,0,0,0,0,0,0,0,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/26/2022,14:32,BRONX,10467,40.8655,-73.8624,0,2,0,0,0,0,0,2,0,Passing Too Closely,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 09/09/2022,23:12,BROOKLYN,11212,40.6573,-73.925,321,0,0,0,0,0,0,0,0,Unspecified,Sedan,Station Wagon/Sport Utility Vehicle
+[Node F] Duplicate: 10/28/2022,17:50,STATEN ISLAND,10306,40.5775,-74.1084,0,0,0,0,0,0,0,0,0,Following Too Closely,Sedan,Pick-up Truck10/28/2022,9:25,BROOKLYN,11226,40.6429,-73.9536,0,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,E-Bike
+[Node F] Duplicate: 09/11/2022,18:00,MANHATTAN,10001,40.7566,-74.0038,655,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Station Wagon/Sport Utility Vehicle10/28/2022,0:00,BROOKLYN,11212,0,0,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Unspecified,E-Bike,Unknown
+[Node F] Duplicate: 10/26/2022,6:00,QUEENS,11373,40.7366,-73.8795,52,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Unknown10/24/2022,11:35,QUEENS,11101,40.7351,-73.9359,32,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Sedan,Box Truck
+[Node F] Duplicate: 10/28/2022,23:30,QUEENS,11354,40.7647,-73.8307,0,0,0,0,0,0,0,0,0,Passing Too Closely,Sedan,Station Wagon/Sport Utility Vehicle10/27/2022,15:40,MANHATTAN,10026,40.8025,-73.9507,120,2,0,0,0,0,0,2,0,Backing Unsafely,Sedan,Sedan
+[Node F] Duplicate: 10/27/2022,21:28,UNKNOWN_BOROUGH,00000,40.7216,-73.9419,0,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Chassis Cab,Chassis Cab10/24/2022,16:00,QUEENS,11004,40.7533,-73.7068,270,0,0,0,0,0,0,0,0,Unspecified,Sedan,Unknown
+[Node F] Duplicate: 10/27/2022,17:30,BROOKLYN,11208,40.6642,-73.8725,1010,0,0,0,0,0,0,0,0,View Obstructed/Limited,Tractor Truck Diesel,Unknown10/26/2022,7:50,BRONX,10474,40.803,-73.8689,355,0,0,0,0,0,0,0,0,Backing Unsafely,Box Truck,Box Truck
+[Node F] Duplicate: 10/26/2022,10:40,QUEENS,11378,40.7277,-73.9067,0,1,0,0,0,0,0,1,0,Fell Asleep,Box Truck,Sedan02/04/2023,9:17,BRONX,10459,40.8288,-73.8964,0,1,0,0,0,0,0,1,0,Unspecified,Station Wagon/Sport Utility Vehicle,Station Wagon/Sport Utility Vehicle10/28/2022,19:50,UNKNOWN_BOROUGH,00000,0,0,2,0,0,0,0,0,2,0,Turning Improperly,Unspecified,Sedan,Unknown

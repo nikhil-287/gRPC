@@ -1,0 +1,5 @@
+Messages Processed: 174546
+Duplicates Skipped: 0
+Messages Forwarded: 173854
+Total Time (ms): 1217527
+Throughput (msg/sec): 143
