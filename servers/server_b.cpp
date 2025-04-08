@@ -86,7 +86,7 @@ void RunServer()
   std::string address("0.0.0.0:50052");
   DataServiceImpl service;
 
-  init_workers(3, config); // ✅ After memory init
+  init_workers(3, config);
 
   ServerBuilder builder;
   builder.AddListeningPort(address, grpc::InsecureServerCredentials());

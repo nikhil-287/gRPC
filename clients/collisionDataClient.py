@@ -1,7 +1,14 @@
 import grpc
 import threading
+import json
 from data_pb2 import DataRequest, Empty
 from data_pb2_grpc import DataServiceStub
+
+def load_port_from_config():
+    with open('../routing.json', 'r') as f:
+        config = json.load(f)
+        address = config['address_map']['A']  # Correct path
+        return address.split(':')[-1]  # Extract port (e.g., '50057')
 
 def send_chunk_from_file(filename, stub):
     with open(filename, 'r') as f:
@@ -22,11 +29,10 @@ def main():
         "client3_data.txt"
     ]
 
-    # Connect to Node A
-    channel = grpc.insecure_channel('localhost:50051')
+    port = load_port_from_config()
+    channel = grpc.insecure_channel(f'localhost:{port}')
     stub = DataServiceStub(channel)
 
-    # Create one thread per file
     threads = []
     for file in filenames:
         t = threading.Thread(target=send_chunk_from_file, args=(file, stub))
